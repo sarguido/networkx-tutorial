@@ -30,8 +30,10 @@ if not params and 'last' in params:
     params = tapi.get_next_params(resource, params)
 
 # check fields
+
 missing_fields = [field for field in resource['filename_fields']
                   if field not in params
+                  and 'summarize_filename_prefix' in resource
                   and field not in resource['summarize_filename_prefix']]
 
 if missing_fields:
