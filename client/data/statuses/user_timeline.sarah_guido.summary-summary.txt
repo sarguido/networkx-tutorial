@@ -1,0 +1,19 @@
+count	filename	created_at	id	entities|user_mentions|screen_name	entities|media|type	favorite_count	retweet_count	retweeted_status|id	retweeted_status|favorite_count	retweeted_status|retweet_count	retweeted_status|created_at	entities|media|url	text
+200		Thu Jan 29 22:01:06 +0000 2015	560920598696976384	AlanaMassey	0	0	0	0	0	0	0	0	I normally don't retweet this kind of thing, but this is fantastic and hilarious. RT @AlanaMassey http://t.co/191nZt9j8V
+200		Thu Sep 25 21:56:18 +0000 2014	515258516379291648	0	0	6	0	0	0	0	0	0	So lucky I get to work with a bunch of people who are passionate and driven to make both the product and the culture the best it can be.
+200	15258516379291648	Thu Sep 25 21:56:18 +0000 2014	515258516379291648	0	0	6	0	0	0	0	0	0	So lucky I get to work with a bunch of people who are passionate and driven to make both the product and the culture the best it can be.
+200	15258516379291648	Tue Jul 22 02:43:17 +0000 2014	491413142883147777	oscon|pkafei	photo	2	1	0	0	0	0	http://t.co/cUlDJP81c4	Chillin at @oscon with @pkafei! http://t.co/cUlDJP81c4
+199	91413142883147777	Tue Jul 22 02:43:17 +0000 2014	491413142883147777	oscon|pkafei	photo	2	1	0	0	0	0	http://t.co/cUlDJP81c4	Chillin at @oscon with @pkafei! http://t.co/cUlDJP81c4
+199	91413142883147777	Sun May 04 19:58:11 +0000 2014	463044942084857856	mrocklin|PyDataConf	0	15	8	0	0	0	0	0	Pipe is probably the coolest function ever. @mrocklin’s talk is awesome. Check out http://t.co/pFu7LbVHbm @PyDataConf #pydata #pydatasv
+200	63044942084857856	Sun May 04 19:58:11 +0000 2014	463044942084857856	mrocklin|PyDataConf	0	15	8	0	0	0	0	0	Pipe is probably the coolest function ever. @mrocklin’s talk is awesome. Check out http://t.co/pFu7LbVHbm @PyDataConf #pydata #pydatasv
+200	63044942084857856	Wed Apr 02 20:53:25 +0000 2014	451462430565351425	0	0	1	0	0	0	0	0	0	Just figured out how to join between two different databases on two different servers. #ihavethepowerrrrr
+200	51462430565351425	Wed Apr 02 20:53:25 +0000 2014	451462430565351425	0	0	1	0	0	0	0	0	0	Just figured out how to join between two different databases on two different servers. #ihavethepowerrrrr
+200	51462430565351425	Wed Jan 15 22:38:36 +0000 2014	423585033266675712	OReillyMedia|simonstl	0	0	12	423562858811887616	0	12	Wed Jan 15 21:10:29 +0000 2014	0	RT @OReillyMedia: The #OSCON call for proposals closes on January 30th. @simonstl tells us how to propose a compelling OSCON talk http://t.…
+199	23585033266675712	Wed Jan 15 22:38:36 +0000 2014	423585033266675712	OReillyMedia|simonstl	0	0	12	423562858811887616	0	12	Wed Jan 15 21:10:29 +0000 2014	0	RT @OReillyMedia: The #OSCON call for proposals closes on January 30th. @simonstl tells us how to propose a compelling OSCON talk http://t.…
+199	23585033266675712	Sun Nov 10 17:11:56 +0000 2013	399585226865016832	emchenNYC	0	0	0	0	0	0	0	0	Amazon EMR: running Hadoop jobs via Amazon Web Services. Very cool! @emchenNYC #PyData
+200	99585226865016832	Sun Nov 10 17:11:56 +0000 2013	399585226865016832	emchenNYC	0	0	0	0	0	0	0	0	Amazon EMR: running Hadoop jobs via Amazon Web Services. Very cool! @emchenNYC #PyData
+200	99585226865016832	Mon Jul 15 23:45:47 +0000 2013	356922573675696128	0	photo	0	0	0	0	0	0	http://t.co/ARIsasifnL	NY Phil concert in the park. VIP seats. More perks of having an NY Phil intern friend! http://t.co/ARIsasifnL
+200	56922573675696128	Mon Jul 15 23:45:47 +0000 2013	356922573675696128	0	photo	0	0	0	0	0	0	http://t.co/ARIsasifnL	NY Phil concert in the park. VIP seats. More perks of having an NY Phil intern friend! http://t.co/ARIsasifnL
+200	56922573675696128	Sun Apr 07 03:37:13 +0000 2013	320742030890381313	0	0	0	0	0	0	0	0	0	Woooooooooow. That's pretty cool! #goblue
+199	20742030890381313	Sun Apr 07 03:37:13 +0000 2013	320742030890381313	0	0	0	0	0	0	0	0	0	Woooooooooow. That's pretty cool! #goblue
+199	20742030890381313	Thu Jan 31 23:06:13 +0000 2013	297118616833380352	0	0	0	0	0	0	0	0	0	@paulhendrixson We could do dinner! How about 8:30?

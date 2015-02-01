@@ -1,0 +1,9 @@
+count	filename	created_at	id	entities|user_mentions|screen_name	entities|media|type	favorite_count	retweet_count	retweeted_status|id	retweeted_status|favorite_count	retweeted_status|retweet_count	retweeted_status|created_at	entities|media|url	text
+200		Sun Dec 14 01:33:21 +0000 2014	543941781176741889	nycpython|PaulLogston	photo	0	4	543873997335965697	2	4	Sat Dec 13 21:04:00 +0000 2014	http://t.co/JtRRysznyo	RT @nycpython: @PaulLogston was a hit at #hourofcode http://t.co/JtRRysznyo
+200		Tue Jul 02 00:39:47 +0000 2013	351862733551058944	goldieblox|ToysRUs|JenSiebelNewsom	0	0	0	0	0	0	0	0	Engineering toys for girls - YES! @goldieblox  @ToysRUs @JenSiebelNewsom http://t.co/SXzDNZkzDC
+1	7981344797499392	Tue May 10 15:56:30 +0000 2011	67981344797499392	0	0	0	0	0	0	0	0	0	How 6 Top Women Entrepreneurs Grew Their Companies Like Crazy http://t.co/Meb61WF
+1	7981344797499392	Tue May 10 15:56:30 +0000 2011	67981344797499392	0	0	0	0	0	0	0	0	0	How 6 Top Women Entrepreneurs Grew Their Companies Like Crazy http://t.co/Meb61WF
+199	51862733551058944	Tue Jul 02 00:39:47 +0000 2013	351862733551058944	goldieblox|ToysRUs|JenSiebelNewsom	0	0	0	0	0	0	0	0	Engineering toys for girls - YES! @goldieblox  @ToysRUs @JenSiebelNewsom http://t.co/SXzDNZkzDC
+199	51862733551058944	Sun Mar 04 16:02:45 +0000 2012	176336888901283840	Daily_Good	0	0	8	171511018307059713	1	8	Mon Feb 20 08:26:27 +0000 2012	0	RT @Daily_Good: #dailygood The greatest pleasure in life, is doing the things people say we cannot do. http://t.co/KiUlJSye
+44	76336888901283840	Sun Mar 04 16:02:45 +0000 2012	176336888901283840	Daily_Good	0	0	8	171511018307059713	1	8	Mon Feb 20 08:26:27 +0000 2012	0	RT @Daily_Good: #dailygood The greatest pleasure in life, is doing the things people say we cannot do. http://t.co/KiUlJSye
+44	76336888901283840	Tue May 10 15:56:30 +0000 2011	67981344797499392	0	0	0	0	0	0	0	0	0	How 6 Top Women Entrepreneurs Grew Their Companies Like Crazy http://t.co/Meb61WF

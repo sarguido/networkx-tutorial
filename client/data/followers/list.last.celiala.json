@@ -1,0 +1,10 @@
+{
+    "params": {
+        "cursor": "0", 
+        "screen_name": "celiala"
+    }, 
+    "result": {
+        "next_cursor": 0, 
+        "num_items": null
+    }
+}
