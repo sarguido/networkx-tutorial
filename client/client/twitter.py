@@ -38,13 +38,14 @@ class TwitterAPI(object):
             other_params = data
             if type(data) is list:
                 other_params = data[0]
-            for field in resource['summarize_filename_prefix']:
-                keys = field.split("|")
-                value = DataAPI.find_key(other_params, keys)
-                if value:
-                    params[field] = value
-                else:
-                    resource['filename_fields'].remove(field)
+            if 'summarize_filename_prefix' in resource:
+                for field in resource['summarize_filename_prefix']:
+                    keys = field.split("|")
+                    value = DataAPI.find_key(other_params, keys)
+                    if value:
+                        params[field] = value
+                    else:
+                        resource['filename_fields'].remove(field)
 
             file_path = TwitterAPI.get_filename(resource['url'], params, resource['filename_fields'])
             TwitterAPI.save_resource(data, file_path)
