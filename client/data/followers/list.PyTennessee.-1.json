@@ -963,7 +963,7 @@
                     "text": "An open source repo for responsive dashboard templates http://t.co/zGXAVlFPSd http://t.co/9RfeVGVhfO", 
                     "in_reply_to_status_id": null, 
                     "id": 537387240716914688, 
-                    "favorite_count": 1873, 
+                    "favorite_count": 1874, 
                     "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>", 
                     "retweeted": false, 
                     "coordinates": null, 
@@ -1100,7 +1100,7 @@
                     "urls": []
                 }
             }, 
-            "followers_count": 18586, 
+            "followers_count": 18587, 
             "profile_sidebar_border_color": "EEEEEE", 
             "id_str": "1257598033", 
             "profile_background_color": "131516", 
@@ -1197,7 +1197,7 @@
             "utc_offset": null, 
             "statuses_count": 6794, 
             "description": "The User Group for PHP developers without a local User Group. Join the World Wide Herd of ElePHPants.", 
-            "friends_count": 7595, 
+            "friends_count": 7601, 
             "location": "Everywhere", 
             "profile_link_color": "009999", 
             "profile_image_url": "http://pbs.twimg.com/profile_images/461139857033543682/7a6ZnuAn_normal.png", 
@@ -2747,7 +2747,7 @@
             "location": "Manhattan, NY", 
             "profile_link_color": "1F98C7", 
             "profile_image_url": "http://pbs.twimg.com/profile_images/1409710317/fsuprofilecyangreydarker_normal.jpg", 
-            "following": true, 
+            "following": false, 
             "geo_enabled": true, 
             "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
             "name": "Aaron Hall, MBA", 
@@ -3920,7 +3920,7 @@
                     "urls": []
                 }
             }, 
-            "followers_count": 112, 
+            "followers_count": 111, 
             "profile_sidebar_border_color": "000000", 
             "id_str": "15181321", 
             "profile_background_color": "000000", 
@@ -4347,7 +4347,7 @@
                     "urls": []
                 }
             }, 
-            "followers_count": 457281, 
+            "followers_count": 457282, 
             "profile_sidebar_border_color": "000000", 
             "id_str": "18040878", 
             "profile_background_color": "000000", 
@@ -4464,7 +4464,7 @@
             "utc_offset": -18000, 
             "statuses_count": 40181, 
             "description": "Digital Strategist for Lil Wayne , Nicki Minaj, etc | Artist : Fuze the Mc  |\nFounder of Playola & Noble Black Society | @Howardu Alum | ZooLabs #electrospit", 
-            "friends_count": 493530, 
+            "friends_count": 493531, 
             "location": "Bay Area , CA", 
             "profile_link_color": "000000", 
             "profile_image_url": "http://pbs.twimg.com/profile_images/509541676432384000/xaVytyvD_normal.jpeg", 
@@ -4722,7 +4722,7 @@
                     "urls": []
                 }
             }, 
-            "followers_count": 1141446, 
+            "followers_count": 1141413, 
             "profile_sidebar_border_color": "000000", 
             "id_str": "805230144", 
             "profile_background_color": "584D5E", 
@@ -4749,7 +4749,7 @@
                 "in_reply_to_screen_name": null, 
                 "id_str": "561958007257722881", 
                 "place": null, 
-                "retweet_count": 572, 
+                "retweet_count": 574, 
                 "geo": null, 
                 "id": 561958007257722881, 
                 "favorite_count": 497, 
@@ -4759,7 +4759,7 @@
             "utc_offset": 0, 
             "statuses_count": 19245, 
             "description": "I make money 24/7 FROM #PENNYSTOCKS ! !! Follow me to the LAND OF MILK & HONEY !!!!!! \r\n#TEAMFAM HAS THE LARGEST #PENNYSTOCK NETWORK ON EARTH \r\nSKYPE: teamfam6", 
-            "friends_count": 96509, 
+            "friends_count": 96510, 
             "location": "bigmoneymike6@gmail.com", 
             "profile_link_color": "3B121F", 
             "profile_image_url": "http://pbs.twimg.com/profile_images/2580344254/10345734-3d-man-putting-dollar-stack-concept-of-making-money_normal.jpg", 
@@ -5568,10 +5568,20 @@
                     "symbols": [], 
                     "user_mentions": [
                         {
-                            "id": 22536055, 
+                            "id": 911358968, 
                             "indices": [
                                 0, 
-                                12
+                                13
+                            ], 
+                            "id_str": "911358968", 
+                            "screen_name": "hygeineology", 
+                            "name": "walter leroy hubbard"
+                        }, 
+                        {
+                            "id": 22536055, 
+                            "indices": [
+                                14, 
+                                26
                             ], 
                             "id_str": "22536055", 
                             "screen_name": "AmericanAir", 
@@ -5583,26 +5593,26 @@
                 }, 
                 "contributors": null, 
                 "truncated": false, 
-                "text": "@americanair Thanks. Just sent record locator via DM.", 
-                "created_at": "Sun Feb 01 19:11:08 +0000 2015", 
+                "text": "@hygeineology @americanair They did contact me and are looking into it. Hopefully it'll be resolved shortly and I can change my tune. ;)", 
+                "created_at": "Sun Feb 01 19:23:36 +0000 2015", 
                 "retweeted": false, 
-                "in_reply_to_status_id_str": "561964528359858176", 
+                "in_reply_to_status_id_str": "561967548069974017", 
                 "coordinates": null, 
-                "in_reply_to_user_id_str": "22536055", 
+                "in_reply_to_user_id_str": "911358968", 
                 "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
-                "in_reply_to_status_id": 561964528359858176, 
-                "in_reply_to_screen_name": "AmericanAir", 
-                "id_str": "561964987305185280", 
+                "in_reply_to_status_id": 561967548069974017, 
+                "in_reply_to_screen_name": "hygeineology", 
+                "id_str": "561968122937487361", 
                 "place": null, 
                 "retweet_count": 0, 
                 "geo": null, 
-                "id": 561964987305185280, 
-                "favorite_count": 0, 
-                "in_reply_to_user_id": 22536055
+                "id": 561968122937487361, 
+                "favorite_count": 1, 
+                "in_reply_to_user_id": 911358968
             }, 
             "is_translation_enabled": false, 
             "utc_offset": -21600, 
-            "statuses_count": 5852, 
+            "statuses_count": 5853, 
             "description": "Developer of software and people at @Keen_IO. Lover of tattoos, whiskey, and rainbows. @gSchool alum", 
             "friends_count": 386, 
             "location": "San Francisco, CA", 
@@ -6452,14 +6462,14 @@
                     "symbols": [], 
                     "user_mentions": [
                         {
-                            "id": 20325888, 
+                            "id": 1038630643, 
                             "indices": [
                                 0, 
-                                13
+                                7
                             ], 
-                            "id_str": "20325888", 
-                            "screen_name": "Rachel_Drury", 
-                            "name": "Rachel Drury"
+                            "id_str": "1038630643", 
+                            "screen_name": "rgbkrk", 
+                            "name": "Kyle R Kelley"
                         }
                     ], 
                     "hashtags": [], 
@@ -6467,26 +6477,26 @@
                 }, 
                 "contributors": null, 
                 "truncated": false, 
-                "text": "@Rachel_Drury Collusion looks really fabulous.", 
-                "created_at": "Sun Feb 01 19:18:03 +0000 2015", 
+                "text": "@rgbkrk contributions from many and a focus on \"Beautiful is better than ugly\" community conduct.", 
+                "created_at": "Sun Feb 01 19:30:03 +0000 2015", 
                 "retweeted": false, 
-                "in_reply_to_status_id_str": null, 
+                "in_reply_to_status_id_str": "561662538631643136", 
                 "coordinates": null, 
-                "in_reply_to_user_id_str": "20325888", 
+                "in_reply_to_user_id_str": "1038630643", 
                 "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
-                "in_reply_to_status_id": null, 
-                "in_reply_to_screen_name": "Rachel_Drury", 
-                "id_str": "561966726871781376", 
+                "in_reply_to_status_id": 561662538631643136, 
+                "in_reply_to_screen_name": "rgbkrk", 
+                "id_str": "561969747672465408", 
                 "place": null, 
                 "retweet_count": 0, 
                 "geo": null, 
-                "id": 561966726871781376, 
+                "id": 561969747672465408, 
                 "favorite_count": 0, 
-                "in_reply_to_user_id": 20325888
+                "in_reply_to_user_id": 1038630643
             }, 
             "is_translation_enabled": false, 
             "utc_offset": -28800, 
-            "statuses_count": 2155, 
+            "statuses_count": 2158, 
             "description": "Learn. Build. Share. Open Source software and hardware developer.   FabLab San Diego Geek.  Gentle tech learning at http://t.co/SLT2NYWh24", 
             "friends_count": 1939, 
             "location": "San Diego", 
@@ -6499,7 +6509,7 @@
             "name": "Carol Willing", 
             "lang": "en", 
             "profile_background_tile": true, 
-            "favourites_count": 3854, 
+            "favourites_count": 3859, 
             "screen_name": "WillingCarol", 
             "notifications": false, 
             "url": "http://t.co/MfSMps9A6P", 
@@ -7185,7 +7195,7 @@
                 }, 
                 "in_reply_to_screen_name": null, 
                 "id_str": "561956846991585281", 
-                "retweet_count": 1719, 
+                "retweet_count": 1758, 
                 "in_reply_to_user_id": null, 
                 "favorited": false, 
                 "retweeted_status": {
@@ -7194,7 +7204,7 @@
                     "text": "Made a snack for tonight's Super Bowl, that should see me through the first quarter. http://t.co/OHV8Z81PcH", 
                     "in_reply_to_status_id": null, 
                     "id": 561931153930997762, 
-                    "favorite_count": 1834, 
+                    "favorite_count": 1881, 
                     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
                     "retweeted": false, 
                     "coordinates": null, 
@@ -7244,7 +7254,7 @@
                     }, 
                     "in_reply_to_screen_name": null, 
                     "id_str": "561931153930997762", 
-                    "retweet_count": 1719, 
+                    "retweet_count": 1758, 
                     "in_reply_to_user_id": null, 
                     "favorited": false, 
                     "geo": null, 
@@ -7530,7 +7540,7 @@
                 }, 
                 "in_reply_to_screen_name": null, 
                 "id_str": "561967278171107329", 
-                "retweet_count": 6, 
+                "retweet_count": 13, 
                 "in_reply_to_user_id": null, 
                 "favorited": false, 
                 "retweeted_status": {
@@ -7594,7 +7604,7 @@
                         "id": "7f55e839e1715da2", 
                         "name": "Camberwell"
                     }, 
-                    "retweet_count": 6, 
+                    "retweet_count": 13, 
                     "geo": {
                         "type": "Point", 
                         "coordinates": [
@@ -7603,7 +7613,7 @@
                         ]
                     }, 
                     "id": 561966761332199424, 
-                    "favorite_count": 14, 
+                    "favorite_count": 23, 
                     "in_reply_to_user_id": null
                 }, 
                 "geo": null, 
@@ -10672,7 +10682,7 @@
                     ]
                 }
             }, 
-            "followers_count": 13791, 
+            "followers_count": 13790, 
             "profile_sidebar_border_color": "FFFFFF", 
             "id_str": "12497", 
             "profile_background_color": "000000", 
@@ -11843,7 +11853,7 @@
                     "urls": []
                 }
             }, 
-            "followers_count": 1445, 
+            "followers_count": 1446, 
             "profile_sidebar_border_color": "EEEEEE", 
             "id_str": "10287682", 
             "profile_background_color": "ACDED6", 
@@ -13564,7 +13574,7 @@
             "location": "North Carolina", 
             "profile_link_color": "4A913C", 
             "profile_image_url": "http://pbs.twimg.com/profile_images/1908892950/for_twitter_normal.jpg", 
-            "following": false, 
+            "following": true, 
             "geo_enabled": false, 
             "profile_banner_url": "https://pbs.twimg.com/profile_banners/288910494/1412087631", 
             "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
@@ -14670,7 +14680,7 @@
                     "retweet_count": 35, 
                     "geo": null, 
                     "id": 561646454801170433, 
-                    "favorite_count": 50, 
+                    "favorite_count": 51, 
                     "in_reply_to_user_id": null
                 }, 
                 "geo": null, 
@@ -14688,7 +14698,7 @@
             "location": "Northern Virginia", 
             "profile_link_color": "0084B4", 
             "profile_image_url": "http://pbs.twimg.com/profile_images/378800000847310751/c9091bb25d2317f82bb37b06799e62e8_normal.png", 
-            "following": false, 
+            "following": true, 
             "geo_enabled": false, 
             "profile_banner_url": "https://pbs.twimg.com/profile_banners/896384784/1369956626", 
             "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/809862690/0e088fa7891fb3932187a6f28c1b1480.png", 
@@ -15424,7 +15434,7 @@
                 }, 
                 "in_reply_to_screen_name": null, 
                 "id_str": "561549131706294275", 
-                "retweet_count": 1506, 
+                "retweet_count": 1507, 
                 "in_reply_to_user_id": null, 
                 "favorited": false, 
                 "retweeted_status": {
@@ -15483,7 +15493,7 @@
                     }, 
                     "in_reply_to_screen_name": null, 
                     "id_str": "559729317270523905", 
-                    "retweet_count": 1506, 
+                    "retweet_count": 1507, 
                     "in_reply_to_user_id": null, 
                     "favorited": false, 
                     "geo": null, 
@@ -17507,7 +17517,7 @@
                 }, 
                 "in_reply_to_screen_name": null, 
                 "id_str": "561959754411814913", 
-                "retweet_count": 129, 
+                "retweet_count": 132, 
                 "in_reply_to_user_id": null, 
                 "favorited": false, 
                 "retweeted_status": {
@@ -17516,7 +17526,7 @@
                     "text": "Leave me alone ... http://t.co/6D8DhqJAut", 
                     "in_reply_to_status_id": null, 
                     "id": 561904561645162496, 
-                    "favorite_count": 102, 
+                    "favorite_count": 103, 
                     "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
                     "retweeted": false, 
                     "coordinates": null, 
@@ -17566,7 +17576,7 @@
                     }, 
                     "in_reply_to_screen_name": null, 
                     "id_str": "561904561645162496", 
-                    "retweet_count": 129, 
+                    "retweet_count": 132, 
                     "in_reply_to_user_id": null, 
                     "favorited": false, 
                     "geo": null, 
@@ -19974,7 +19984,7 @@
                 }, 
                 "in_reply_to_screen_name": null, 
                 "id_str": "561917824172838913", 
-                "retweet_count": 2690, 
+                "retweet_count": 2692, 
                 "in_reply_to_user_id": null, 
                 "favorited": false, 
                 "retweeted_status": {
@@ -19983,7 +19993,7 @@
                     "text": "Unix commands turned into companies by @goodmachine at @thingmonk http://t.co/9ENWpr9amx", 
                     "in_reply_to_status_id": null, 
                     "id": 540082437607657472, 
-                    "favorite_count": 1401, 
+                    "favorite_count": 1402, 
                     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
                     "retweeted": false, 
                     "coordinates": null, 
@@ -20054,7 +20064,7 @@
                     }, 
                     "in_reply_to_screen_name": null, 
                     "id_str": "540082437607657472", 
-                    "retweet_count": 2690, 
+                    "retweet_count": 2692, 
                     "in_reply_to_user_id": null, 
                     "favorited": false, 
                     "geo": null, 
@@ -23040,10 +23050,10 @@
             "status": {
                 "contributors": null, 
                 "truncated": false, 
-                "text": "Presented without comment. http://t.co/uJsnBrd30X", 
+                "text": "Came across this yesterday on Facebook and I love it. http://t.co/0h9DkO0Q2q", 
                 "in_reply_to_status_id": null, 
-                "id": 561806395973332993, 
-                "favorite_count": 1, 
+                "id": 561970306764779521, 
+                "favorite_count": 0, 
                 "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", 
                 "retweeted": false, 
                 "coordinates": null, 
@@ -23053,18 +23063,18 @@
                     "hashtags": [], 
                     "urls": [
                         {
-                            "url": "http://t.co/uJsnBrd30X", 
+                            "url": "http://t.co/0h9DkO0Q2q", 
                             "indices": [
-                                27, 
-                                49
+                                54, 
+                                76
                             ], 
-                            "expanded_url": "http://instagram.com/p/yjV1cgQXOo/", 
-                            "display_url": "instagram.com/p/yjV1cgQXOo/"
+                            "expanded_url": "http://instagram.com/p/ykgX3nQXIc/", 
+                            "display_url": "instagram.com/p/ykgX3nQXIc/"
                         }
                     ]
                 }, 
                 "in_reply_to_screen_name": null, 
-                "id_str": "561806395973332993", 
+                "id_str": "561970306764779521", 
                 "retweet_count": 0, 
                 "in_reply_to_user_id": null, 
                 "favorited": false, 
@@ -23072,19 +23082,19 @@
                 "in_reply_to_user_id_str": null, 
                 "possibly_sensitive": false, 
                 "lang": "en", 
-                "created_at": "Sun Feb 01 08:40:57 +0000 2015", 
+                "created_at": "Sun Feb 01 19:32:16 +0000 2015", 
                 "in_reply_to_status_id_str": null, 
                 "place": null
             }, 
             "is_translation_enabled": false, 
             "utc_offset": -28800, 
-            "statuses_count": 11349, 
+            "statuses_count": 11350, 
             "description": "Linguist \u2192 Software Engineer @keen_io. I have been described as a strong, independent woman with a nice butt like Beyonce.", 
             "friends_count": 865, 
             "location": "", 
             "profile_link_color": "9266CC", 
             "profile_image_url": "http://pbs.twimg.com/profile_images/560628874950615040/NsAHqi1a_normal.jpeg", 
-            "following": false, 
+            "following": true, 
             "geo_enabled": true, 
             "profile_banner_url": "https://pbs.twimg.com/profile_banners/451862674/1414743701", 
             "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000123270318/b092f8094d420982e7d7209772c73b77.jpeg", 
@@ -23831,7 +23841,7 @@
             "name": "PyLadies Argentina", 
             "lang": "es", 
             "profile_background_tile": false, 
-            "favourites_count": 547, 
+            "favourites_count": 548, 
             "screen_name": "pyladiesARG", 
             "notifications": false, 
             "url": "http://t.co/aFyl3tkexe", 
