@@ -26,7 +26,7 @@ if resource_params:
             value = None
         params[pair[0]] = value
 
-if not params and 'last' in params:
+if 'last' in params:
     params = tapi.get_next_params(resource, params)
 
 # check fields
