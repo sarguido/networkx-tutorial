@@ -1,0 +1,227 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: Less than 110 tickets left! http://t.co/agTBHVXg8l #python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 542785536612524033, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        68, 
+                        75
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        76, 
+                        85
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/agTBHVXg8l", 
+                    "indices": [
+                        45, 
+                        67
+                    ], 
+                    "expanded_url": "http://buff.ly/1qnFYQb", 
+                    "display_url": "buff.ly/1qnFYQb"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "542785536612524033", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Less than 110 tickets left! http://t.co/agTBHVXg8l #python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 542785335290515456, 
+            "favorite_count": 0, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            51, 
+                            58
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            59, 
+                            68
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/agTBHVXg8l", 
+                        "indices": [
+                            28, 
+                            50
+                        ], 
+                        "expanded_url": "http://buff.ly/1qnFYQb", 
+                        "display_url": "buff.ly/1qnFYQb"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "542785335290515456", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Wed Dec 10 20:58:03 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 274782693, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/535421339301994496/JLXQsk2A_normal.jpeg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 53, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "274782693", 
+            "profile_background_color": "000000", 
+            "listed_count": 7, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 303, 
+            "description": "Father, husband, dev-ops wanna-be, running legacy code from the late 70's and has yet to require a full system reboot. Uptime: 12821 Days 6 Hours, 3 min", 
+            "friends_count": 230, 
+            "location": "Somewhere in Extended memory", 
+            "profile_link_color": "4A913C", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/535421339301994496/JLXQsk2A_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/274782693/1417560265", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Harold Smith", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 21, 
+            "screen_name": "Zanderfain", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Thu Mar 31 01:07:22 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Wed Dec 10 20:58:51 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

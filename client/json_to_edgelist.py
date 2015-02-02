@@ -72,7 +72,7 @@ class Relationships(object):
         flat_relationships = []
         for source in relationships:
             for retweeter in relationships[source]:
-                flat_relationships.append("%s\t%s\t%s" % (
+                flat_relationships.append("%s %s {'weight': %s}" % (
                     source,
                     retweeter,
                     relationships[source][retweeter]))

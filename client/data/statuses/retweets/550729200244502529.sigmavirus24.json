@@ -1,0 +1,621 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @sigmavirus24: Reminder to everyone that @PyTennessee is approaching quickly!", 
+        "in_reply_to_status_id": null, 
+        "id": 550862721118244864, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 623301125, 
+                    "indices": [
+                        3, 
+                        16
+                    ], 
+                    "id_str": "623301125", 
+                    "screen_name": "sigmavirus24", 
+                    "name": "RFCs of Futures Past"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        44, 
+                        56
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550862721118244864", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Reminder to everyone that @PyTennessee is approaching quickly!", 
+            "in_reply_to_status_id": null, 
+            "id": 550729200244502529, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            26, 
+                            38
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550729200244502529", 
+            "retweet_count": 3, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 623301125, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Ek0GDzBQ24", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "expanded_url": "https://github.com/sigmavirus24", 
+                                "display_url": "github.com/sigmavirus24"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 470, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "623301125", 
+                "profile_background_color": "FFFFFF", 
+                "listed_count": 49, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 12545, 
+                "description": "Open Sources Many Things: github3.py, betamax, python-requests, requests-toolbelt. I translate ABNF to code as a Service. Box&lt;Opinions&gt; (they are my own)", 
+                "friends_count": 225, 
+                "location": "Madison, WI", 
+                "profile_link_color": "444444", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "RFCs of Futures Past", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 7850, 
+                "screen_name": "sigmavirus24", 
+                "notifications": false, 
+                "url": "https://t.co/Ek0GDzBQ24", 
+                "created_at": "Sun Jul 01 01:35:59 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Jan 01 19:04:08 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 636831107, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2406967450/iy35tdjap1dio8acre9l_normal.png", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/mmylw8eFZb", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://ashfall.github.com/", 
+                            "display_url": "ashfall.github.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 332, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "636831107", 
+            "profile_background_color": "000000", 
+            "listed_count": 28, 
+            "is_translation_enabled": false, 
+            "utc_offset": 19800, 
+            "statuses_count": 1053, 
+            "description": "Hello. My name is Inigo Montoya. You killed my computer; prepare to die.", 
+            "friends_count": 282, 
+            "location": "En ole varma.", 
+            "profile_link_color": "ABB8C2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2406967450/iy35tdjap1dio8acre9l_normal.png", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/636831107/1415682637", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "ashfall", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 76, 
+            "screen_name": "_ashfall_", 
+            "notifications": false, 
+            "url": "http://t.co/mmylw8eFZb", 
+            "created_at": "Mon Jul 16 09:20:58 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Chennai", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 03:54:41 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @sigmavirus24: Reminder to everyone that @PyTennessee is approaching quickly!", 
+        "in_reply_to_status_id": null, 
+        "id": 550794088300412928, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 623301125, 
+                    "indices": [
+                        3, 
+                        16
+                    ], 
+                    "id_str": "623301125", 
+                    "screen_name": "sigmavirus24", 
+                    "name": "RFCs of Futures Past"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        44, 
+                        56
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550794088300412928", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Reminder to everyone that @PyTennessee is approaching quickly!", 
+            "in_reply_to_status_id": null, 
+            "id": 550729200244502529, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            26, 
+                            38
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550729200244502529", 
+            "retweet_count": 3, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 623301125, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Ek0GDzBQ24", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "expanded_url": "https://github.com/sigmavirus24", 
+                                "display_url": "github.com/sigmavirus24"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 470, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "623301125", 
+                "profile_background_color": "FFFFFF", 
+                "listed_count": 49, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 12545, 
+                "description": "Open Sources Many Things: github3.py, betamax, python-requests, requests-toolbelt. I translate ABNF to code as a Service. Box&lt;Opinions&gt; (they are my own)", 
+                "friends_count": 225, 
+                "location": "Madison, WI", 
+                "profile_link_color": "444444", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "RFCs of Futures Past", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 7850, 
+                "screen_name": "sigmavirus24", 
+                "notifications": false, 
+                "url": "https://t.co/Ek0GDzBQ24", 
+                "created_at": "Sun Jul 01 01:35:59 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Jan 01 19:04:08 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 2771755699, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/516024229150466048/KWVDq8e5_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/HTz5zPgQRR", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://nerdsdrinking.com/", 
+                            "display_url": "nerdsdrinking.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 82, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "2771755699", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 7, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1479, 
+            "description": "Memphis Geek. Co-host of Nerds Drinking. Certainly not a disciple of Darkseid.", 
+            "friends_count": 242, 
+            "location": "By the river, deep in Memphis", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/516024229150466048/KWVDq8e5_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Mark On The Bluffs", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 853, 
+            "screen_name": "MarkOnTheBluffs", 
+            "notifications": false, 
+            "url": "http://t.co/HTz5zPgQRR", 
+            "created_at": "Tue Aug 26 23:48:12 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 01 23:21:58 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @sigmavirus24: Reminder to everyone that @PyTennessee is approaching quickly!", 
+        "in_reply_to_status_id": null, 
+        "id": 550793170175676418, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 623301125, 
+                    "indices": [
+                        3, 
+                        16
+                    ], 
+                    "id_str": "623301125", 
+                    "screen_name": "sigmavirus24", 
+                    "name": "RFCs of Futures Past"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        44, 
+                        56
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550793170175676418", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Reminder to everyone that @PyTennessee is approaching quickly!", 
+            "in_reply_to_status_id": null, 
+            "id": 550729200244502529, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            26, 
+                            38
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550729200244502529", 
+            "retweet_count": 3, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 623301125, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Ek0GDzBQ24", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "expanded_url": "https://github.com/sigmavirus24", 
+                                "display_url": "github.com/sigmavirus24"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 470, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "623301125", 
+                "profile_background_color": "FFFFFF", 
+                "listed_count": 49, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 12545, 
+                "description": "Open Sources Many Things: github3.py, betamax, python-requests, requests-toolbelt. I translate ABNF to code as a Service. Box&lt;Opinions&gt; (they are my own)", 
+                "friends_count": 225, 
+                "location": "Madison, WI", 
+                "profile_link_color": "444444", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "RFCs of Futures Past", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 7850, 
+                "screen_name": "sigmavirus24", 
+                "notifications": false, 
+                "url": "https://t.co/Ek0GDzBQ24", 
+                "created_at": "Sun Jul 01 01:35:59 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Jan 01 19:04:08 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 624, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1741, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 01 23:18:19 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

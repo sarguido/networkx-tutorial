@@ -1,0 +1,8 @@
+{
+    "params": {
+        "retweeted_status|user|screen_name": "jasonamyers"
+    }, 
+    "result": {
+        "num_items": 1
+    }
+}

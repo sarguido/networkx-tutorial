@@ -1,0 +1,1396 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 550814464921321473, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 98928848, 
+                    "indices": [
+                        45, 
+                        59
+                    ], 
+                    "id_str": "98928848", 
+                    "screen_name": "ForecastWatch", 
+                    "name": "Eric Floehr \u263c \u2608 "
+                }, 
+                {
+                    "id": 327592933, 
+                    "indices": [
+                        76, 
+                        86
+                    ], 
+                    "id_str": "327592933", 
+                    "screen_name": "stratasan", 
+                    "name": "stratasan"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        111, 
+                        118
+                    ], 
+                    "text": "Python"
+                }, 
+                {
+                    "indices": [
+                        119, 
+                        128
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/xXyHFqmgxz", 
+                    "indices": [
+                        88, 
+                        110
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                    "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550814464921321473", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 550793670312873984, 
+            "favorite_count": 3, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 98928848, 
+                        "indices": [
+                            28, 
+                            42
+                        ], 
+                        "id_str": "98928848", 
+                        "screen_name": "ForecastWatch", 
+                        "name": "Eric Floehr \u263c \u2608 "
+                    }, 
+                    {
+                        "id": 327592933, 
+                        "indices": [
+                            59, 
+                            69
+                        ], 
+                        "id_str": "327592933", 
+                        "screen_name": "stratasan", 
+                        "name": "stratasan"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            94, 
+                            101
+                        ], 
+                        "text": "Python"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/xXyHFqmgxz", 
+                        "indices": [
+                            71, 
+                            93
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                        "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550793670312873984", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "de", 
+            "created_at": "Thu Jan 01 23:20:18 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 98928848, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/519832056885293056/gNYRH5b7_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/k8nZQlnhyA", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.forecastwatch.com/accuracydefined", 
+                            "display_url": "forecastwatch.com/accuracydefined"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1307, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "98928848", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 97, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 4739, 
+            "description": "We help meteorologists and others understand, compare, and communicate their weather forecast accuracy (using Python and Django!)", 
+            "friends_count": 1860, 
+            "location": "Marysville, Ohio", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/519832056885293056/gNYRH5b7_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/98928848/1360289218", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Eric Floehr \u263c \u2608 ", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 5479, 
+            "screen_name": "ForecastWatch", 
+            "notifications": false, 
+            "url": "http://t.co/k8nZQlnhyA", 
+            "created_at": "Wed Dec 23 17:58:33 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "de", 
+        "created_at": "Fri Jan 02 00:42:56 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 550801335017168896, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 98928848, 
+                    "indices": [
+                        45, 
+                        59
+                    ], 
+                    "id_str": "98928848", 
+                    "screen_name": "ForecastWatch", 
+                    "name": "Eric Floehr \u263c \u2608 "
+                }, 
+                {
+                    "id": 327592933, 
+                    "indices": [
+                        76, 
+                        86
+                    ], 
+                    "id_str": "327592933", 
+                    "screen_name": "stratasan", 
+                    "name": "stratasan"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        111, 
+                        118
+                    ], 
+                    "text": "Python"
+                }, 
+                {
+                    "indices": [
+                        119, 
+                        128
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/xXyHFqmgxz", 
+                    "indices": [
+                        88, 
+                        110
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                    "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550801335017168896", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 550793670312873984, 
+            "favorite_count": 3, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 98928848, 
+                        "indices": [
+                            28, 
+                            42
+                        ], 
+                        "id_str": "98928848", 
+                        "screen_name": "ForecastWatch", 
+                        "name": "Eric Floehr \u263c \u2608 "
+                    }, 
+                    {
+                        "id": 327592933, 
+                        "indices": [
+                            59, 
+                            69
+                        ], 
+                        "id_str": "327592933", 
+                        "screen_name": "stratasan", 
+                        "name": "stratasan"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            94, 
+                            101
+                        ], 
+                        "text": "Python"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/xXyHFqmgxz", 
+                        "indices": [
+                            71, 
+                            93
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                        "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550793670312873984", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "de", 
+            "created_at": "Thu Jan 01 23:20:18 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "0C3E53", 
+            "default_profile_image": false, 
+            "id": 11607452, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/443907827443044352/n4Oh_JS0_normal.jpeg", 
+            "profile_sidebar_fill_color": "DCF1C6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/e0nZyNFAqD", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://twobraids.com", 
+                            "display_url": "twobraids.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 488, 
+            "profile_sidebar_border_color": "43423D", 
+            "id_str": "11607452", 
+            "profile_background_color": "ADD8A6", 
+            "listed_count": 46, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 1813, 
+            "description": "Torn between being an organic hippie freak and a biker, I live in a yurt on an organic farm in Oregon and work for Mozilla.", 
+            "friends_count": 70, 
+            "location": "", 
+            "profile_link_color": "D25151", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/443907827443044352/n4Oh_JS0_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11607452/1394670944", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "K Lars Lohn", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 74, 
+            "screen_name": "2braids", 
+            "notifications": false, 
+            "url": "http://t.co/e0nZyNFAqD", 
+            "created_at": "Fri Dec 28 16:23:33 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "de", 
+        "created_at": "Thu Jan 01 23:50:46 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 550800684728066048, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 98928848, 
+                    "indices": [
+                        45, 
+                        59
+                    ], 
+                    "id_str": "98928848", 
+                    "screen_name": "ForecastWatch", 
+                    "name": "Eric Floehr \u263c \u2608 "
+                }, 
+                {
+                    "id": 327592933, 
+                    "indices": [
+                        76, 
+                        86
+                    ], 
+                    "id_str": "327592933", 
+                    "screen_name": "stratasan", 
+                    "name": "stratasan"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        111, 
+                        118
+                    ], 
+                    "text": "Python"
+                }, 
+                {
+                    "indices": [
+                        119, 
+                        128
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/xXyHFqmgxz", 
+                    "indices": [
+                        88, 
+                        110
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                    "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550800684728066048", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 550793670312873984, 
+            "favorite_count": 3, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 98928848, 
+                        "indices": [
+                            28, 
+                            42
+                        ], 
+                        "id_str": "98928848", 
+                        "screen_name": "ForecastWatch", 
+                        "name": "Eric Floehr \u263c \u2608 "
+                    }, 
+                    {
+                        "id": 327592933, 
+                        "indices": [
+                            59, 
+                            69
+                        ], 
+                        "id_str": "327592933", 
+                        "screen_name": "stratasan", 
+                        "name": "stratasan"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            94, 
+                            101
+                        ], 
+                        "text": "Python"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/xXyHFqmgxz", 
+                        "indices": [
+                            71, 
+                            93
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                        "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550793670312873984", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "de", 
+            "created_at": "Thu Jan 01 23:20:18 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 16026261, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/532617273232461824/Cb8uaLp9_normal.jpeg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Bw8qLV7T8i", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://bradmontgomery.net", 
+                            "display_url": "bradmontgomery.net"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1351, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "16026261", 
+            "profile_background_color": "B2DFDA", 
+            "listed_count": 93, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 21144, 
+            "description": "Tech Lead at TN Data Commons. Trying to make a difference.", 
+            "friends_count": 903, 
+            "location": "Memphis, TN", 
+            "profile_link_color": "4A913C", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/532617273232461824/Cb8uaLp9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16026261/1418080883", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif", 
+            "name": "Brad Montgomery", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 5106, 
+            "screen_name": "bkmontgomery", 
+            "notifications": false, 
+            "url": "http://t.co/Bw8qLV7T8i", 
+            "created_at": "Thu Aug 28 12:50:23 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "de", 
+        "created_at": "Thu Jan 01 23:48:11 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 550799678938558464, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 98928848, 
+                    "indices": [
+                        45, 
+                        59
+                    ], 
+                    "id_str": "98928848", 
+                    "screen_name": "ForecastWatch", 
+                    "name": "Eric Floehr \u263c \u2608 "
+                }, 
+                {
+                    "id": 327592933, 
+                    "indices": [
+                        76, 
+                        86
+                    ], 
+                    "id_str": "327592933", 
+                    "screen_name": "stratasan", 
+                    "name": "stratasan"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        111, 
+                        118
+                    ], 
+                    "text": "Python"
+                }, 
+                {
+                    "indices": [
+                        119, 
+                        128
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/xXyHFqmgxz", 
+                    "indices": [
+                        88, 
+                        110
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                    "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550799678938558464", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 550793670312873984, 
+            "favorite_count": 3, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 98928848, 
+                        "indices": [
+                            28, 
+                            42
+                        ], 
+                        "id_str": "98928848", 
+                        "screen_name": "ForecastWatch", 
+                        "name": "Eric Floehr \u263c \u2608 "
+                    }, 
+                    {
+                        "id": 327592933, 
+                        "indices": [
+                            59, 
+                            69
+                        ], 
+                        "id_str": "327592933", 
+                        "screen_name": "stratasan", 
+                        "name": "stratasan"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            94, 
+                            101
+                        ], 
+                        "text": "Python"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/xXyHFqmgxz", 
+                        "indices": [
+                            71, 
+                            93
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                        "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550793670312873984", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "de", 
+            "created_at": "Thu Jan 01 23:20:18 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "663B12", 
+            "default_profile_image": false, 
+            "id": 14772891, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3283062588/93be8a195993282edad34d10dceb1178_normal.jpeg", 
+            "profile_sidebar_fill_color": "DAECF4", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/qnmln1PFVK", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.stratasan.com", 
+                            "display_url": "stratasan.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1211, 
+            "profile_sidebar_border_color": "C6E2EE", 
+            "id_str": "14772891", 
+            "profile_background_color": "C6E2EE", 
+            "listed_count": 78, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 5610, 
+            "description": "Founder, Stratasan & bigWebApps; Nashville", 
+            "friends_count": 388, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "1F98C7", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3283062588/93be8a195993282edad34d10dceb1178_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", 
+            "name": "jasonRmoore", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 63, 
+            "screen_name": "jasonRmoore", 
+            "notifications": false, 
+            "url": "http://t.co/qnmln1PFVK", 
+            "created_at": "Wed May 14 13:24:03 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "de", 
+        "created_at": "Thu Jan 01 23:44:11 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 550793782611152896, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 98928848, 
+                    "indices": [
+                        45, 
+                        59
+                    ], 
+                    "id_str": "98928848", 
+                    "screen_name": "ForecastWatch", 
+                    "name": "Eric Floehr \u263c \u2608 "
+                }, 
+                {
+                    "id": 327592933, 
+                    "indices": [
+                        76, 
+                        86
+                    ], 
+                    "id_str": "327592933", 
+                    "screen_name": "stratasan", 
+                    "name": "stratasan"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        111, 
+                        118
+                    ], 
+                    "text": "Python"
+                }, 
+                {
+                    "indices": [
+                        119, 
+                        128
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/xXyHFqmgxz", 
+                    "indices": [
+                        88, 
+                        110
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                    "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "550793782611152896", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Eric Floehr (@ForecastWatch) and Stratasan (@stratasan) http://t.co/xXyHFqmgxz #Python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 550793670312873984, 
+            "favorite_count": 3, 
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 98928848, 
+                        "indices": [
+                            28, 
+                            42
+                        ], 
+                        "id_str": "98928848", 
+                        "screen_name": "ForecastWatch", 
+                        "name": "Eric Floehr \u263c \u2608 "
+                    }, 
+                    {
+                        "id": 327592933, 
+                        "indices": [
+                            59, 
+                            69
+                        ], 
+                        "id_str": "327592933", 
+                        "screen_name": "stratasan", 
+                        "name": "stratasan"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            94, 
+                            101
+                        ], 
+                        "text": "Python"
+                    }, 
+                    {
+                        "indices": [
+                            102, 
+                            111
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/xXyHFqmgxz", 
+                        "indices": [
+                            71, 
+                            93
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/106799437321/pytn-profiles-eric-floehr-and-stratasan", 
+                        "display_url": "pytennessee.tumblr.com/post/106799437\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "550793670312873984", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "de", 
+            "created_at": "Thu Jan 01 23:20:18 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 13553, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/xROdKIC4Sd", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jasonamyers.com", 
+                            "display_url": "jasonamyers.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1035, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "13553", 
+            "profile_background_color": "131516", 
+            "listed_count": 72, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 9884, 
+            "description": "Openstack @Cisco Software Engineer, O'Reilly Author; Book, Coffee, and Cookie Lover; @PyTennessee @Nodevember and @PyNash Co-Organizer", 
+            "friends_count": 165, 
+            "location": "35.727614,-86.338707", 
+            "profile_link_color": "232626", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13553/1398258739", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Jason A Myers", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2625, 
+            "screen_name": "jasonamyers", 
+            "notifications": false, 
+            "url": "http://t.co/xROdKIC4Sd", 
+            "created_at": "Tue Nov 21 16:20:38 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "de", 
+        "created_at": "Thu Jan 01 23:20:45 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

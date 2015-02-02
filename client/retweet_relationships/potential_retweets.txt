@@ -1,51 +1,80 @@
-PyTennessee	harisibrahimkv	1
-PyTennessee	StephenPiment	1
-PyTennessee	mj_langford	2
-PyTennessee	ForecastWatch	1
-PyTennessee	celiala	1
-PyTennessee	byeliad	3
-PyTennessee	zyegfryed	1
-PyTennessee	k_wade_a	1
-PyTennessee	charlesupjohn	1
-PyTennessee	imbilltucker	1
-PyTennessee	WuShell	1
-PyTennessee	leetrout	1
-PyTennessee	datagrok	1
-PyTennessee	pbrumm	1
-PyTennessee	neo4j	1
-PyTennessee	eldarion	1
-PyTennessee	NoSQLDigest	1
-PyTennessee	waynejwerner	1
-PyTennessee	mtrier	1
-PyTennessee	SimonSolutions	1
-PyTennessee	jasonamyers	3
-PyTennessee	sarah_guido	1
-PyTennessee	dontusethiscode	3
-PyTennessee	sigmavirus24	1
-PyTennessee	WillingCarol	1
-PyTennessee	pyrsonwho	1
-PyTennessee	electrobarn	1
-PyTennessee	cmheisel	1
-PyTennessee	robertlay	1
-PyTennessee	chrisveigt	1
-PyTennessee	dartdog	2
-PyTennessee	dmhalejr	1
-PyTennessee	PatrickW462	1
-PyTennessee	mindweather	1
-PyTennessee	jacobwegner	1
-PyTennessee	kieczkowska	1
-PyTennessee	vongrippen	1
-PyTennessee	kivyframework	1
-PyTennessee	scottsburns	2
-PyTennessee	poweredbyaltnet	4
-PyTennessee	Jeff88Ho	2
-PyTennessee	davelowe	1
-PyTennessee	bkmontgomery	1
-PyTennessee	Patjouk	1
-PyTennessee	twbennett	1
-PyTennessee	lotusr00t	1
-PyTennessee	underwearninja	1
-PyTennessee	901analytics	1
-PyTennessee	IndySecNorth	1
-PyTennessee	_bwmaker	1
-PyTennessee	CalebSmithNC	1
+PyTennessee sarah_guido {'weight': 1}
+PyTennessee harisibrahimkv {'weight': 1}
+PyTennessee eduardo_dx {'weight': 1}
+PyTennessee mj_langford {'weight': 2}
+PyTennessee ForecastWatch {'weight': 2}
+PyTennessee Patjouk {'weight': 1}
+PyTennessee UziUx {'weight': 1}
+PyTennessee byeliad {'weight': 3}
+PyTennessee zyegfryed {'weight': 1}
+PyTennessee paulbarden {'weight': 1}
+PyTennessee charlesupjohn {'weight': 2}
+PyTennessee imbilltucker {'weight': 1}
+PyTennessee WuShell {'weight': 1}
+PyTennessee davelowe {'weight': 1}
+PyTennessee leetrout {'weight': 1}
+PyTennessee pynash {'weight': 1}
+PyTennessee k_wade_a {'weight': 2}
+PyTennessee Greg_Ricker {'weight': 1}
+PyTennessee oscartaracena {'weight': 1}
+PyTennessee poweredbyaltnet {'weight': 4}
+PyTennessee NoSQLDigest {'weight': 1}
+PyTennessee waynejwerner {'weight': 1}
+PyTennessee pbrumm {'weight': 1}
+PyTennessee acedrew {'weight': 1}
+PyTennessee bkmontgomery {'weight': 1}
+PyTennessee jasonamyers {'weight': 4}
+PyTennessee Jeff88Ho {'weight': 2}
+PyTennessee _phred {'weight': 1}
+PyTennessee StephenPiment {'weight': 1}
+PyTennessee _ashfall_ {'weight': 1}
+PyTennessee celiala {'weight': 1}
+PyTennessee sigmavirus24 {'weight': 2}
+PyTennessee egdelwonk {'weight': 2}
+PyTennessee WillingCarol {'weight': 1}
+PyTennessee pyrsonwho {'weight': 1}
+PyTennessee ptynecki {'weight': 1}
+PyTennessee cmheisel {'weight': 1}
+PyTennessee CalEvans {'weight': 1}
+PyTennessee chrisveigt {'weight': 1}
+PyTennessee neonige {'weight': 1}
+PyTennessee dartdog {'weight': 2}
+PyTennessee dmhalejr {'weight': 1}
+PyTennessee neo4j {'weight': 1}
+PyTennessee djekl {'weight': 1}
+PyTennessee PatrickW462 {'weight': 1}
+PyTennessee dontusethiscode {'weight': 3}
+PyTennessee mwgass {'weight': 1}
+PyTennessee underwearninja {'weight': 1}
+PyTennessee jacobwegner {'weight': 1}
+PyTennessee kieczkowska {'weight': 2}
+PyTennessee vongrippen {'weight': 1}
+PyTennessee kivyframework {'weight': 1}
+PyTennessee mtrier {'weight': 1}
+PyTennessee eldarion {'weight': 1}
+PyTennessee scottsburns {'weight': 2}
+PyTennessee Coopsess {'weight': 1}
+PyTennessee dougwt {'weight': 1}
+PyTennessee SimonSolutions {'weight': 1}
+PyTennessee corbinbs {'weight': 1}
+PyTennessee TattdCodeMonkey {'weight': 1}
+PyTennessee Kroberrtsonn {'weight': 1}
+PyTennessee nevesytrof {'weight': 1}
+PyTennessee mindweather {'weight': 1}
+PyTennessee gizmomathboy {'weight': 1}
+PyTennessee robertlay {'weight': 1}
+PyTennessee MarkOnTheBluffs {'weight': 1}
+PyTennessee excsc {'weight': 1}
+PyTennessee TFConsult {'weight': 1}
+PyTennessee spamsch {'weight': 1}
+PyTennessee twbennett {'weight': 1}
+PyTennessee lotusr00t {'weight': 1}
+PyTennessee tskynet {'weight': 1}
+PyTennessee electrobarn {'weight': 1}
+PyTennessee 901analytics {'weight': 1}
+PyTennessee bfaludi {'weight': 1}
+PyTennessee IndySecNorth {'weight': 1}
+PyTennessee CalebSmithNC {'weight': 1}
+PyTennessee lgw4 {'weight': 1}
+PyTennessee _bwmaker {'weight': 1}
+PyTennessee datagrok {'weight': 1}

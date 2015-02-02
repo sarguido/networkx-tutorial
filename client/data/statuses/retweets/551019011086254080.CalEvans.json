@@ -1,0 +1,1523 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CalEvans: This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+        "in_reply_to_status_id": null, 
+        "id": 551049867142103040, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 4795561, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "4795561", 
+                    "screen_name": "CalEvans", 
+                    "name": "Cal Evans"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/CagxAM00Bo", 
+                    "indices": [
+                        40, 
+                        62
+                    ], 
+                    "expanded_url": "http://bit.ly/1tOIyjG", 
+                    "display_url": "bit.ly/1tOIyjG"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551049867142103040", 
+        "retweet_count": 7, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+            "in_reply_to_status_id": null, 
+            "id": 551019011086254080, 
+            "favorite_count": 10, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CagxAM00Bo", 
+                        "indices": [
+                            26, 
+                            48
+                        ], 
+                        "expanded_url": "http://bit.ly/1tOIyjG", 
+                        "display_url": "bit.ly/1tOIyjG"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "551019011086254080", 
+            "retweet_count": 7, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 4795561, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/qh3HjhV3LL", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://blog.calevans.com/epk", 
+                                "display_url": "blog.calevans.com/epk"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Si891yrskh", 
+                                "indices": [
+                                    31, 
+                                    53
+                                ], 
+                                "expanded_url": "http://about.me/calevans", 
+                                "display_url": "about.me/calevans"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 9394, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "4795561", 
+                "profile_background_color": "131516", 
+                "listed_count": 721, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 45789, 
+                "description": "Developer Experience Architect http://t.co/Si891yrskh", 
+                "friends_count": 145, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "009999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Cal Evans", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 400, 
+                "screen_name": "CalEvans", 
+                "notifications": false, 
+                "url": "http://t.co/qh3HjhV3LL", 
+                "created_at": "Sun Apr 15 20:54:29 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Fri Jan 02 14:15:44 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "666666", 
+            "default_profile_image": false, 
+            "id": 46642288, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/160042113/tutorialsetc-twitter-background-tutorial.jpg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/458708849986248704/N3MprndG_normal.jpeg", 
+            "profile_sidebar_fill_color": "252429", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/qdcTgvy7Yn", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://alanwynn.me", 
+                            "display_url": "alanwynn.me"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/9xXK69fpR9", 
+                            "indices": [
+                                10, 
+                                33
+                            ], 
+                            "expanded_url": "https://xboxapi.com", 
+                            "display_url": "xboxapi.com"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 347, 
+            "profile_sidebar_border_color": "181A1E", 
+            "id_str": "46642288", 
+            "profile_background_color": "1A1B1F", 
+            "listed_count": 14, 
+            "is_translation_enabled": false, 
+            "utc_offset": 0, 
+            "statuses_count": 12704, 
+            "description": "Author of https://t.co/9xXK69fpR9 An Xbox LIVE API. Not much to say about me, check my site for more info.", 
+            "friends_count": 200, 
+            "location": "Newcastle Upon Tyne", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/458708849986248704/N3MprndG_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/46642288/1398199588", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/160042113/tutorialsetc-twitter-background-tutorial.jpg", 
+            "name": "Alan Wynn", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 1337, 
+            "screen_name": "djekl", 
+            "notifications": false, 
+            "url": "https://t.co/qdcTgvy7Yn", 
+            "created_at": "Fri Jun 12 12:40:14 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "London", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 16:18:20 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CalEvans: This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+        "in_reply_to_status_id": null, 
+        "id": 551034484632846337, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 4795561, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "4795561", 
+                    "screen_name": "CalEvans", 
+                    "name": "Cal Evans"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/CagxAM00Bo", 
+                    "indices": [
+                        40, 
+                        62
+                    ], 
+                    "expanded_url": "http://bit.ly/1tOIyjG", 
+                    "display_url": "bit.ly/1tOIyjG"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551034484632846337", 
+        "retweet_count": 7, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+            "in_reply_to_status_id": null, 
+            "id": 551019011086254080, 
+            "favorite_count": 10, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CagxAM00Bo", 
+                        "indices": [
+                            26, 
+                            48
+                        ], 
+                        "expanded_url": "http://bit.ly/1tOIyjG", 
+                        "display_url": "bit.ly/1tOIyjG"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "551019011086254080", 
+            "retweet_count": 7, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 4795561, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/qh3HjhV3LL", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://blog.calevans.com/epk", 
+                                "display_url": "blog.calevans.com/epk"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Si891yrskh", 
+                                "indices": [
+                                    31, 
+                                    53
+                                ], 
+                                "expanded_url": "http://about.me/calevans", 
+                                "display_url": "about.me/calevans"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 9394, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "4795561", 
+                "profile_background_color": "131516", 
+                "listed_count": 721, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 45789, 
+                "description": "Developer Experience Architect http://t.co/Si891yrskh", 
+                "friends_count": 145, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "009999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Cal Evans", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 400, 
+                "screen_name": "CalEvans", 
+                "notifications": false, 
+                "url": "http://t.co/qh3HjhV3LL", 
+                "created_at": "Sun Apr 15 20:54:29 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Fri Jan 02 14:15:44 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 2271991, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000632069433/5006f2169568a0655b8a0fc125b2e778_normal.jpeg", 
+            "profile_sidebar_fill_color": "E0FF92", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/G20UO6FRXP", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://ubublog.com", 
+                            "display_url": "ubublog.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 91, 
+            "profile_sidebar_border_color": "87BC44", 
+            "id_str": "2271991", 
+            "profile_background_color": "9AE4E8", 
+            "listed_count": 5, 
+            "is_translation_enabled": false, 
+            "utc_offset": 3600, 
+            "statuses_count": 1271, 
+            "description": "Analyst Developer [codeigniter, couponic intermedio, yii framework b\u00e1sico, magento b\u00e1sico - intermedio, slim microframework]", 
+            "friends_count": 199, 
+            "location": "Madrid", 
+            "profile_link_color": "0000FF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000632069433/5006f2169568a0655b8a0fc125b2e778_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Eduardo D.", 
+            "lang": "es", 
+            "profile_background_tile": false, 
+            "favourites_count": 272, 
+            "screen_name": "eduardo_dx", 
+            "notifications": false, 
+            "url": "http://t.co/G20UO6FRXP", 
+            "created_at": "Mon Mar 26 08:12:58 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Madrid", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 15:17:13 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CalEvans: This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+        "in_reply_to_status_id": null, 
+        "id": 551021427139551233, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 4795561, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "4795561", 
+                    "screen_name": "CalEvans", 
+                    "name": "Cal Evans"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/CagxAM00Bo", 
+                    "indices": [
+                        40, 
+                        62
+                    ], 
+                    "expanded_url": "http://bit.ly/1tOIyjG", 
+                    "display_url": "bit.ly/1tOIyjG"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551021427139551233", 
+        "retweet_count": 7, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+            "in_reply_to_status_id": null, 
+            "id": 551019011086254080, 
+            "favorite_count": 10, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CagxAM00Bo", 
+                        "indices": [
+                            26, 
+                            48
+                        ], 
+                        "expanded_url": "http://bit.ly/1tOIyjG", 
+                        "display_url": "bit.ly/1tOIyjG"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "551019011086254080", 
+            "retweet_count": 7, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 4795561, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/qh3HjhV3LL", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://blog.calevans.com/epk", 
+                                "display_url": "blog.calevans.com/epk"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Si891yrskh", 
+                                "indices": [
+                                    31, 
+                                    53
+                                ], 
+                                "expanded_url": "http://about.me/calevans", 
+                                "display_url": "about.me/calevans"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 9394, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "4795561", 
+                "profile_background_color": "131516", 
+                "listed_count": 721, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 45789, 
+                "description": "Developer Experience Architect http://t.co/Si891yrskh", 
+                "friends_count": 145, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "009999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Cal Evans", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 400, 
+                "screen_name": "CalEvans", 
+                "notifications": false, 
+                "url": "http://t.co/qh3HjhV3LL", 
+                "created_at": "Sun Apr 15 20:54:29 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Fri Jan 02 14:15:44 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 558338791, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3469012018/339252c372f765ef7ae4f7441da3c748_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 113, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "558338791", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 7, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 1811, 
+            "description": "Web Developer, SQL Server MCTS, Python&Django, PHP&Laravel, Gamer & Anime fan, Adventurer & Natural world lover", 
+            "friends_count": 362, 
+            "location": "M\u00e9xico", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3469012018/339252c372f765ef7ae4f7441da3c748_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/558338791/1349277716", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Uziel Bueno", 
+            "lang": "es", 
+            "profile_background_tile": false, 
+            "favourites_count": 715, 
+            "screen_name": "UziUx", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Fri Apr 20 05:07:57 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 14:25:20 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CalEvans: This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+        "in_reply_to_status_id": null, 
+        "id": 551019874131394560, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 4795561, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "4795561", 
+                    "screen_name": "CalEvans", 
+                    "name": "Cal Evans"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/CagxAM00Bo", 
+                    "indices": [
+                        40, 
+                        62
+                    ], 
+                    "expanded_url": "http://bit.ly/1tOIyjG", 
+                    "display_url": "bit.ly/1tOIyjG"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551019874131394560", 
+        "retweet_count": 7, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+            "in_reply_to_status_id": null, 
+            "id": 551019011086254080, 
+            "favorite_count": 10, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CagxAM00Bo", 
+                        "indices": [
+                            26, 
+                            48
+                        ], 
+                        "expanded_url": "http://bit.ly/1tOIyjG", 
+                        "display_url": "bit.ly/1tOIyjG"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "551019011086254080", 
+            "retweet_count": 7, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 4795561, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/qh3HjhV3LL", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://blog.calevans.com/epk", 
+                                "display_url": "blog.calevans.com/epk"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Si891yrskh", 
+                                "indices": [
+                                    31, 
+                                    53
+                                ], 
+                                "expanded_url": "http://about.me/calevans", 
+                                "display_url": "about.me/calevans"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 9394, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "4795561", 
+                "profile_background_color": "131516", 
+                "listed_count": 721, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 45789, 
+                "description": "Developer Experience Architect http://t.co/Si891yrskh", 
+                "friends_count": 145, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "009999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Cal Evans", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 400, 
+                "screen_name": "CalEvans", 
+                "notifications": false, 
+                "url": "http://t.co/qh3HjhV3LL", 
+                "created_at": "Sun Apr 15 20:54:29 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Fri Jan 02 14:15:44 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 624, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1741, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 14:19:10 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CalEvans: This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+        "in_reply_to_status_id": null, 
+        "id": 551019800810754048, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 4795561, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "4795561", 
+                    "screen_name": "CalEvans", 
+                    "name": "Cal Evans"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/CagxAM00Bo", 
+                    "indices": [
+                        40, 
+                        62
+                    ], 
+                    "expanded_url": "http://bit.ly/1tOIyjG", 
+                    "display_url": "bit.ly/1tOIyjG"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551019800810754048", 
+        "retweet_count": 7, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+            "in_reply_to_status_id": null, 
+            "id": 551019011086254080, 
+            "favorite_count": 10, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CagxAM00Bo", 
+                        "indices": [
+                            26, 
+                            48
+                        ], 
+                        "expanded_url": "http://bit.ly/1tOIyjG", 
+                        "display_url": "bit.ly/1tOIyjG"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "551019011086254080", 
+            "retweet_count": 7, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 4795561, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/qh3HjhV3LL", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://blog.calevans.com/epk", 
+                                "display_url": "blog.calevans.com/epk"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Si891yrskh", 
+                                "indices": [
+                                    31, 
+                                    53
+                                ], 
+                                "expanded_url": "http://about.me/calevans", 
+                                "display_url": "about.me/calevans"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 9394, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "4795561", 
+                "profile_background_color": "131516", 
+                "listed_count": 721, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 45789, 
+                "description": "Developer Experience Architect http://t.co/Si891yrskh", 
+                "friends_count": 145, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "009999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Cal Evans", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 400, 
+                "screen_name": "CalEvans", 
+                "notifications": false, 
+                "url": "http://t.co/qh3HjhV3LL", 
+                "created_at": "Sun Apr 15 20:54:29 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Fri Jan 02 14:15:44 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 13553, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/xROdKIC4Sd", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jasonamyers.com", 
+                            "display_url": "jasonamyers.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1035, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "13553", 
+            "profile_background_color": "131516", 
+            "listed_count": 72, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 9884, 
+            "description": "Openstack @Cisco Software Engineer, O'Reilly Author; Book, Coffee, and Cookie Lover; @PyTennessee @Nodevember and @PyNash Co-Organizer", 
+            "friends_count": 165, 
+            "location": "35.727614,-86.338707", 
+            "profile_link_color": "232626", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13553/1398258739", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Jason A Myers", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2625, 
+            "screen_name": "jasonamyers", 
+            "notifications": false, 
+            "url": "http://t.co/xROdKIC4Sd", 
+            "created_at": "Tue Nov 21 16:20:38 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 14:18:52 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CalEvans: This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+        "in_reply_to_status_id": null, 
+        "id": 551019584888004608, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 4795561, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "4795561", 
+                    "screen_name": "CalEvans", 
+                    "name": "Cal Evans"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/CagxAM00Bo", 
+                    "indices": [
+                        40, 
+                        62
+                    ], 
+                    "expanded_url": "http://bit.ly/1tOIyjG", 
+                    "display_url": "bit.ly/1tOIyjG"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551019584888004608", 
+        "retweet_count": 7, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+            "in_reply_to_status_id": null, 
+            "id": 551019011086254080, 
+            "favorite_count": 10, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CagxAM00Bo", 
+                        "indices": [
+                            26, 
+                            48
+                        ], 
+                        "expanded_url": "http://bit.ly/1tOIyjG", 
+                        "display_url": "bit.ly/1tOIyjG"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "551019011086254080", 
+            "retweet_count": 7, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 4795561, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/qh3HjhV3LL", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://blog.calevans.com/epk", 
+                                "display_url": "blog.calevans.com/epk"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Si891yrskh", 
+                                "indices": [
+                                    31, 
+                                    53
+                                ], 
+                                "expanded_url": "http://about.me/calevans", 
+                                "display_url": "about.me/calevans"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 9394, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "4795561", 
+                "profile_background_color": "131516", 
+                "listed_count": 721, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 45789, 
+                "description": "Developer Experience Architect http://t.co/Si891yrskh", 
+                "friends_count": 145, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "009999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Cal Evans", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 400, 
+                "screen_name": "CalEvans", 
+                "notifications": false, 
+                "url": "http://t.co/qh3HjhV3LL", 
+                "created_at": "Sun Apr 15 20:54:29 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Fri Jan 02 14:15:44 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1333339974, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/548935221974810624/mUEswYSA_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Xy7cAozoGU", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://laracasts.com", 
+                            "display_url": "laracasts.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11957, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "1333339974", 
+            "profile_background_color": "2D3037", 
+            "listed_count": 374, 
+            "is_translation_enabled": false, 
+            "utc_offset": -36000, 
+            "statuses_count": 3778, 
+            "description": "The definitive source of Laravel and modern PHP training. It's like Netflix for your career.", 
+            "friends_count": 83, 
+            "location": "United States", 
+            "profile_link_color": "F6624A", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/548935221974810624/mUEswYSA_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1333339974/1419711370", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Laracasts", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 2182, 
+            "screen_name": "laracasts", 
+            "notifications": false, 
+            "url": "http://t.co/Xy7cAozoGU", 
+            "created_at": "Sun Apr 07 06:43:30 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": "Hawaii", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 14:18:01 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CalEvans: This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+        "in_reply_to_status_id": null, 
+        "id": 551019315110363136, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 4795561, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "4795561", 
+                    "screen_name": "CalEvans", 
+                    "name": "Cal Evans"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/CagxAM00Bo", 
+                    "indices": [
+                        40, 
+                        62
+                    ], 
+                    "expanded_url": "http://bit.ly/1tOIyjG", 
+                    "display_url": "bit.ly/1tOIyjG"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551019315110363136", 
+        "retweet_count": 7, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "This releases next week!\n\nhttp://t.co/CagxAM00Bo\n\nSo excited! :)", 
+            "in_reply_to_status_id": null, 
+            "id": 551019011086254080, 
+            "favorite_count": 10, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/CagxAM00Bo", 
+                        "indices": [
+                            26, 
+                            48
+                        ], 
+                        "expanded_url": "http://bit.ly/1tOIyjG", 
+                        "display_url": "bit.ly/1tOIyjG"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "551019011086254080", 
+            "retweet_count": 7, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 4795561, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/qh3HjhV3LL", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://blog.calevans.com/epk", 
+                                "display_url": "blog.calevans.com/epk"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Si891yrskh", 
+                                "indices": [
+                                    31, 
+                                    53
+                                ], 
+                                "expanded_url": "http://about.me/calevans", 
+                                "display_url": "about.me/calevans"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 9394, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "4795561", 
+                "profile_background_color": "131516", 
+                "listed_count": 721, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 45789, 
+                "description": "Developer Experience Architect http://t.co/Si891yrskh", 
+                "friends_count": 145, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "009999", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1376139884/cal_dpc11_reallysmall_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Cal Evans", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 400, 
+                "screen_name": "CalEvans", 
+                "notifications": false, 
+                "url": "http://t.co/qh3HjhV3LL", 
+                "created_at": "Sun Apr 15 20:54:29 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Fri Jan 02 14:15:44 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "3C3940", 
+            "default_profile_image": false, 
+            "id": 27335366, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435073730/twilk_background_4f49f33a1cf61.jpg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/500383668141969408/dVGvZJ9L_normal.png", 
+            "profile_sidebar_fill_color": "95E8EC", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/f6oK1upGlP", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://blog.bitexpert.de/", 
+                            "display_url": "blog.bitexpert.de"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 854, 
+            "profile_sidebar_border_color": "5ED4DC", 
+            "id_str": "27335366", 
+            "profile_background_color": "EEEEEE", 
+            "listed_count": 67, 
+            "is_translation_enabled": false, 
+            "utc_offset": -10800, 
+            "statuses_count": 13025, 
+            "description": "Software developer, Internet geek and entrepreneur by heart with a magic touch.", 
+            "friends_count": 359, 
+            "location": "Mannheim", 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/500383668141969408/dVGvZJ9L_normal.png", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/27335366/1403507644", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435073730/twilk_background_4f49f33a1cf61.jpg", 
+            "name": "Stephan Hochd\u00f6rfer", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 489, 
+            "screen_name": "shochdoerfer", 
+            "notifications": false, 
+            "url": "http://t.co/f6oK1upGlP", 
+            "created_at": "Sat Mar 28 23:41:01 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Greenland", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Fri Jan 02 14:16:56 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

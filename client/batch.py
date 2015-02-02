@@ -2,13 +2,13 @@ from sys import argv
 from client import run
 import time
 
-# filename = 'input.txt'
-# command_template = 'get retweets id={id}'
-# pace_requests = True
+filename = 'batch_input/input.txt'
+command_template = 'get retweets id={id}'
+pace_requests = True
 
-filename = 'input.processed.txt'
-command_template = 'summary retweets id={id}'
-pace_requests = False
+# filename = 'batch_input/processed.batch1.txt'
+# command_template = 'summary retweets id={id}'
+# pace_requests = False
 
 
 def get_id(data):
