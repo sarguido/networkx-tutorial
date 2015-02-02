@@ -1,0 +1,11 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+5	0	0	0	Sun Feb 01 20:23:06 +0000 2015	561983098989330435	poweredbyaltnet	13567	561	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 19:17:53 +0000 2015	561966688124821504	dontusethiscode	1355	59	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 18:31:51 +0000 2015	561955103658106880	k_wade_a	7113	4393	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 18:19:08 +0000 2015	561951900523044864	CalebSmithNC	2247	664	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 17:57:23 +0000 2015	561946429615513600	ForecastWatch	4738	5475	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 17:39:32 +0000 2015	561941937112903680	bkmontgomery	21129	5089	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 16:39:37 +0000 2015	561926856342241280	sarah_guido	2732	141	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 16:26:13 +0000 2015	561923483308138496	dartdog	27783	1274	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 16:10:29 +0000 2015	561919524350734337	PyTennessee	1740	503	OReillyMedia|PyTennessee	0
+5	0	0	0	Sun Feb 01 15:44:58 +0000 2015	561913103001321472	_bwmaker	8194	3595	OReillyMedia|PyTennessee	0

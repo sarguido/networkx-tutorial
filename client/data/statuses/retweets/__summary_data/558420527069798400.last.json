@@ -1,0 +1,8 @@
+{
+    "params": {
+        "retweeted_status|user|screen_name": "poweredbyaltnet"
+    }, 
+    "result": {
+        "num_items": 1
+    }
+}

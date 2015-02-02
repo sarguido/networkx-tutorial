@@ -1,0 +1,1134 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 553419929269989376, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 451862674, 
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "id_str": "451862674", 
+                    "screen_name": "understandig", 
+                    "name": "Becky Standig"
+                }, 
+                {
+                    "id": 7016472, 
+                    "indices": [
+                        85, 
+                        100
+                    ], 
+                    "id_str": "7016472", 
+                    "screen_name": "SimonSolutions", 
+                    "name": "Simon Solutions"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        126, 
+                        133
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        134, 
+                        140
+                    ], 
+                    "text": "pytn2015"
+                }, 
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "RunningLate"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/3GIdnJjCRK", 
+                    "indices": [
+                        103, 
+                        125
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                    "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "553419929269989376", 
+        "retweet_count": 4, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn2015 #RunningLate", 
+            "in_reply_to_status_id": null, 
+            "id": 553387525558259713, 
+            "favorite_count": 3, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 451862674, 
+                        "indices": [
+                            32, 
+                            45
+                        ], 
+                        "id_str": "451862674", 
+                        "screen_name": "understandig", 
+                        "name": "Becky Standig"
+                    }, 
+                    {
+                        "id": 7016472, 
+                        "indices": [
+                            68, 
+                            83
+                        ], 
+                        "id_str": "7016472", 
+                        "screen_name": "SimonSolutions", 
+                        "name": "Simon Solutions"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            109, 
+                            116
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            117, 
+                            126
+                        ], 
+                        "text": "pytn2015"
+                    }, 
+                    {
+                        "indices": [
+                            127, 
+                            139
+                        ], 
+                        "text": "RunningLate"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/3GIdnJjCRK", 
+                        "indices": [
+                            86, 
+                            108
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                        "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "553387525558259713", 
+            "retweet_count": 4, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "da", 
+            "created_at": "Fri Jan 09 03:07:22 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 14217429, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/547477623303987200/1KMfyePY_normal.jpeg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 901, 
+            "profile_sidebar_border_color": "86A4A6", 
+            "id_str": "14217429", 
+            "profile_background_color": "709397", 
+            "listed_count": 63, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 4374, 
+            "description": "Co-founder and CTO at Keen IO (@keen_io), software engineer, entrepreneur, geek, all around okay guy.", 
+            "friends_count": 433, 
+            "location": "iPhone: 37.457188,-122.134972", 
+            "profile_link_color": "FF3300", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/547477623303987200/1KMfyePY_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14217429/1419363858", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "name": "Dan Kador", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 299, 
+            "screen_name": "dkador", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Tue Mar 25 17:58:53 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "da", 
+        "created_at": "Fri Jan 09 05:16:07 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 553408118969753600, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 451862674, 
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "id_str": "451862674", 
+                    "screen_name": "understandig", 
+                    "name": "Becky Standig"
+                }, 
+                {
+                    "id": 7016472, 
+                    "indices": [
+                        85, 
+                        100
+                    ], 
+                    "id_str": "7016472", 
+                    "screen_name": "SimonSolutions", 
+                    "name": "Simon Solutions"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        126, 
+                        133
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        134, 
+                        140
+                    ], 
+                    "text": "pytn2015"
+                }, 
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "RunningLate"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/3GIdnJjCRK", 
+                    "indices": [
+                        103, 
+                        125
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                    "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "553408118969753600", 
+        "retweet_count": 4, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn2015 #RunningLate", 
+            "in_reply_to_status_id": null, 
+            "id": 553387525558259713, 
+            "favorite_count": 3, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 451862674, 
+                        "indices": [
+                            32, 
+                            45
+                        ], 
+                        "id_str": "451862674", 
+                        "screen_name": "understandig", 
+                        "name": "Becky Standig"
+                    }, 
+                    {
+                        "id": 7016472, 
+                        "indices": [
+                            68, 
+                            83
+                        ], 
+                        "id_str": "7016472", 
+                        "screen_name": "SimonSolutions", 
+                        "name": "Simon Solutions"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            109, 
+                            116
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            117, 
+                            126
+                        ], 
+                        "text": "pytn2015"
+                    }, 
+                    {
+                        "indices": [
+                            127, 
+                            139
+                        ], 
+                        "text": "RunningLate"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/3GIdnJjCRK", 
+                        "indices": [
+                            86, 
+                            108
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                        "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "553387525558259713", 
+            "retweet_count": 4, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "da", 
+            "created_at": "Fri Jan 09 03:07:22 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "4E506C", 
+            "default_profile_image": false, 
+            "id": 451862674, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000123270318/b092f8094d420982e7d7209772c73b77.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/560628874950615040/NsAHqi1a_normal.jpeg", 
+            "profile_sidebar_fill_color": "6384D6", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1118, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "451862674", 
+            "profile_background_color": "3B94D9", 
+            "listed_count": 58, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 11353, 
+            "description": "Linguist \u2192 Software Engineer @keen_io. I have been described as a strong, independent woman with a nice butt like Beyonce.", 
+            "friends_count": 866, 
+            "location": "", 
+            "profile_link_color": "9266CC", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/560628874950615040/NsAHqi1a_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/451862674/1414743701", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000123270318/b092f8094d420982e7d7209772c73b77.jpeg", 
+            "name": "Becky Standig", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 9018, 
+            "screen_name": "understandig", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sun Jan 01 03:53:00 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "da", 
+        "created_at": "Fri Jan 09 04:29:12 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 553402641133604865, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 451862674, 
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "id_str": "451862674", 
+                    "screen_name": "understandig", 
+                    "name": "Becky Standig"
+                }, 
+                {
+                    "id": 7016472, 
+                    "indices": [
+                        85, 
+                        100
+                    ], 
+                    "id_str": "7016472", 
+                    "screen_name": "SimonSolutions", 
+                    "name": "Simon Solutions"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        126, 
+                        133
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        134, 
+                        140
+                    ], 
+                    "text": "pytn2015"
+                }, 
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "RunningLate"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/3GIdnJjCRK", 
+                    "indices": [
+                        103, 
+                        125
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                    "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "553402641133604865", 
+        "retweet_count": 4, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn2015 #RunningLate", 
+            "in_reply_to_status_id": null, 
+            "id": 553387525558259713, 
+            "favorite_count": 3, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 451862674, 
+                        "indices": [
+                            32, 
+                            45
+                        ], 
+                        "id_str": "451862674", 
+                        "screen_name": "understandig", 
+                        "name": "Becky Standig"
+                    }, 
+                    {
+                        "id": 7016472, 
+                        "indices": [
+                            68, 
+                            83
+                        ], 
+                        "id_str": "7016472", 
+                        "screen_name": "SimonSolutions", 
+                        "name": "Simon Solutions"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            109, 
+                            116
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            117, 
+                            126
+                        ], 
+                        "text": "pytn2015"
+                    }, 
+                    {
+                        "indices": [
+                            127, 
+                            139
+                        ], 
+                        "text": "RunningLate"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/3GIdnJjCRK", 
+                        "indices": [
+                            86, 
+                            108
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                        "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "553387525558259713", 
+            "retweet_count": 4, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "da", 
+            "created_at": "Fri Jan 09 03:07:22 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 623301125, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Ek0GDzBQ24", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://github.com/sigmavirus24", 
+                            "display_url": "github.com/sigmavirus24"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 470, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "623301125", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 49, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 12541, 
+            "description": "Open Sources Many Things: github3.py, betamax, python-requests, requests-toolbelt. I translate ABNF to code as a Service. Box&lt;Opinions&gt; (they are my own)", 
+            "friends_count": 225, 
+            "location": "Madison, WI", 
+            "profile_link_color": "444444", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "RFCs of Futures Past", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 7852, 
+            "screen_name": "sigmavirus24", 
+            "notifications": false, 
+            "url": "https://t.co/Ek0GDzBQ24", 
+            "created_at": "Sun Jul 01 01:35:59 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "da", 
+        "created_at": "Fri Jan 09 04:07:26 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 553389700690771968, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://hijeffho.squarespace.com/\" rel=\"nofollow\">Data Trend</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 451862674, 
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "id_str": "451862674", 
+                    "screen_name": "understandig", 
+                    "name": "Becky Standig"
+                }, 
+                {
+                    "id": 7016472, 
+                    "indices": [
+                        85, 
+                        100
+                    ], 
+                    "id_str": "7016472", 
+                    "screen_name": "SimonSolutions", 
+                    "name": "Simon Solutions"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        126, 
+                        133
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        134, 
+                        140
+                    ], 
+                    "text": "pytn2015"
+                }, 
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "RunningLate"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/3GIdnJjCRK", 
+                    "indices": [
+                        103, 
+                        125
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                    "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "553389700690771968", 
+        "retweet_count": 4, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK\n#python #pytn2015 #RunningLate", 
+            "in_reply_to_status_id": null, 
+            "id": 553387525558259713, 
+            "favorite_count": 3, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 451862674, 
+                        "indices": [
+                            32, 
+                            45
+                        ], 
+                        "id_str": "451862674", 
+                        "screen_name": "understandig", 
+                        "name": "Becky Standig"
+                    }, 
+                    {
+                        "id": 7016472, 
+                        "indices": [
+                            68, 
+                            83
+                        ], 
+                        "id_str": "7016472", 
+                        "screen_name": "SimonSolutions", 
+                        "name": "Simon Solutions"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            109, 
+                            116
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            117, 
+                            126
+                        ], 
+                        "text": "pytn2015"
+                    }, 
+                    {
+                        "indices": [
+                            127, 
+                            139
+                        ], 
+                        "text": "RunningLate"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/3GIdnJjCRK", 
+                        "indices": [
+                            86, 
+                            108
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/107560780578/pytn-profiles-rebecca-standig-understandig-and", 
+                        "display_url": "pytennessee.tumblr.com/post/107560780\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "553387525558259713", 
+            "retweet_count": 4, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "da", 
+            "created_at": "Fri Jan 09 03:07:22 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 2888583159, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/536381545682964480/dRHvM5Dr_normal.png", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 5054, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "2888583159", 
+            "profile_background_color": "000000", 
+            "listed_count": 488, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 95212, 
+            "description": "Love everything about data! #BigData #DataScience #MachineLearning #DataMining #Hadoop #Python #R", 
+            "friends_count": 2713, 
+            "location": "New York, NY", 
+            "profile_link_color": "89C9FA", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/536381545682964480/dRHvM5Dr_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2888583159/1416710253", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Data Geek", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 42918, 
+            "screen_name": "Data88Geek", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sun Nov 23 00:51:15 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "da", 
+        "created_at": "Fri Jan 09 03:16:00 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

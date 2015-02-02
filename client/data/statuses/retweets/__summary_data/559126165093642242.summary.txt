@@ -1,0 +1,2 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+4	0	0	0	Sat Jan 24 23:24:01 +0000 2015	559129526568226816	jasonamyers	9883	2625	PyTennessee	0

@@ -1,0 +1,3 @@
+count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+1	sigmavirus24	8	0	0	0	Sun Feb 01 17:35:34 +0000 2015	561940936247500800	PyTennessee	1740	503	sigmavirus24	PyTennessee
+1	sigmavirus24	8	0	0	0	Sun Feb 01 17:35:34 +0000 2015	561940936247500800	PyTennessee	1740	503	sigmavirus24	PyTennessee

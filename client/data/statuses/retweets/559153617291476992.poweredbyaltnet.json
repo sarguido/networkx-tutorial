@@ -1,0 +1,1106 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @poweredbyaltnet: First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDi\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 559203287598374912, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 45294835, 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "id_str": "45294835", 
+                    "screen_name": "poweredbyaltnet", 
+                    "name": "Douglas Starnes"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/jDifxtRn6F", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                    "display_url": "leanpub.com/learnpythonwit\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "559203287598374912", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDifxtRn6F #python", 
+            "in_reply_to_status_id": null, 
+            "id": 559153617291476992, 
+            "favorite_count": 9, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/jDifxtRn6F", 
+                        "indices": [
+                            102, 
+                            125
+                        ], 
+                        "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                        "display_url": "leanpub.com/learnpythonwit\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "559153617291476992", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 45294835, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/uFQiLjSYYi", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://about.me/douglas.starnes", 
+                                "display_url": "about.me/douglas.starnes"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 1099, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "45294835", 
+                "profile_background_color": "131516", 
+                "listed_count": 102, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 13567, 
+                "description": "Polyglot ninja: C#, Python, Swift, Java, Go, R & more. Author. Speaker. Coder education. Mobile. Data/ML. Wannabe Game Dev.  Startups. Triathlete.", 
+                "friends_count": 696, 
+                "location": "Memphis, TN, USA", 
+                "profile_link_color": "6E1616", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Douglas Starnes", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 561, 
+                "screen_name": "poweredbyaltnet", 
+                "notifications": false, 
+                "url": "http://t.co/uFQiLjSYYi", 
+                "created_at": "Sun Jun 07 06:06:14 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Jan 25 00:59:45 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 559667159, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2169237040/lotusr00t1_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 170, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "559667159", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 3, 
+            "is_translation_enabled": false, 
+            "utc_offset": -14400, 
+            "statuses_count": 2931, 
+            "description": "Nothing special. Nothing official.", 
+            "friends_count": 323, 
+            "location": "", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2169237040/lotusr00t1_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "TT", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 176, 
+            "screen_name": "lotusr00t", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sat Apr 21 16:00:16 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Atlantic Time (Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Jan 25 04:17:07 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @poweredbyaltnet: First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDi\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 559175121147932672, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://github.com/Jeff88Ho\" rel=\"nofollow\">Financial Information Miner</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 45294835, 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "id_str": "45294835", 
+                    "screen_name": "poweredbyaltnet", 
+                    "name": "Douglas Starnes"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/jDifxtRn6F", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                    "display_url": "leanpub.com/learnpythonwit\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "559175121147932672", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDifxtRn6F #python", 
+            "in_reply_to_status_id": null, 
+            "id": 559153617291476992, 
+            "favorite_count": 9, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/jDifxtRn6F", 
+                        "indices": [
+                            102, 
+                            125
+                        ], 
+                        "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                        "display_url": "leanpub.com/learnpythonwit\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "559153617291476992", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 45294835, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/uFQiLjSYYi", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://about.me/douglas.starnes", 
+                                "display_url": "about.me/douglas.starnes"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 1099, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "45294835", 
+                "profile_background_color": "131516", 
+                "listed_count": 102, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 13567, 
+                "description": "Polyglot ninja: C#, Python, Swift, Java, Go, R & more. Author. Speaker. Coder education. Mobile. Data/ML. Wannabe Game Dev.  Startups. Triathlete.", 
+                "friends_count": 696, 
+                "location": "Memphis, TN, USA", 
+                "profile_link_color": "6E1616", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Douglas Starnes", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 561, 
+                "screen_name": "poweredbyaltnet", 
+                "notifications": false, 
+                "url": "http://t.co/uFQiLjSYYi", 
+                "created_at": "Sun Jun 07 06:06:14 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Jan 25 00:59:45 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 1121028973, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/531720845459066880/7oWkIEAP_normal.jpeg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/XW5RpwzxeZ", 
+                            "indices": [
+                                0, 
+                                23
+                            ], 
+                            "expanded_url": "https://www.linkedin.com/in/jeff88ho", 
+                            "display_url": "linkedin.com/in/jeff88ho"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 2282, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1121028973", 
+            "profile_background_color": "000000", 
+            "listed_count": 491, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 116143, 
+            "description": "A Free Man @Columbia", 
+            "friends_count": 646, 
+            "location": "New York, NY", 
+            "profile_link_color": "4169E1", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/531720845459066880/7oWkIEAP_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1121028973/1415607303", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Jeff Ho", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 41545, 
+            "screen_name": "Jeff88Ho", 
+            "notifications": false, 
+            "url": "https://t.co/XW5RpwzxeZ", 
+            "created_at": "Sat Jan 26 05:19:46 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Jan 25 02:25:12 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @poweredbyaltnet: First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDi\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 559172951497375744, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 45294835, 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "id_str": "45294835", 
+                    "screen_name": "poweredbyaltnet", 
+                    "name": "Douglas Starnes"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/jDifxtRn6F", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                    "display_url": "leanpub.com/learnpythonwit\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "559172951497375744", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDifxtRn6F #python", 
+            "in_reply_to_status_id": null, 
+            "id": 559153617291476992, 
+            "favorite_count": 9, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/jDifxtRn6F", 
+                        "indices": [
+                            102, 
+                            125
+                        ], 
+                        "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                        "display_url": "leanpub.com/learnpythonwit\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "559153617291476992", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 45294835, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/uFQiLjSYYi", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://about.me/douglas.starnes", 
+                                "display_url": "about.me/douglas.starnes"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 1099, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "45294835", 
+                "profile_background_color": "131516", 
+                "listed_count": 102, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 13567, 
+                "description": "Polyglot ninja: C#, Python, Swift, Java, Go, R & more. Author. Speaker. Coder education. Mobile. Data/ML. Wannabe Game Dev.  Startups. Triathlete.", 
+                "friends_count": 696, 
+                "location": "Memphis, TN, USA", 
+                "profile_link_color": "6E1616", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Douglas Starnes", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 561, 
+                "screen_name": "poweredbyaltnet", 
+                "notifications": false, 
+                "url": "http://t.co/uFQiLjSYYi", 
+                "created_at": "Sun Jun 07 06:06:14 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Jan 25 00:59:45 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 734188436, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3006290109/adad8045ecab9d5bd3afb6cfbd25a060_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/XyHy6QKC", 
+                            "indices": [
+                                0, 
+                                20
+                            ], 
+                            "expanded_url": "http://waynewerner.com", 
+                            "display_url": "waynewerner.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 140, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "734188436", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 10, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 8735, 
+            "description": "Pythonista, Linux geek, Gamer, Artist, DIYer, and all-around-geek.", 
+            "friends_count": 284, 
+            "location": "", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3006290109/adad8045ecab9d5bd3afb6cfbd25a060_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/734188436/1356182295", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Wayne Werner", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 3167, 
+            "screen_name": "waynejwerner", 
+            "notifications": false, 
+            "url": "http://t.co/XyHy6QKC", 
+            "created_at": "Fri Aug 03 04:49:52 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Jan 25 02:16:35 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @poweredbyaltnet: First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDi\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 559156730219593728, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 45294835, 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "id_str": "45294835", 
+                    "screen_name": "poweredbyaltnet", 
+                    "name": "Douglas Starnes"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/jDifxtRn6F", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                    "display_url": "leanpub.com/learnpythonwit\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "559156730219593728", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDifxtRn6F #python", 
+            "in_reply_to_status_id": null, 
+            "id": 559153617291476992, 
+            "favorite_count": 9, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/jDifxtRn6F", 
+                        "indices": [
+                            102, 
+                            125
+                        ], 
+                        "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                        "display_url": "leanpub.com/learnpythonwit\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "559153617291476992", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 45294835, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/uFQiLjSYYi", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://about.me/douglas.starnes", 
+                                "display_url": "about.me/douglas.starnes"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 1099, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "45294835", 
+                "profile_background_color": "131516", 
+                "listed_count": 102, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 13567, 
+                "description": "Polyglot ninja: C#, Python, Swift, Java, Go, R & more. Author. Speaker. Coder education. Mobile. Data/ML. Wannabe Game Dev.  Startups. Triathlete.", 
+                "friends_count": 696, 
+                "location": "Memphis, TN, USA", 
+                "profile_link_color": "6E1616", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Douglas Starnes", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 561, 
+                "screen_name": "poweredbyaltnet", 
+                "notifications": false, 
+                "url": "http://t.co/uFQiLjSYYi", 
+                "created_at": "Sun Jun 07 06:06:14 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Jan 25 00:59:45 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 317335205, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/552936293290606592/mtWwq2Uv_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/BEUPeqftRR", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://about.me/dmhalejr", 
+                            "display_url": "about.me/dmhalejr"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 197, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "317335205", 
+            "profile_background_color": "131516", 
+            "listed_count": 12, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 1267, 
+            "description": "Husband. Father. Code Tester. Hot Chicken Disciple. QA Analyst for @emmaemail", 
+            "friends_count": 227, 
+            "location": "Hermitage, TN", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/552936293290606592/mtWwq2Uv_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "David Hale", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 468, 
+            "screen_name": "dmhalejr", 
+            "notifications": false, 
+            "url": "http://t.co/BEUPeqftRR", 
+            "created_at": "Tue Jun 14 19:45:50 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Jan 25 01:12:07 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @poweredbyaltnet: First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDi\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 559155077358059521, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 45294835, 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "id_str": "45294835", 
+                    "screen_name": "poweredbyaltnet", 
+                    "name": "Douglas Starnes"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "https://t.co/jDifxtRn6F", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                    "display_url": "leanpub.com/learnpythonwit\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "559155077358059521", 
+        "retweet_count": 5, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDifxtRn6F #python", 
+            "in_reply_to_status_id": null, 
+            "id": 559153617291476992, 
+            "favorite_count": 9, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "https://t.co/jDifxtRn6F", 
+                        "indices": [
+                            102, 
+                            125
+                        ], 
+                        "expanded_url": "https://leanpub.com/learnpythonwithfreeonlinetools", 
+                        "display_url": "leanpub.com/learnpythonwit\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "559153617291476992", 
+            "retweet_count": 5, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 45294835, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/uFQiLjSYYi", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://about.me/douglas.starnes", 
+                                "display_url": "about.me/douglas.starnes"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 1099, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "45294835", 
+                "profile_background_color": "131516", 
+                "listed_count": 102, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 13567, 
+                "description": "Polyglot ninja: C#, Python, Swift, Java, Go, R & more. Author. Speaker. Coder education. Mobile. Data/ML. Wannabe Game Dev.  Startups. Triathlete.", 
+                "friends_count": 696, 
+                "location": "Memphis, TN, USA", 
+                "profile_link_color": "6E1616", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+                "name": "Douglas Starnes", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 561, 
+                "screen_name": "poweredbyaltnet", 
+                "notifications": false, 
+                "url": "http://t.co/uFQiLjSYYi", 
+                "created_at": "Sun Jun 07 06:06:14 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Jan 25 00:59:45 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Jan 25 01:05:33 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

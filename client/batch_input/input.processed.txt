@@ -1,0 +1,94 @@
+Sun Feb 01 17:56:28 +0000 2015	561946195804033024	2braids	0	0	1	561944713054269440	4	1	Sun Feb 01 17:50:34 +0000 2015	0	RT @2braids: Excited to see the #PyTN2015 speakers tweet &amp; blog about their upcoming talks: next weekend will be a fantastic experience for…
+Sun Feb 01 17:44:17 +0000 2015	561943130606690305	0	0	9	6	0	0	0	0	0	Treat everyone as you meet as a smart human programmer that shares an interest in Python with you.
+Sun Feb 01 17:43:11 +0000 2015	561942855854592000	0	0	2	1	0	0	0	0	0	Before you show up next week make sure you understand our code of conduct! https://t.co/f6KU5SU97R
+Sun Feb 01 17:35:34 +0000 2015	561940936247500800	sigmavirus24	photo	0	1	559897970624049152	8	1	Tue Jan 27 02:17:33 +0000 2015	http://t.co/IqfcQV9jx2	RT @sigmavirus24: Probably the best slide I've ever made #PyTennessee http://t.co/IqfcQV9jx2
+Sun Feb 01 17:35:19 +0000 2015	561940873496518656	jessejiryudavis	0	0	5	561932303115771905	2	5	Sun Feb 01 17:01:15 +0000 2015	0	RT @jessejiryudavis: I'm going to Nashville next week! http://t.co/1InKdWCeII #PyTennessee #Python #MongoDB
+Sun Feb 01 16:57:06 +0000 2015	561931255835803649	muhkayoh	0	0	0	0	0	0	0	0	@muhkayoh mvp enough lets get some funding…
+Sun Feb 01 16:47:52 +0000 2015	561928932174614528	muhkayoh	0	0	0	0	0	0	0	0	@muhkayoh can you make me one too… organizers see nothing…
+Sun Feb 01 16:47:28 +0000 2015	561928831674904576	muhkayoh|PyTennessee	0	0	2	561928329716985857	2	2	Sun Feb 01 16:45:28 +0000 2015	0	RT @muhkayoh: Feverishly working on the cloning device so I can attend all of the talks at @PyTennessee next weekend. #python
+Sun Feb 01 16:42:54 +0000 2015	561927682871812097	sarah_guido|celiala|PyTennessee	0	0	7	561927149016596481	7	7	Sun Feb 01 16:40:47 +0000 2015	0	RT @sarah_guido: Come see @celiala and me give a tutorial on NetworkX at @PyTennessee next weekend! https://t.co/PVfWsoRgqG
+Sun Feb 01 16:10:50 +0000 2015	561919614058516480	OReillyMedia	0	0	0	0	0	0	0	0	@OReillyMedia only possible with great sponsors like you!
+Sun Feb 01 16:10:29 +0000 2015	561919524350734337	OReillyMedia|PyTennessee	0	0	10	561903108717289473	5	10	Sun Feb 01 15:05:15 +0000 2015	0	RT @OReillyMedia: The schedule for @PyTennessee this year makes for an amazing weekend! Its in Nashville, Feb 6-8 https://t.co/6kzDI5ornq
+Sun Feb 01 03:08:01 +0000 2015	561722609805852674	RickMurdock	0	0	0	0	0	0	0	0	@RickMurdock the worse part is they are all good talks and people!
+Sun Feb 01 03:04:21 +0000 2015	561721689529417728	RickMurdock	0	0	0	0	0	0	0	0	@RickMurdock so hard to pick…
+Sun Feb 01 02:52:54 +0000 2015	561718807547621376	RickMurdock	0	0	0	0	0	0	0	0	@RickMurdock no video this year didn’t have the budget :( sorry
+Sat Jan 31 19:00:39 +0000 2015	561599960765190144	tsclausing|PyTennessee	0	0	2	561599837049999361	5	2	Sat Jan 31 19:00:09 +0000 2015	0	RT @tsclausing: 1 week till @PyTennessee 2015! This time seven days from now, I'll be presenting: "Write a Toy Language in Python 3" https:…
+Sat Jan 31 16:48:30 +0000 2015	561566703801606145	RickMurdock	0	0	0	0	0	0	0	0	@RickMurdock It's gonna be awesome!
+Fri Jan 30 17:27:56 +0000 2015	561214240300609536	0	0	3	2	0	0	0	0	0	Coming to PyTN next weekend, make sure to register for the After Party! https://t.co/CnAox7lSJP #LiveMusic #NotCountry #PyTN2015
+Fri Jan 30 16:27:18 +0000 2015	561198982555533313	0	0	5	1	0	0	0	0	0	Placing order for speakers dinner... "Can you just bring me all your hot chicken and banana pudding?"
+Fri Jan 30 13:59:21 +0000 2015	561161749223964672	0	0	7	7	0	0	0	0	0	7 Days People! PANIC!! #PyTN2015
+Thu Jan 29 15:29:10 +0000 2015	560821963057557504	OReillyMedia	0	4	2	0	0	0	0	0	We are thrilled to welcome back @OReillyMedia as a sponsor! Thank you for supporting the #python community. #PyTN2015
+Tue Jan 27 18:20:00 +0000 2015	560140179013636096	adamfblahblah	0	0	0	0	0	0	0	0	@adamfblahblah woot! Now even more reason to live and work in Nashville!
+Tue Jan 27 18:19:36 +0000 2015	560140079927410688	adamfblahblah|PyTennessee	0	0	1	560137369924284416	3	1	Tue Jan 27 18:08:50 +0000 2015	0	RT @adamfblahblah: @PyTennessee Google Fiber coming to your neighborhood! http://t.co/RH79AbOsmQ
+Mon Jan 26 21:11:40 +0000 2015	559820994781933569	jilljubs	0	0	0	0	0	0	0	0	@jilljubs haha my laney does that exact same thing if it is too cold.
+Mon Jan 26 21:09:03 +0000 2015	559820335521214464	adriennefriend|PyTennessee	0	0	3	559770882550550528	4	3	Mon Jan 26 17:52:33 +0000 2015	0	RT @adriennefriend: Today at Coding with Knives: Learning #Python: on encouragement and seitan http://t.co/uXeFw9r4a2 ! #learnpython #pytn …
+Sun Jan 25 17:11:48 +0000 2015	559398242094309377	kennethreitz	0	1	0	0	0	0	0	0	@kennethreitz we love you too
+Sun Jan 25 01:05:33 +0000 2015	559155077358059521	poweredbyaltnet	0	0	5	559153617291476992	9	5	Sun Jan 25 00:59:45 +0000 2015	0	RT @poweredbyaltnet: First try at writing a book.  I'll release the first two chapters for free.  Feedback appreciated! :) https://t.co/jDi…
+Sat Jan 24 23:22:05 +0000 2015	559129039945076736	pyrsonwho|jacqueswoodcock	photo	13	10	0	0	0	0	http://t.co/LMBf9Z4N0p	Young coders Pis are ready! Thanks @pyrsonwho and @jacqueswoodcock our young coder sponsors. #colorful http://t.co/LMBf9Z4N0p
+Sat Jan 24 23:10:40 +0000 2015	559126165093642242	0	0	4	1	0	0	0	0	0	Gist of today PyTN attendees update email… FOOD FOOD EVERYWHERE
+Sat Jan 24 22:11:17 +0000 2015	559111222193586176	OssAnna16	0	0	0	0	0	0	0	0	@OssAnna16 yeap you won’t miss much we just hang and eat.
+Sat Jan 24 22:10:18 +0000 2015	559110972263395329	adriennefriend|OssAnna16	0	0	0	0	0	0	0	0	@adriennefriend @OssAnna16 it is in the attendees update sent out today
+Sat Jan 24 22:06:52 +0000 2015	559110108849123328	OssAnna16	0	1	0	0	0	0	0	0	@OssAnna16 do not miss that pyladies party! Lynn root!
+Fri Jan 23 02:33:25 +0000 2015	558452413657796609	elegant_stitch|PyTennessee	0	0	1	558439611660120064	0	1	Fri Jan 23 01:42:33 +0000 2015	0	RT @elegant_stitch: What would you like to vote on tonight?  You can go here for inspiration:  http://t.co/734k3X8ksV  @PyTennessee
+Fri Jan 23 00:28:30 +0000 2015	558420976212660224	jacqueswoodcock|pyladies	photo	0	2	558418364226629633	7	2	Fri Jan 23 00:18:07 +0000 2015	http://t.co/ooBrtme31p	RT @jacqueswoodcock: Just earned my new @pyladies sticker by making a donation. Yay! http://t.co/ooBrtme31p
+Fri Jan 23 00:28:25 +0000 2015	558420954607800320	poweredbyaltnet|pynash|myemma	0	0	1	558420527069798400	3	1	Fri Jan 23 00:26:43 +0000 2015	0	RT @poweredbyaltnet: At the @pynash meeting at the @myemma HQ in Nashville. #Python
+Thu Jan 22 15:35:00 +0000 2015	558286717187555329	indypy|PyTennessee|pyohio	0	0	2	558278307058573312	1	2	Thu Jan 22 15:01:35 +0000 2015	0	RT @indypy: can't wait until @PyTennessee or @pyohio? Check out our Saturday miniconf on Python Testing &amp; Debugging in #Indy http://t.co/S5…
+Thu Jan 22 00:03:45 +0000 2015	558052360707395587	elegant_stitch|PyTennessee	photo	0	2	558051333744652290	2	2	Wed Jan 21 23:59:40 +0000 2015	http://t.co/MjxhfIzkTb	RT @elegant_stitch: Let's do another round of voting!  You can participate in the polo vote even if you've voted before. @PyTennessee http:…
+Wed Jan 21 19:24:17 +0000 2015	557982030974423040	JeremyKendall	0	0	0	0	0	0	0	0	@JeremyKendall *facepalm*
+Wed Jan 21 18:58:47 +0000 2015	557975613106298880	JeremyKendall	0	1	0	0	0	0	0	0	@JeremyKendall sprints at 6pm at emma
+Tue Jan 20 23:44:47 +0000 2015	557685200415895553	elegant_stitch|PyTennessee	photo	0	3	557684780092125184	1	3	Tue Jan 20 23:43:07 +0000 2015	http://t.co/qHYOo48uwm	RT @elegant_stitch: Let's do one for the ladies this evening.  Tweet your favorite for a chance at $30 in python gear.  @PyTennessee http:/…
+Tue Jan 20 14:29:53 +0000 2015	557545553332957185	odonnell004|sarah_guido	0	0	0	0	0	0	0	0	@odonnell004 @sarah_guido I’m not sure I could make it a month without it
+Tue Jan 20 14:27:23 +0000 2015	557544927165677568	sarah_guido	0	1	0	0	0	0	0	0	@sarah_guido nom nom nom
+Mon Jan 19 22:42:42 +0000 2015	557307186653954050	_gignosko_|elegant_stitch|PyTennessee	0	0	1	557304540891217920	0	1	Mon Jan 19 22:32:11 +0000 2015	0	RT @_gignosko_: @elegant_stitch I'm digging the Port Authority in charcoal/black. XL seems like a comfy fit. @PyTennessee
+Mon Jan 19 22:35:43 +0000 2015	557305429861351425	elegant_stitch|byeliad|PyTennessee	0	0	1	557305342351007745	1	1	Mon Jan 19 22:35:22 +0000 2015	0	RT @elegant_stitch: @byeliad Brian gets 3 entries, thanks Brian! @PyTennessee
+Mon Jan 19 21:48:04 +0000 2015	557293439889727488	elegant_stitch|PyTennessee	photo	0	3	557293335413395456	2	3	Mon Jan 19 21:47:39 +0000 2015	http://t.co/Zvbi1ZrJKR	RT @elegant_stitch: Want free python gear? Vote to win, color and size choices get extra entries!  Here's the first:|@PyTennessee http://t.…
+Mon Jan 19 20:50:21 +0000 2015	557278912682926080	scottsburns|pyladies	0	0	0	0	0	0	0	0	@scottsburns @pyladies thank you
+Mon Jan 19 20:29:03 +0000 2015	557273553088028672	poweredbyaltnet|PyTennessee|ThePSF	0	0	3	557273052296540160	3	3	Mon Jan 19 20:27:03 +0000 2015	0	RT @poweredbyaltnet: PSF 2014 in Review mention @PyTennessee - http://t.co/4jndtpAcBV via @ThePSF #python
+Mon Jan 19 19:58:53 +0000 2015	557265960949002242	pyladies	photo	3	3	0	0	0	0	http://t.co/cG2rmjr5du	Make any donation to @pyladies, show the registration desk your donation and recieve these awesome stickers! http://t.co/cG2rmjr5du
+Mon Jan 19 19:55:03 +0000 2015	557264996426842112	indypy|PyTennessee|pyohio	0	0	2	557263855211253760	2	2	Mon Jan 19 19:50:31 +0000 2015	0	RT @indypy: can't wait until @pytennessee or @pyohio? Check out our Saturday miniconf on Python Testing &amp; Debugging in #Indy http://t.co/S5…
+Sun Jan 18 01:46:09 +0000 2015	556628579782778880	sigmavirus24	0	1	0	0	0	0	0	0	@sigmavirus24 assume 1024x768
+Sat Jan 17 23:31:10 +0000 2015	556594610110492673	radix	0	0	0	0	0	0	0	0	@radix speaker stuff will be figured out soon
+Sat Jan 17 23:30:37 +0000 2015	556594472105299968	radix	0	0	0	0	0	0	0	0	@radix so sprints each night, Saturday there is a pizza gathering with an awesome band, pyladies dinner Friday night
+Sat Jan 17 23:28:04 +0000 2015	556593828439023616	radix	0	0	0	0	0	0	0	0	@radix of course
+Sat Jan 17 23:26:52 +0000 2015	556593526759518209	radix	0	0	0	0	0	0	0	0	@radix nothing till that night at 6, but there are co working spaces if you need them
+Sat Jan 17 16:37:04 +0000 2015	556490396810096640	0	0	0	0	0	0	0	0	0	I have a female looking for a room split can you help? jason@jasonamyers.com
+Sat Jan 17 12:44:54 +0000 2015	556431972541927424	paltman|eldarion	0	0	29	556388198184927233	2	29	Sat Jan 17 09:50:58 +0000 2015	0	RT @paltman: Once again @eldarion is hiring. 2 Django devs for at least 3-months. One remote. One local to Atlanta. ||paltman@eldarion.com|…
+Fri Jan 16 13:40:09 +0000 2015	556083486743072769	0	0	0	0	0	0	0	0	0	@kellykaajelly Please email jason@jasonamyers.com with the email address you got the ticket from.
+Fri Jan 16 13:39:29 +0000 2015	556083317955915776	0	0	0	0	0	0	0	0	0	@kellykaajelly we'll issue you a refund and give it to the next person on the waiting list if that's what you want us to do.
+Wed Jan 14 19:25:22 +0000 2015	555445586422677505	0	0	0	4	0	0	0	0	0	Need one more sponsor to cover snacks at the event are you game? Contact me jason@jasonamyers.com
+Wed Jan 14 18:07:30 +0000 2015	555425992320110594	OssAnna16|PyTennessee|pyladies|djangogirls	0	0	3	555424929299308544	4	3	Wed Jan 14 18:03:17 +0000 2015	0	RT @OssAnna16: @PyTennessee @pyladies Awesome! I'll bring @djangogirls stickers too :)
+Wed Jan 14 17:49:57 +0000 2015	555421576242278400	pyladies	photo	8	15	0	0	0	0	http://t.co/I9tTyqRAh0	These will be available at PyTN! They go best with a donation on  @PyLadies day, Sunday Feb 8th, at PyTN. #python http://t.co/I9tTyqRAh0
+Wed Jan 14 14:48:32 +0000 2015	555375921964646401	stratasan|byeliad	0	0	2	0	0	0	0	0	You want this job @stratasan their team is lead by the awesome @byeliad! They are extremely active in the community! https://t.co/dOlOQWSWlF
+Wed Jan 14 14:06:18 +0000 2015	555365293686407170	devgr4	0	0	0	0	0	0	0	0	@devgr4 of course!
+Wed Jan 14 13:01:08 +0000 2015	555348891818663936	devgr4	0	0	0	0	0	0	0	0	@devgr4 resent your confirmation email.
+Wed Jan 14 11:27:17 +0000 2015	555325272543993856	devgr4	0	0	0	0	0	0	0	0	@devgr4 The ticket should have come from eventbrite right after the paypal one. Email me at jason@jasonamyers.com and we'll track them down
+Tue Jan 13 18:37:39 +0000 2015	555071193792135168	planetpython|ArcTanSusan|DCPython	0	0	1	555044743093039104	3	1	Tue Jan 13 16:52:33 +0000 2015	0	RT @planetpython: PyTennessee: PyTN Profiles: Susan Tan (@arctansusan) and DCPython (@dcpython) http://t.co/8Zi22LM4Co
+Tue Jan 13 16:31:04 +0000 2015	555039336635592704	graphstoryco|PyTennessee|graphstoryco	0	0	10	555035407641870336	6	10	Tue Jan 13 16:15:27 +0000 2015	0	RT @graphstoryco: Win a ticket to @pytennessee: Tweet "Free instance of #neo4j from @graphstoryco https://t.co/ksJTW7OcTM". Random winner a…
+Mon Jan 12 22:02:22 +0000 2015	554760321802723328	0	0	3	6	0	0	0	0	0	Need one more sponsor to cover snacks at the event are you game? Contact me jason@jasonamyers.com
+Mon Jan 12 21:57:18 +0000 2015	554759045908004865	jasonamyers|PyTennessee|pyrsonwho|jacqueswoodcock	0	0	2	554758874495209474	2	2	Mon Jan 12 21:56:37 +0000 2015	0	RT @jasonamyers: @PyTennessee Young Coders was made possible this year by our great sponsors @pyrsonwho and Kite Web Consulting (@jacqueswo…
+Mon Jan 12 21:56:47 +0000 2015	554758917612662784	odonnell004	0	0	0	0	0	0	0	0	@odonnell004 nothing but the best!
+Mon Jan 12 21:55:11 +0000 2015	554758513906708481	0	photo	4	2	0	0	0	0	http://t.co/fpw7dDYHNX	Yeah these cases for the Young Coders Raspberry Pis are awesome! http://t.co/fpw7dDYHNX
+Mon Jan 12 18:22:10 +0000 2015	554704908667342848	Authy	0	0	3	554703206891421698	2	3	Mon Jan 12 18:15:25 +0000 2015	0	RT @Authy: We’re hiring a senior/principal developer across the globe. This is a great opportunity to join us: https://t.co/nLvMTpJUH3
+Mon Jan 12 16:57:36 +0000 2015	554683627389591553	paltman|TrackMaven	0	1	1	0	0	0	0	0	PyTN Profiles: Patrick Altman (@paltman) and TrackMaven (@trackmaven) http://t.co/FwQQbkCvSp #python #pytn2015
+Mon Jan 12 16:45:51 +0000 2015	554680668970823681	lisafrench	0	0	10	554673408932196353	7	10	Mon Jan 12 16:17:00 +0000 2015	0	RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/…
+Sat Jan 10 18:52:28 +0000 2015	553987755114770432	elegant_stitch	0	1	0	0	0	0	0	0	@elegant_stitch yes please!
+Sat Jan 10 16:43:57 +0000 2015	553955415323836416	juliaelman|hackershipco	0	3	3	0	0	0	0	0	PyTN Profiles: Julia Elman (@juliaelman) and Hackership (@hackershipco) http://t.co/19I0wZ9V2U #python #pytn2015
+Fri Jan 09 18:14:57 +0000 2015	553615926579298305	jasonamyers	0	0	1	553615900796928000	1	1	Fri Jan 09 18:14:51 +0000 2015	0	RT @jasonamyers: PyTN Profiles: Christopher Armstrong and Reticulatus| http://t.co/zFQLM18weX #python #pytn2015
+Fri Jan 09 15:54:36 +0000 2015	553580606114627584	ForecastWatch|bkmontgomery	0	1	0	0	0	0	0	0	@ForecastWatch @bkmontgomery just clicked the release button for them :)
+Fri Jan 09 14:31:41 +0000 2015	553559740840546304	0	0	4	1	0	0	0	0	0	Ordering stuff for young coders... yeah we got some of each color https://t.co/zEoltim8fW #WeAreThreeYearOld
+Fri Jan 09 03:43:45 +0000 2015	553396684571824129	egdelwonk|emmaemail	0	0	2	553389670974111744	2	2	Fri Jan 09 03:15:53 +0000 2015	0	RT @egdelwonk: Happiness Engineers. So great. ||http://t.co/L2f5MqAqE3||@emmaemail
+Fri Jan 09 03:07:22 +0000 2015	553387525558259713	understandig|SimonSolutions	0	3	4	0	0	0	0	0	PyTN Profiles: Rebecca Standig (@understandig) and Simon Solutions (@simonsolutions)  http://t.co/3GIdnJjCRK|#python #pytn2015 #RunningLate
+Fri Jan 09 01:29:47 +0000 2015	553362969355374592	dstanek	0	1	0	0	0	0	0	0	@dstanek yeah sorry we're a tiny little conference
+Thu Jan 08 18:11:33 +0000 2015	553252685328441344	0	0	2	2	0	0	0	0	0	Did you get a ticket early to PyTN, but now you can't come? Let us know, we have a waiting list running. #python #pytn2015
+Thu Jan 08 03:05:54 +0000 2015	553024769172733952	0	photo	5	1	0	0	0	0	http://t.co/9zmI01fq0q	Logos Logos everywhere!  It's like NASCAR #python #pytn2015 http://t.co/9zmI01fq0q
+Wed Jan 07 23:40:41 +0000 2015	552973127077339138	tayloramurphy1	0	0	0	0	0	0	0	0	@tayloramurphy1 drop me an email at jason@jasonamyers.com... I have an option... Might not be awesome...
+Wed Jan 07 19:02:30 +0000 2015	552903120377110529	0	0	0	1	0	0	0	0	0	PyTN Profiles: Clayton Parker and Kite Web Consulting http://t.co/bjpGAOFGHb #python #pytn2015
+Wed Jan 07 16:40:37 +0000 2015	552867411045920768	0	0	0	0	0	0	0	0	0	First PyTN Attendee Update! https://t.co/U28JhD9eE4
+Wed Jan 07 15:55:15 +0000 2015	552855993768751104	0	0	0	3	0	0	0	0	0	Got a room to share? Need a room to crash in? Help out at https://t.co/upXwYvlnhF email jason@jasonamyers.com to be added.
+Wed Jan 07 15:50:16 +0000 2015	552854741588652034	_ashfall_	0	0	0	0	0	0	0	0	@_ashfall_ I could do that and get them to email me if they want to be added one sec...
+Wed Jan 07 15:40:48 +0000 2015	552852359651815425	_ashfall_	0	0	0	0	0	0	0	0	@_ashfall_ sadly no, but we could share a google doc?
+Wed Jan 07 14:37:40 +0000 2015	552836468973273088	sigmavirus24|Jonplussed|twopoint718	0	2	1	0	0	0	0	0	@sigmavirus24 @Jonplussed @twopoint718 WAIT! We want Mad Hugs too.
+Wed Jan 07 14:34:58 +0000 2015	552835789626028032	jennifermontes|kylewm2	0	0	0	0	0	0	0	0	@jennifermontes @kylewm2 I might know a way... jason@jasonamyers.com
+Wed Jan 07 02:38:50 +0000 2015	552655570172276737	kylewm2|kylewm2|PyTennessee|jden415|jennifermontes	0	0	1	552645618632388608	1	1	Wed Jan 07 01:59:17 +0000 2015	0	RT @kylewm2: @kylewm2 Also she is giving a talk at @PyTennessee February 8! Do I know anyone else who will be there (@jden415?, @jennifermo…
+Wed Jan 07 00:43:35 +0000 2015	552626568791859201	0	0	6	7	0	0	0	0	0	We've given out over $5,500 in financial aid this year! 3X more than last year. Thank you to all our generous sponsors! #python #pytn2015
+Tue Jan 06 23:58:22 +0000 2015	552615188512669697	kcunning|OReillyMedia	0	0	12	552606442596073472	1	12	Tue Jan 06 23:23:37 +0000 2015	0	RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?

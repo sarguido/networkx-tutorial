@@ -1,0 +1,8 @@
+{
+    "params": {
+        "retweeted_status|user|screen_name": "OReillyMedia"
+    }, 
+    "result": {
+        "num_items": 10
+    }
+}

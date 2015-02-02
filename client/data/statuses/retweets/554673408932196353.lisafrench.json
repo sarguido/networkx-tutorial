@@ -1,0 +1,2117 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554784263678480384, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554784263678480384", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "3E4415", 
+            "default_profile_image": false, 
+            "id": 14629114, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711030133/779d78efefd7b61dfe62038f363fe893.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1537536259/CIMG3540_2_normal.jpg", 
+            "profile_sidebar_fill_color": "99CC33", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/WFkJ13cMQG", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.petebrumm.com", 
+                            "display_url": "petebrumm.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Q5qNA6pSpV", 
+                            "indices": [
+                                97, 
+                                119
+                            ], 
+                            "expanded_url": "http://Kindful.com", 
+                            "display_url": "Kindful.com"
+                        }, 
+                        {
+                            "url": "https://t.co/rfXoXigVje", 
+                            "indices": [
+                                129, 
+                                152
+                            ], 
+                            "expanded_url": "https://www.onename.io/pbrumm", 
+                            "display_url": "onename.io/pbrumm"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 265, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "14629114", 
+            "profile_background_color": "352726", 
+            "listed_count": 24, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 549, 
+            "description": "Architect of high volume web applications\r\nCurrently enjoying: Ruby, Backbone.js, Docker\r\nCTO of http://t.co/Q5qNA6pSpV\r\nProfile https://t.co/rfXoXigVje", 
+            "friends_count": 332, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "D02B55", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1537536259/CIMG3540_2_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14629114/1352862317", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711030133/779d78efefd7b61dfe62038f363fe893.jpeg", 
+            "name": "Pete Brumm", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 473, 
+            "screen_name": "pbrumm", 
+            "notifications": false, 
+            "url": "http://t.co/WFkJ13cMQG", 
+            "created_at": "Fri May 02 18:14:45 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 23:37:30 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554680668970823681, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554680668970823681", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:45:51 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554680668949852160, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554680668949852160", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 13553, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/xROdKIC4Sd", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jasonamyers.com", 
+                            "display_url": "jasonamyers.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1035, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "13553", 
+            "profile_background_color": "131516", 
+            "listed_count": 72, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 9883, 
+            "description": "Openstack @Cisco Software Engineer, O'Reilly Author; Book, Coffee, and Cookie Lover; @PyTennessee @Nodevember and @PyNash Co-Organizer", 
+            "friends_count": 165, 
+            "location": "35.727614,-86.338707", 
+            "profile_link_color": "232626", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13553/1398258739", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Jason A Myers", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2625, 
+            "screen_name": "jasonamyers", 
+            "notifications": false, 
+            "url": "http://t.co/xROdKIC4Sd", 
+            "created_at": "Tue Nov 21 16:20:38 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:45:51 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554679000510263296, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554679000510263296", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 14881451, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000178907332/FlkUyYP-.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2504804310/0tp8veb5lge1ze599zso_normal.jpeg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/jR1yvRCrCs", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://dailytechnology.net/", 
+                            "display_url": "dailytechnology.net"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 992, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "14881451", 
+            "profile_background_color": "333333", 
+            "listed_count": 74, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 10518, 
+            "description": "", 
+            "friends_count": 577, 
+            "location": "Nashville", 
+            "profile_link_color": "5D5D8A", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2504804310/0tp8veb5lge1ze599zso_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14881451/1348279408", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000178907332/FlkUyYP-.jpeg", 
+            "name": "\u0432\u044f\u03b9\u03b1\u03b7 \u2202. ", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2035, 
+            "screen_name": "byeliad", 
+            "notifications": false, 
+            "url": "http://t.co/jR1yvRCrCs", 
+            "created_at": "Fri May 23 13:36:19 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:39:13 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554678784658796544, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554678784658796544", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "666666", 
+            "default_profile_image": false, 
+            "id": 1205448414, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3292139309/ddd34aa4d23892441a28440fb2358193_normal.jpeg", 
+            "profile_sidebar_fill_color": "252429", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/vC48gMOVos", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://cal.nashvl.org/", 
+                            "display_url": "cal.nashvl.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 165, 
+            "profile_sidebar_border_color": "181A1E", 
+            "id_str": "1205448414", 
+            "profile_background_color": "1A1B1F", 
+            "listed_count": 7, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 252, 
+            "description": "Upcoming events for Nashville software developers. Tweets by @jorendorff and @n8foo.", 
+            "friends_count": 29, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3292139309/ddd34aa4d23892441a28440fb2358193_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "nashdevcal", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 13, 
+            "screen_name": "nashdevcal", 
+            "notifications": false, 
+            "url": "http://t.co/vC48gMOVos", 
+            "created_at": "Thu Feb 21 17:02:15 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:38:22 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554677344950964224, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554677344950964224", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 45605475, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/522553619288424448/IEC-nHb0_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/JXAkYw3XwF", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://macintux.calepin.co", 
+                            "display_url": "macintux.calepin.co"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 487, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "45605475", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 23, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 20467, 
+            "description": "", 
+            "friends_count": 249, 
+            "location": "Indianapolis", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/522553619288424448/IEC-nHb0_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Pedants 'R' Us", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 2124, 
+            "screen_name": "macintux", 
+            "notifications": false, 
+            "url": "http://t.co/JXAkYw3XwF", 
+            "created_at": "Mon Jun 08 16:35:19 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:32:39 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554677163597627393, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554677163597627393", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 2696061805, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/504350161800163328/G-Zg1Qvi_normal.png", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/jZHZ7hNt2K", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.andiamopartners.com", 
+                            "display_url": "andiamopartners.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 110, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "2696061805", 
+            "profile_background_color": "000000", 
+            "listed_count": 7, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 247, 
+            "description": "A globally recognized IT staffing and consulting firm specializing in placing professionals with the world\u2019s largest and most well-known tech & finance firms.", 
+            "friends_count": 640, 
+            "location": "New York, NY", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/504350161800163328/G-Zg1Qvi_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2696061805/1409087845", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Andiamo Partners", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 74, 
+            "screen_name": "AndiamoPartners", 
+            "notifications": false, 
+            "url": "http://t.co/jZHZ7hNt2K", 
+            "created_at": "Thu Jul 31 16:05:21 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:31:55 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554677122854158338, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554677122854158338", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 52417305, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/458685160930570240/_BT-iMWN_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/5FcNZ0HjhZ", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://jonathancreamer.com", 
+                            "display_url": "jonathancreamer.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/TCtWuI2RIZ", 
+                            "indices": [
+                                100, 
+                                122
+                            ], 
+                            "expanded_url": "http://ASP.NET", 
+                            "display_url": "ASP.NET"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 1544, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "52417305", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 117, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 19851, 
+            "description": "Living, learning, developing... Writing about what I do, what I love, and what I learn. JavaScript, http://t.co/TCtWuI2RIZ MVC, Microsoft MVP, and IEuserAgent.", 
+            "friends_count": 1784, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "034F8A", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/458685160930570240/_BT-iMWN_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/52417305/1398202568", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Jonathan Creamer", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 5359, 
+            "screen_name": "jcreamer898", 
+            "notifications": false, 
+            "url": "http://t.co/5FcNZ0HjhZ", 
+            "created_at": "Tue Jun 30 15:02:00 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:31:46 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554674774979653632, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554674774979653632", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 14929997, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/711598409/my_face_normal.jpg", 
+            "profile_sidebar_fill_color": "C0DFEC", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/PZ2ClNCH0I", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.codefugue.com", 
+                            "display_url": "codefugue.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "A8C7F7", 
+            "id_str": "14929997", 
+            "profile_background_color": "022330", 
+            "listed_count": 36, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 2217, 
+            "description": "Husband, father, software developer, musician. Technique over technology. Language geek. C#, JS, Ruby, Erlang, Haskell, F#, Elixir, Objective C, and a bit of R.", 
+            "friends_count": 974, 
+            "location": "Franklin, TN", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/711598409/my_face_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14929997/1400028181", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+            "name": "Calvin Bottoms", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 32, 
+            "screen_name": "calvinb", 
+            "notifications": false, 
+            "url": "http://t.co/PZ2ClNCH0I", 
+            "created_at": "Wed May 28 03:34:06 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:22:26 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @lisafrench: Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http:/\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 554673737879289857, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 33655127, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "33655127", 
+                    "screen_name": "lisafrench", 
+                    "name": "Lisa French"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/2yq5wyXlx7", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                    "display_url": "meetup.com/NashvilleWomen\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554673737879289857", 
+        "retweet_count": 10, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Nashville Women Programmers just reached 200 members and 31 RSVPs for tonight! Can you join us too? All are welcome. http://t.co/2yq5wyXlx7", 
+            "in_reply_to_status_id": null, 
+            "id": 554673408932196353, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/2yq5wyXlx7", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://www.meetup.com/NashvilleWomenProgrammers/events/219108219", 
+                        "display_url": "meetup.com/NashvilleWomen\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554673408932196353", 
+            "retweet_count": 10, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "262526", 
+                "default_profile_image": false, 
+                "id": 33655127, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "profile_sidebar_fill_color": "B381B1", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/fi9u4RqptN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://lisafrenchtech.com", 
+                                "display_url": "lisafrenchtech.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2705, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "33655127", 
+                "profile_background_color": "4D0333", 
+                "listed_count": 170, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 6860, 
+                "description": "Front End Developer at HCA. Nashville Women Programmers co-founder. Tweets on coding, education, equality, and cats.", 
+                "friends_count": 225, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "FF2E93", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/484472971956731905/olC_U5xf_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/33655127/1395105245", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17978612/Wallpaper_Pink_Trees.jpg", 
+                "name": "Lisa French", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 5326, 
+                "screen_name": "lisafrench", 
+                "notifications": false, 
+                "url": "http://t.co/fi9u4RqptN", 
+                "created_at": "Mon Apr 20 20:42:08 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 16:17:00 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 15961739, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/61141017/275965084_82477f8ebd_m_normal_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/9wnhioaWuC", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.leankit.com", 
+                            "display_url": "leankit.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 639, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "15961739", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 37, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 2497, 
+            "description": "Software developer, LeanKit Employee, Guitar/Bass player, Violinist in training", 
+            "friends_count": 957, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/61141017/275965084_82477f8ebd_m_normal_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Scott Walters", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1577, 
+            "screen_name": "cpound", 
+            "notifications": false, 
+            "url": "http://t.co/9wnhioaWuC", 
+            "created_at": "Sat Aug 23 22:01:56 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 16:18:19 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

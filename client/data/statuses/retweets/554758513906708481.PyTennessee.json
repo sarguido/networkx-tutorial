@@ -1,0 +1,692 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: Yeah these cases for the Young Coders Raspberry Pis are awesome! http://t.co/fpw7dDYHNX", 
+        "in_reply_to_status_id": null, 
+        "id": 554854384148807682, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "source_user_id": 1616492725, 
+                    "source_status_id_str": "554758513906708481", 
+                    "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                    "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                    "url": "http://t.co/fpw7dDYHNX", 
+                    "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                    "source_user_id_str": "1616492725", 
+                    "source_status_id": 554758513906708481, 
+                    "id_str": "554758513193283584", 
+                    "sizes": {
+                        "large": {
+                            "h": 1365, 
+                            "resize": "fit", 
+                            "w": 1024
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "medium": {
+                            "h": 800, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        104
+                    ], 
+                    "type": "photo", 
+                    "id": 554758513193283584, 
+                    "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554854384148807682", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Yeah these cases for the Young Coders Raspberry Pis are awesome! http://t.co/fpw7dDYHNX", 
+            "in_reply_to_status_id": null, 
+            "id": 554758513906708481, 
+            "favorite_count": 4, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [], 
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                        "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                        "url": "http://t.co/fpw7dDYHNX", 
+                        "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                        "id_str": "554758513193283584", 
+                        "sizes": {
+                            "large": {
+                                "h": 1365, 
+                                "resize": "fit", 
+                                "w": 1024
+                            }, 
+                            "small": {
+                                "h": 453, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "medium": {
+                                "h": 800, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            65, 
+                            87
+                        ], 
+                        "type": "photo", 
+                        "id": 554758513193283584, 
+                        "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554758513906708481", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 21:55:11 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                        "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                        "url": "http://t.co/fpw7dDYHNX", 
+                        "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                        "id_str": "554758513193283584", 
+                        "sizes": {
+                            "large": {
+                                "h": 1365, 
+                                "resize": "fit", 
+                                "w": 1024
+                            }, 
+                            "small": {
+                                "h": 453, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "medium": {
+                                "h": 800, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            65, 
+                            87
+                        ], 
+                        "type": "photo", 
+                        "id": 554758513193283584, 
+                        "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                    }
+                ]
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 6086812, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3385907798/77d81206721c024492fef1ed63a701f4_normal.jpeg", 
+            "profile_sidebar_fill_color": "C0DFEC", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 632, 
+            "profile_sidebar_border_color": "A8C7F7", 
+            "id_str": "6086812", 
+            "profile_background_color": "022330", 
+            "listed_count": 57, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 11266, 
+            "description": "Aspiring trail runner and dabbler in technology.", 
+            "friends_count": 392, 
+            "location": "iPhone: 36.130801,-86.777890", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3385907798/77d81206721c024492fef1ed63a701f4_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+            "name": "matt george", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 81, 
+            "screen_name": "binarydud", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Wed May 16 14:52:19 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue Jan 13 04:16:08 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "source_user_id": 1616492725, 
+                    "source_status_id_str": "554758513906708481", 
+                    "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                    "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                    "url": "http://t.co/fpw7dDYHNX", 
+                    "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                    "source_user_id_str": "1616492725", 
+                    "source_status_id": 554758513906708481, 
+                    "id_str": "554758513193283584", 
+                    "sizes": {
+                        "large": {
+                            "h": 1365, 
+                            "resize": "fit", 
+                            "w": 1024
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "medium": {
+                            "h": 800, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        104
+                    ], 
+                    "type": "photo", 
+                    "id": 554758513193283584, 
+                    "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                }
+            ]
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: Yeah these cases for the Young Coders Raspberry Pis are awesome! http://t.co/fpw7dDYHNX", 
+        "in_reply_to_status_id": null, 
+        "id": 554759462473699329, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [], 
+            "media": [
+                {
+                    "source_user_id": 1616492725, 
+                    "source_status_id_str": "554758513906708481", 
+                    "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                    "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                    "url": "http://t.co/fpw7dDYHNX", 
+                    "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                    "source_user_id_str": "1616492725", 
+                    "source_status_id": 554758513906708481, 
+                    "id_str": "554758513193283584", 
+                    "sizes": {
+                        "large": {
+                            "h": 1365, 
+                            "resize": "fit", 
+                            "w": 1024
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "medium": {
+                            "h": 800, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        104
+                    ], 
+                    "type": "photo", 
+                    "id": 554758513193283584, 
+                    "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554759462473699329", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Yeah these cases for the Young Coders Raspberry Pis are awesome! http://t.co/fpw7dDYHNX", 
+            "in_reply_to_status_id": null, 
+            "id": 554758513906708481, 
+            "favorite_count": 4, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [], 
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                        "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                        "url": "http://t.co/fpw7dDYHNX", 
+                        "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                        "id_str": "554758513193283584", 
+                        "sizes": {
+                            "large": {
+                                "h": 1365, 
+                                "resize": "fit", 
+                                "w": 1024
+                            }, 
+                            "small": {
+                                "h": 453, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "medium": {
+                                "h": 800, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            65, 
+                            87
+                        ], 
+                        "type": "photo", 
+                        "id": 554758513193283584, 
+                        "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554758513906708481", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Jan 12 21:55:11 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                        "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                        "url": "http://t.co/fpw7dDYHNX", 
+                        "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                        "id_str": "554758513193283584", 
+                        "sizes": {
+                            "large": {
+                                "h": 1365, 
+                                "resize": "fit", 
+                                "w": 1024
+                            }, 
+                            "small": {
+                                "h": 453, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "medium": {
+                                "h": 800, 
+                                "resize": "fit", 
+                                "w": 600
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            65, 
+                            87
+                        ], 
+                        "type": "photo", 
+                        "id": 554758513193283584, 
+                        "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                    }
+                ]
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "666666", 
+            "default_profile_image": false, 
+            "id": 14090513, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/550687499836596224/HaQOB0Yz_normal.jpeg", 
+            "profile_sidebar_fill_color": "252429", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/1MpiXuCBF3", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://fredalger.net", 
+                            "display_url": "fredalger.net"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 526, 
+            "profile_sidebar_border_color": "181A1E", 
+            "id_str": "14090513", 
+            "profile_background_color": "1A1B1F", 
+            "listed_count": 32, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 4069, 
+            "description": "je suis un canard en plastique tres fantastique", 
+            "friends_count": 440, 
+            "location": "Augusta, GA", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/550687499836596224/HaQOB0Yz_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14090513/1414216005", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "Federico", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1036, 
+            "screen_name": "_phred", 
+            "notifications": false, 
+            "url": "http://t.co/1MpiXuCBF3", 
+            "created_at": "Thu Mar 06 18:25:14 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Jan 12 21:58:57 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "source_user_id": 1616492725, 
+                    "source_status_id_str": "554758513906708481", 
+                    "expanded_url": "http://twitter.com/PyTennessee/status/554758513906708481/photo/1", 
+                    "display_url": "pic.twitter.com/fpw7dDYHNX", 
+                    "url": "http://t.co/fpw7dDYHNX", 
+                    "media_url_https": "https://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg", 
+                    "source_user_id_str": "1616492725", 
+                    "source_status_id": 554758513906708481, 
+                    "id_str": "554758513193283584", 
+                    "sizes": {
+                        "large": {
+                            "h": 1365, 
+                            "resize": "fit", 
+                            "w": 1024
+                        }, 
+                        "small": {
+                            "h": 453, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "medium": {
+                            "h": 800, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        82, 
+                        104
+                    ], 
+                    "type": "photo", 
+                    "id": 554758513193283584, 
+                    "media_url": "http://pbs.twimg.com/media/B7Ll7bMCcAAHbYk.jpg"
+                }
+            ]
+        }
+    }
+]

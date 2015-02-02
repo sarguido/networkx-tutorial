@@ -1,0 +1,3 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+1	0	0	0	Thu Jan 22 16:00:01 +0000 2015	558293014037422080	SimonSolutions	415	49	indypy|PyTennessee|pyohio	Indy
+1	0	0	0	Thu Jan 22 15:35:00 +0000 2015	558286717187555329	PyTennessee	1740	503	indypy|PyTennessee|pyohio	Indy

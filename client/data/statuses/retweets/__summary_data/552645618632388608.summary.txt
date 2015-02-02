@@ -1,0 +1,2 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+1	0	0	0	Wed Jan 07 02:38:50 +0000 2015	552655570172276737	PyTennessee	1740	503	kylewm2|kylewm2|PyTennessee|jden415|jennifermontes	0

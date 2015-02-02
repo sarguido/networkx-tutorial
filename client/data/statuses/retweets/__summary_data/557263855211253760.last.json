@@ -1,0 +1,8 @@
+{
+    "params": {
+        "retweeted_status|user|screen_name": "indypy"
+    }, 
+    "result": {
+        "num_items": 2
+    }
+}

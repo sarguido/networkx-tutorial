@@ -1,0 +1,11 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+13	0	0	0	Thu Jan 29 04:51:48 +0000 2015	560661564559486976	WillingCarol	2163	3870	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sun Jan 25 00:56:54 +0000 2015	559152897934782464	juliaelman	4757	3238	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sun Jan 25 00:22:50 +0000 2015	559144325112545280	sigmavirus24	12541	7852	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sun Jan 25 00:05:00 +0000 2015	559139836641046528	charlesupjohn	1430	131	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sat Jan 24 23:58:23 +0000 2015	559138174715166720	egdelwonk	2041	479	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sat Jan 24 23:57:57 +0000 2015	559138063519985664	nash_js	575	20	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sat Jan 24 23:57:18 +0000 2015	559137901691170816	nodevember	672	186	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sat Jan 24 23:54:22 +0000 2015	559137162424115200	funkatron	74616	7762	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sat Jan 24 23:53:00 +0000 2015	559136818432847872	jacqueswoodcock	14269	112	PyTennessee|pyrsonwho|jacqueswoodcock	colorful
+13	0	0	0	Sat Jan 24 23:23:15 +0000 2015	559129332564910080	jasonamyers	9883	2625	PyTennessee|pyrsonwho|jacqueswoodcock	colorful

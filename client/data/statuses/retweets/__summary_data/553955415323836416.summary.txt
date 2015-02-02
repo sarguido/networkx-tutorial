@@ -1,0 +1,4 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+3	0	0	0	Sat Jan 10 23:08:20 +0000 2015	554052147721957376	juliaelman	4757	3238	PyTennessee|juliaelman|hackershipco	python|pytn2015
+3	0	0	0	Sat Jan 10 16:44:42 +0000 2015	553955603203489792	CoderFaire	1306	0	PyTennessee|juliaelman|hackershipco	python|pytn2015
+3	0	0	0	Sat Jan 10 16:44:34 +0000 2015	553955568575344640	jasonamyers	9883	2625	PyTennessee|juliaelman|hackershipco	python|pytn2015

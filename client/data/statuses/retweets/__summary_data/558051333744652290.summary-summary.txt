@@ -1,0 +1,3 @@
+count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+2	elegant_stitch	2	0	0	0	Thu Jan 22 00:05:02 +0000 2015	558052681965912065	jasonamyers	9883	2625	elegant_stitch|PyTennessee	0
+2	elegant_stitch	2	0	0	0	Thu Jan 22 00:03:45 +0000 2015	558052360707395587	PyTennessee	1740	503	elegant_stitch|PyTennessee	0

@@ -1,0 +1,2497 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552647579008520193, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552647579008520193", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 136529416, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537655753683632130/B2ar4Gml.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/526912458527490048/XyHReaRY_normal.jpeg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 483, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "136529416", 
+            "profile_background_color": "A9BFC9", 
+            "listed_count": 25, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 7037, 
+            "description": "Embedded Firmware/Linux/robot dev to #iOS Since 2008. Also some Clojure and board games. History lover, city dweller", 
+            "friends_count": 1522, 
+            "location": "Atlanta, GA (Midtown)", 
+            "profile_link_color": "93A644", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/526912458527490048/XyHReaRY_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/136529416/1403823170", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537655753683632130/B2ar4Gml.jpeg", 
+            "name": "Michael Langford", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 3884, 
+            "screen_name": "mj_langford", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sat Apr 24 05:47:24 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Wed Jan 07 02:07:05 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552625677988823042, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552625677988823042", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 570765306, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3636890330/11d83f8fe25af663e47b897df8ec7298_normal.jpeg", 
+            "profile_sidebar_fill_color": "A0C5C7", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 71, 
+            "profile_sidebar_border_color": "86A4A6", 
+            "id_str": "570765306", 
+            "profile_background_color": "709397", 
+            "listed_count": 8, 
+            "is_translation_enabled": false, 
+            "utc_offset": 3600, 
+            "statuses_count": 4785, 
+            "description": "Doctorante en g\u00e9ographie. F\u00e9ministe, gameuse et programmeuse. Enfin v\u00e9g\u00e9tarienne !", 
+            "friends_count": 104, 
+            "location": "", 
+            "profile_link_color": "FF3300", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3636890330/11d83f8fe25af663e47b897df8ec7298_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/570765306/1398197333", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif", 
+            "name": "Lu", 
+            "lang": "fr", 
+            "profile_background_tile": false, 
+            "favourites_count": 322, 
+            "screen_name": "Patjouk", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Fri May 04 09:32:22 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Paris", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Wed Jan 07 00:40:03 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552615188512669697, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552615188512669697", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:58:22 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552615188512665601, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552615188512665601", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 13553, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/xROdKIC4Sd", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jasonamyers.com", 
+                            "display_url": "jasonamyers.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1035, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "13553", 
+            "profile_background_color": "131516", 
+            "listed_count": 72, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 9883, 
+            "description": "Openstack @Cisco Software Engineer, O'Reilly Author; Book, Coffee, and Cookie Lover; @PyTennessee @Nodevember and @PyNash Co-Organizer", 
+            "friends_count": 165, 
+            "location": "35.727614,-86.338707", 
+            "profile_link_color": "232626", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13553/1398258739", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Jason A Myers", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2625, 
+            "screen_name": "jasonamyers", 
+            "notifications": false, 
+            "url": "http://t.co/xROdKIC4Sd", 
+            "created_at": "Tue Nov 21 16:20:38 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:58:22 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552614113550270465, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552614113550270465", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "1F2128", 
+            "default_profile_image": false, 
+            "id": 5809062, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344511763024574503/f57136d054a4714b0ab39872e305df07.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1033728111/dave_normal.jpg", 
+            "profile_sidebar_fill_color": "F5FAEA", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Snsx49wQ6c", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://davestanton.com", 
+                            "display_url": "davestanton.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/mqr0yCp4ZQ", 
+                            "indices": [
+                                94, 
+                                116
+                            ], 
+                            "expanded_url": "http://broker.is", 
+                            "display_url": "broker.is"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 2383, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "5809062", 
+            "profile_background_color": "0683C1", 
+            "listed_count": 290, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 44868, 
+            "description": "Stochastic design (Ph.D.) Technical Lead for @mobiquityinc. Also @thepixelbots @forjournalism http://t.co/mqr0yCp4ZQ Formerly @poynter. Beerdrinkulator.", 
+            "friends_count": 489, 
+            "location": "Gainesville, Florida", 
+            "profile_link_color": "666666", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1033728111/dave_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5809062/1385301797", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344511763024574503/f57136d054a4714b0ab39872e305df07.png", 
+            "name": "Dave Stanton", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 8276, 
+            "screen_name": "gotoplanb", 
+            "notifications": false, 
+            "url": "http://t.co/Snsx49wQ6c", 
+            "created_at": "Sun May 06 14:18:09 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:54:06 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552613595755065345, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552613595755065345", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 14517538, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": true, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/492346787080851456/sNvis_r-_normal.jpeg", 
+            "profile_sidebar_fill_color": "E0FF92", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/BC1fmUxE9V", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://nytimes.com/upshot", 
+                            "display_url": "nytimes.com/upshot"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 9116, 
+            "profile_sidebar_border_color": "87BC44", 
+            "id_str": "14517538", 
+            "profile_background_color": "9BACE9", 
+            "listed_count": 819, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 46575, 
+            "description": "Working on The Upshot, mostly Congress and campaign finance. Keeping mold from happening. Also cricket. dwillis@nytimes.com", 
+            "friends_count": 728, 
+            "location": "MD/DC/NY/online", 
+            "profile_link_color": "0016FF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/492346787080851456/sNvis_r-_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Derek Willis", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 4581, 
+            "screen_name": "derekwillis", 
+            "notifications": false, 
+            "url": "http://t.co/BC1fmUxE9V", 
+            "created_at": "Thu Apr 24 20:48:23 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:52:02 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552613088470396928, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552613088470396928", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "634047", 
+            "default_profile_image": false, 
+            "id": 39617149, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000175815707/pr7rON7C.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3448372624/fbfdda29ff5fcee3ff0ad60e2d3932ae_normal.jpeg", 
+            "profile_sidebar_fill_color": "E3E2DE", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/H3G4qaMzJR", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://cczona.com", 
+                            "display_url": "cczona.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 2433, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "39617149", 
+            "profile_background_color": "000000", 
+            "listed_count": 203, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 27529, 
+            "description": "Dev with \u2665 for Ruby.  Community builder, tech educator, certified sex educator, baker of gluten-free goodies. Founder of @CallbackWomen.", 
+            "friends_count": 595, 
+            "location": "San Francisco", 
+            "profile_link_color": "088253", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3448372624/fbfdda29ff5fcee3ff0ad60e2d3932ae_normal.jpeg", 
+            "following": true, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39617149/1358132133", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000175815707/pr7rON7C.jpeg", 
+            "name": "Carina C. Zona", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 3029, 
+            "screen_name": "cczona", 
+            "notifications": false, 
+            "url": "http://t.co/H3G4qaMzJR", 
+            "created_at": "Tue May 12 22:43:16 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:50:02 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552609213508501504, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552609213508501504", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 710013, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/459277544689123328/q8DglCPT_normal.jpeg", 
+            "profile_sidebar_fill_color": "E0FF92", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://tartarus.org/james/", 
+                            "indices": [
+                                0, 
+                                26
+                            ], 
+                            "expanded_url": null
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1353, 
+            "profile_sidebar_border_color": "87BC44", 
+            "id_str": "710013", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 66, 
+            "is_translation_enabled": false, 
+            "utc_offset": 0, 
+            "statuses_count": 13307, 
+            "description": "Opinionated, bitchy and sometimes right. I make websites, films, words and trouble. If I offend you, it's probably accidental. Not known for @devfort, @spacelog", 
+            "friends_count": 1315, 
+            "location": "Greenwich, United Kingdom", 
+            "profile_link_color": "123D17", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/459277544689123328/q8DglCPT_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/710013/1398336140", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "James Aylett", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 4521, 
+            "screen_name": "jaylett", 
+            "notifications": false, 
+            "url": "http://tartarus.org/james/", 
+            "created_at": "Fri Jan 26 18:21:44 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Europe/London", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:34:38 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552608208955523072, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552608208955523072", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 20102101, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/529886787263426560/MrvmdGa-_normal.jpeg", 
+            "profile_sidebar_fill_color": "F6F6F6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/q8zPU4CpGC", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://jeromecomeau.com", 
+                            "display_url": "jeromecomeau.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 279, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "20102101", 
+            "profile_background_color": "ACDED6", 
+            "listed_count": 11, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 19412, 
+            "description": "Old Ops Guy Getting Into New DevOps Situations. Anti-puppy kicking.", 
+            "friends_count": 283, 
+            "location": "45.521538,-122.677254", 
+            "profile_link_color": "038543", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/529886787263426560/MrvmdGa-_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20102101/1415170008", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+            "name": "Seriously Butts", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 9698, 
+            "screen_name": "Heronymus", 
+            "notifications": false, 
+            "url": "http://t.co/q8zPU4CpGC", 
+            "created_at": "Wed Feb 04 22:30:22 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:30:38 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552607395932016640, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552607395932016640", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 4411041, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152648207/cvz8rJF6.jpeg", 
+            "verified": true, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/447104337206996993/JA7d58nU_normal.png", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/EnE4NvsNPE", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.oscon.com", 
+                            "display_url": "oscon.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 11374, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "4411041", 
+            "profile_background_color": "131516", 
+            "listed_count": 657, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 7832, 
+            "description": "OSCON covers open source in its entirety. Not just one language, tool or philosophy, but all the moving parts integrated and working together. July 20-24, 2015", 
+            "friends_count": 3616, 
+            "location": "Portland, OR", 
+            "profile_link_color": "009999", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/447104337206996993/JA7d58nU_normal.png", 
+            "following": true, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/4411041/1400005347", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152648207/cvz8rJF6.jpeg", 
+            "name": "O'Reilly OSCON", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1116, 
+            "screen_name": "oscon", 
+            "notifications": false, 
+            "url": "http://t.co/EnE4NvsNPE", 
+            "created_at": "Thu Apr 12 21:20:24 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:27:24 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552607366873878533, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552607366873878533", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 458504863, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000135792916/4q3o7Smv.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/447094625912619008/SqRErcjo_normal.png", 
+            "profile_sidebar_fill_color": "DDFFCC", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/4yLytTiZbc", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://fluentconf.com", 
+                            "display_url": "fluentconf.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 6157, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "458504863", 
+            "profile_background_color": "00BEB7", 
+            "listed_count": 317, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 5439, 
+            "description": "O'Reilly Fluent spotlights the emerging methods, tools, and technologies of the Web Platform including JavaScript, HTML, CSS, and more. April 20-22, 2015 in SF.", 
+            "friends_count": 1947, 
+            "location": "San Francisco, CA", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/447094625912619008/SqRErcjo_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/458504863/1400005310", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000135792916/4q3o7Smv.png", 
+            "name": "O'Reilly Fluent", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 616, 
+            "screen_name": "fluentconf", 
+            "notifications": false, 
+            "url": "http://t.co/4yLytTiZbc", 
+            "created_at": "Sun Jan 08 16:55:40 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:27:17 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kcunning: Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+        "in_reply_to_status_id": null, 
+        "id": 552606508585070592, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 5714432, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "5714432", 
+                    "screen_name": "kcunning", 
+                    "name": "Katie Cunningham"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        112, 
+                        125
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552606508585070592", 
+        "retweet_count": 12, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Tossing this out to the masses: Do I know anyone who would be interested in doing some videos for @OReillyMedia about Django?", 
+            "in_reply_to_status_id": null, 
+            "id": 552606442596073472, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            98, 
+                            111
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552606442596073472", 
+            "retweet_count": 12, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 5714432, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UnJGUw0R5c", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://therealkatie.net", 
+                                "display_url": "therealkatie.net"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 2947, 
+                "profile_sidebar_border_color": "181A1E", 
+                "id_str": "5714432", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 200, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 14908, 
+                "description": "Python dev at SpeakAgent. Writer for O'Reilly and Pearson. Procurer of questionable parenting advice.", 
+                "friends_count": 2294, 
+                "location": "Washington, DC", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/445978545819369472/pTI4snfR_normal.jpeg", 
+                "following": true, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/5714432/1398432985", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264776251/wood_1.png", 
+                "name": "Katie Cunningham", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 1431, 
+                "screen_name": "kcunning", 
+                "notifications": false, 
+                "url": "http://t.co/UnJGUw0R5c", 
+                "created_at": "Wed May 02 14:18:02 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Tue Jan 06 23:23:37 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 12473952, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/424514512/Me_Manga_normal.jpg", 
+            "profile_sidebar_fill_color": "F6F6F6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/mZhDR2RvVm", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.craigkerstiens.com", 
+                            "display_url": "craigkerstiens.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/mFTGj4vOSD", 
+                            "indices": [
+                                102, 
+                                124
+                            ], 
+                            "expanded_url": "http://craigkerstiens.com", 
+                            "display_url": "craigkerstiens.com"
+                        }, 
+                        {
+                            "url": "http://t.co/O6bZZKv221", 
+                            "indices": [
+                                132, 
+                                154
+                            ], 
+                            "expanded_url": "http://postgresweekly.com", 
+                            "display_url": "postgresweekly.com"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 3569, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "12473952", 
+            "profile_background_color": "ACDED6", 
+            "listed_count": 184, 
+            "is_translation_enabled": false, 
+            "utc_offset": -32400, 
+            "statuses_count": 11355, 
+            "description": "Dad, Husband, Fisherman, Southern, Roll Tide, Technologist, Wine Hobbyist\n\nProduct at Heroku \nBlog at http://t.co/mFTGj4vOSD\nCurate http://t.co/O6bZZKv221", 
+            "friends_count": 792, 
+            "location": "Albany, CA", 
+            "profile_link_color": "B82C2C", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/424514512/Me_Manga_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", 
+            "name": "Craig Kerstiens", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 230, 
+            "screen_name": "craigkerstiens", 
+            "notifications": false, 
+            "url": "http://t.co/mZhDR2RvVm", 
+            "created_at": "Sun Jan 20 23:35:45 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Alaska", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Jan 06 23:23:53 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "params": {
+        "max_id": "390463416378601471", 
+        "screen_name": "PyTennessee"
+    }, 
+    "result": {
+        "created_at": "Wed Jul 24 01:52:33 +0000 2013", 
+        "num_items": 139, 
+        "id_str": "359853577436532737"
+    }
+}

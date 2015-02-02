@@ -1,0 +1,6 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+9	0	0	0	Sun Jan 25 04:17:07 +0000 2015	559203287598374912	lotusr00t	2931	176	poweredbyaltnet	python
+9	0	0	0	Sun Jan 25 02:25:12 +0000 2015	559175121147932672	Jeff88Ho	116143	41545	poweredbyaltnet	python
+9	0	0	0	Sun Jan 25 02:16:35 +0000 2015	559172951497375744	waynejwerner	8735	3167	poweredbyaltnet	python
+9	0	0	0	Sun Jan 25 01:12:07 +0000 2015	559156730219593728	dmhalejr	1267	468	poweredbyaltnet	python
+9	0	0	0	Sun Jan 25 01:05:33 +0000 2015	559155077358059521	PyTennessee	1740	503	poweredbyaltnet	python

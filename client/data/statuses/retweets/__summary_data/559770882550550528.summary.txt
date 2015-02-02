@@ -1,0 +1,4 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+4	0	0	0	Mon Jan 26 21:20:40 +0000 2015	559823258959101952	kivyframework	764	344	adriennefriend|PyTennessee	Python|learnpython|pytn
+4	0	0	0	Mon Jan 26 21:09:03 +0000 2015	559820335521214464	PyTennessee	1740	503	adriennefriend|PyTennessee	Python|learnpython|pytn
+4	0	0	0	Mon Jan 26 18:16:43 +0000 2015	559776965045919744	nloadholtes	3953	629	adriennefriend|PyTennessee	Python|learnpython|pytn

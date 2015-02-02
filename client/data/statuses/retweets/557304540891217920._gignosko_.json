@@ -1,0 +1,216 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @_gignosko_: @elegant_stitch I'm digging the Port Authority in charcoal/black. XL seems like a comfy fit. @PyTennessee", 
+        "in_reply_to_status_id": null, 
+        "id": 557307186653954050, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 2310830701, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "2310830701", 
+                    "screen_name": "_gignosko_", 
+                    "name": "Immutable Hair"
+                }, 
+                {
+                    "id": 516177826, 
+                    "indices": [
+                        16, 
+                        31
+                    ], 
+                    "id_str": "516177826", 
+                    "screen_name": "elegant_stitch", 
+                    "name": "Elegant Stitches"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        109, 
+                        121
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "557307186653954050", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "@elegant_stitch I'm digging the Port Authority in charcoal/black. XL seems like a comfy fit. @PyTennessee", 
+            "in_reply_to_status_id": null, 
+            "id": 557304540891217920, 
+            "favorite_count": 0, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 516177826, 
+                        "indices": [
+                            0, 
+                            15
+                        ], 
+                        "id_str": "516177826", 
+                        "screen_name": "elegant_stitch", 
+                        "name": "Elegant Stitches"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            93, 
+                            105
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": "elegant_stitch", 
+            "id_str": "557304540891217920", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": 516177826, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 2310830701, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/466676527162089472/siWso4Rm_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 46, 
+                "profile_sidebar_border_color": "C0DEED", 
+                "id_str": "2310830701", 
+                "profile_background_color": "C0DEED", 
+                "listed_count": 7, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 274, 
+                "description": "Geek with passable social skills. python at Emma, clojure where I can.", 
+                "friends_count": 195, 
+                "location": "Nashville", 
+                "profile_link_color": "0084B4", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/466676527162089472/siWso4Rm_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2310830701/1400102565", 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "Immutable Hair", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 122, 
+                "screen_name": "_gignosko_", 
+                "notifications": false, 
+                "url": null, 
+                "created_at": "Sat Jan 25 22:50:58 +0000 2014", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": true, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": "516177826", 
+            "lang": "en", 
+            "created_at": "Mon Jan 19 22:32:11 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Mon Jan 19 22:42:42 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

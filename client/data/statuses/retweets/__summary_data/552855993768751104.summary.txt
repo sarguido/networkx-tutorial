@@ -1,0 +1,4 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+0	0	0	0	Fri Jan 09 15:46:23 +0000 2015	553578541292331008	bkmontgomery	21129	5089	PyTennessee	0
+0	0	0	0	Wed Jan 07 15:59:21 +0000 2015	552857027991457793	_ashfall_	1049	76	PyTennessee	0
+0	0	0	0	Wed Jan 07 15:55:19 +0000 2015	552856012471152640	jasonamyers	9883	2625	PyTennessee	0

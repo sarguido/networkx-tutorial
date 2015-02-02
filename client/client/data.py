@@ -94,7 +94,8 @@ class DataAPI(object):
                 properties = [x for x in data[0].keys() if x not in excluded_fields]
 
             expected_prefix = DataAPI._file_prefix(resource, params)
-            file_id = path[(len(expected_prefix) + 1):-5]
+            file_id = path[(len(expected_prefix)):-5]
+
             count = str(len(data))
             if type(data) is list:
                 endpoints.append(count + '\t' + file_id + '\t' + DataAPI.summarize_item(data[0], properties))
@@ -151,7 +152,7 @@ class DataAPI(object):
             expected_prefix = DataAPI._file_prefix(resource, params)
             for f in file_names:
                 file_path = os.path.join(dir_path, f)
-                if file_path.startswith(expected_prefix) and file_path.endswith('.json'):
+                if file_path.startswith(expected_prefix) and file_path.endswith('.json') and '.last.' not in file_path:
                     file_paths.append(file_path)
         return file_paths
 

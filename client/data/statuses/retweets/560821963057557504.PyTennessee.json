@@ -1,0 +1,475 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: We are thrilled to welcome back @OReillyMedia as a sponsor! Thank you for supporting the #python community. #PyTN2015", 
+        "in_reply_to_status_id": null, 
+        "id": 560865318117994497, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        106, 
+                        113
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        125, 
+                        134
+                    ], 
+                    "text": "PyTN2015"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560865318117994497", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "We are thrilled to welcome back @OReillyMedia as a sponsor! Thank you for supporting the #python community. #PyTN2015", 
+            "in_reply_to_status_id": null, 
+            "id": 560821963057557504, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            32, 
+                            45
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            89, 
+                            96
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            117
+                        ], 
+                        "text": "PyTN2015"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "560821963057557504", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Jan 29 15:29:10 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 130584224, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/530433422288633856/aQlFzHng_normal.jpeg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/oljDqwS3Aq", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://oreilly.com", 
+                            "display_url": "oreilly.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 61, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "130584224", 
+            "profile_background_color": "000000", 
+            "listed_count": 1, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 65, 
+            "description": "Partner Associate at O'Reilly Media.", 
+            "friends_count": 106, 
+            "location": "here", 
+            "profile_link_color": "4A913C", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/530433422288633856/aQlFzHng_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/130584224/1417710745", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Jennie Kimmel", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 21, 
+            "screen_name": "jenkimmel", 
+            "notifications": false, 
+            "url": "http://t.co/oljDqwS3Aq", 
+            "created_at": "Wed Apr 07 18:36:11 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 29 18:21:26 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: We are thrilled to welcome back @OReillyMedia as a sponsor! Thank you for supporting the #python community. #PyTN2015", 
+        "in_reply_to_status_id": null, 
+        "id": 560822081038737409, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 11069462, 
+                    "indices": [
+                        49, 
+                        62
+                    ], 
+                    "id_str": "11069462", 
+                    "screen_name": "OReillyMedia", 
+                    "name": "O'Reilly Media"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        106, 
+                        113
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        125, 
+                        134
+                    ], 
+                    "text": "PyTN2015"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560822081038737409", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "We are thrilled to welcome back @OReillyMedia as a sponsor! Thank you for supporting the #python community. #PyTN2015", 
+            "in_reply_to_status_id": null, 
+            "id": 560821963057557504, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11069462, 
+                        "indices": [
+                            32, 
+                            45
+                        ], 
+                        "id_str": "11069462", 
+                        "screen_name": "OReillyMedia", 
+                        "name": "O'Reilly Media"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            89, 
+                            96
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            108, 
+                            117
+                        ], 
+                        "text": "PyTN2015"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "560821963057557504", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Jan 29 15:29:10 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 45294835, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/uFQiLjSYYi", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://about.me/douglas.starnes", 
+                            "display_url": "about.me/douglas.starnes"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1099, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "45294835", 
+            "profile_background_color": "131516", 
+            "listed_count": 102, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 13567, 
+            "description": "Polyglot ninja: C#, Python, Swift, Java, Go, R & more. Author. Speaker. Coder education. Mobile. Data/ML. Wannabe Game Dev.  Startups. Triathlete.", 
+            "friends_count": 696, 
+            "location": "Memphis, TN, USA", 
+            "profile_link_color": "6E1616", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/463008656313696256/1TmZfNSQ_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Douglas Starnes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 561, 
+            "screen_name": "poweredbyaltnet", 
+            "notifications": false, 
+            "url": "http://t.co/uFQiLjSYYi", 
+            "created_at": "Sun Jun 07 06:06:14 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Jan 29 15:29:38 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]
