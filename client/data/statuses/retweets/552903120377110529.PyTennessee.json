@@ -1,0 +1,226 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Clayton Parker and Kite Web Consulting http://t.co/bjpGAOFGHb #python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 552903436648198144, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://androidnerd.blogspot.com/\" rel=\"nofollow\">Cookie-Bot</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        94, 
+                        101
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        102, 
+                        111
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/bjpGAOFGHb", 
+                    "indices": [
+                        71, 
+                        93
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/107412412614/pytn-profiles-clayton-parker-and-kite-web", 
+                    "display_url": "pytennessee.tumblr.com/post/107412412\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552903436648198144", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Clayton Parker and Kite Web Consulting http://t.co/bjpGAOFGHb #python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 552903120377110529, 
+            "favorite_count": 0, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            77, 
+                            84
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            85, 
+                            94
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/bjpGAOFGHb", 
+                        "indices": [
+                            54, 
+                            76
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/107412412614/pytn-profiles-clayton-parker-and-kite-web", 
+                        "display_url": "pytennessee.tumblr.com/post/107412412\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "552903120377110529", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "da", 
+            "created_at": "Wed Jan 07 19:02:30 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 2905182930, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/552926905943347200/sSiI_hy3_normal.jpeg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 118, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "2905182930", 
+            "profile_background_color": "000000", 
+            "listed_count": 42, 
+            "is_translation_enabled": false, 
+            "utc_offset": 19800, 
+            "statuses_count": 6878, 
+            "description": ":)", 
+            "friends_count": 0, 
+            "location": "Negombo, Sri Lanka", 
+            "profile_link_color": "4A913C", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/552926905943347200/sSiI_hy3_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Cookie Bot", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 0, 
+            "screen_name": "cookie__bot", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Thu Nov 20 14:19:14 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Sri Jayawardenepura", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "da", 
+        "created_at": "Wed Jan 07 19:03:46 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

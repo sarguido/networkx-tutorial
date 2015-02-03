@@ -1,0 +1,2 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+3	0	0	0	Tue Jan 27 18:19:36 +0000 2015	560140079927410688	PyTennessee	1740	503	adamfblahblah|PyTennessee	0

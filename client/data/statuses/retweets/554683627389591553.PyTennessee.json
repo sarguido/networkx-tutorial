@@ -1,0 +1,281 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: Patrick Altman (@paltman) and TrackMaven (@trackmaven) http://t.co/FwQQbkCvSp #python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 554686055019216896, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 7282782, 
+                    "indices": [
+                        48, 
+                        56
+                    ], 
+                    "id_str": "7282782", 
+                    "screen_name": "paltman", 
+                    "name": "Patrick Altman"
+                }, 
+                {
+                    "id": 885294686, 
+                    "indices": [
+                        74, 
+                        85
+                    ], 
+                    "id_str": "885294686", 
+                    "screen_name": "TrackMaven", 
+                    "name": "TrackMaven"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        110, 
+                        117
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        118, 
+                        127
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/FwQQbkCvSp", 
+                    "indices": [
+                        87, 
+                        109
+                    ], 
+                    "expanded_url": "http://buff.ly/14Q9UdT", 
+                    "display_url": "buff.ly/14Q9UdT"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "554686055019216896", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: Patrick Altman (@paltman) and TrackMaven (@trackmaven) http://t.co/FwQQbkCvSp #python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 554683627389591553, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 7282782, 
+                        "indices": [
+                            31, 
+                            39
+                        ], 
+                        "id_str": "7282782", 
+                        "screen_name": "paltman", 
+                        "name": "Patrick Altman"
+                    }, 
+                    {
+                        "id": 885294686, 
+                        "indices": [
+                            57, 
+                            68
+                        ], 
+                        "id_str": "885294686", 
+                        "screen_name": "TrackMaven", 
+                        "name": "TrackMaven"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            93, 
+                            100
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            101, 
+                            110
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/FwQQbkCvSp", 
+                        "indices": [
+                            70, 
+                            92
+                        ], 
+                        "expanded_url": "http://buff.ly/14Q9UdT", 
+                        "display_url": "buff.ly/14Q9UdT"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "554683627389591553", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "da", 
+            "created_at": "Mon Jan 12 16:57:36 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 7282782, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/878968364/d2026d535131cf61611ae31c7df84cb2.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261435617/671789c26e3b59dd1659d9ffe55eb9dc_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/JmPProblUR", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://paltman.com", 
+                            "display_url": "paltman.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1053, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "7282782", 
+            "profile_background_color": "28343B", 
+            "listed_count": 78, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 9373, 
+            "description": "VP of Engineering @eldarion, Mentor @jsfoundry, Advisor to @gundotio, @pinaxproject Core Developer\n\npaltman@eldarion.com", 
+            "friends_count": 688, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "346CA8", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1261435617/671789c26e3b59dd1659d9ffe55eb9dc_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/7282782/1399401387", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/878968364/d2026d535131cf61611ae31c7df84cb2.jpeg", 
+            "name": "Patrick Altman", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1409, 
+            "screen_name": "paltman", 
+            "notifications": false, 
+            "url": "http://t.co/JmPProblUR", 
+            "created_at": "Fri Jul 06 04:41:54 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "da", 
+        "created_at": "Mon Jan 12 17:07:15 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

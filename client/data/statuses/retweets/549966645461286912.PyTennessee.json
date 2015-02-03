@@ -1,0 +1,281 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: A Jesse Jiryu Davis (@jessejiryudavis) and Eldarion (@eldarion) http://t.co/1rsmv58TIJ #python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 551142477491478529, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 131044458, 
+                    "indices": [
+                        53, 
+                        69
+                    ], 
+                    "id_str": "131044458", 
+                    "screen_name": "jessejiryudavis", 
+                    "name": "A. Jesse Jiryu Davis"
+                }, 
+                {
+                    "id": 21454972, 
+                    "indices": [
+                        85, 
+                        94
+                    ], 
+                    "id_str": "21454972", 
+                    "screen_name": "eldarion", 
+                    "name": "Eldarion, Inc."
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        119, 
+                        126
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        127, 
+                        136
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/1rsmv58TIJ", 
+                    "indices": [
+                        96, 
+                        118
+                    ], 
+                    "expanded_url": "http://pytennessee.tumblr.com/post/106613977937/pytn-profiles-a-jesse-jiryu-davis-and-eldarion", 
+                    "display_url": "pytennessee.tumblr.com/post/106613977\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "551142477491478529", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: A Jesse Jiryu Davis (@jessejiryudavis) and Eldarion (@eldarion) http://t.co/1rsmv58TIJ #python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 549966645461286912, 
+            "favorite_count": 0, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 131044458, 
+                        "indices": [
+                            36, 
+                            52
+                        ], 
+                        "id_str": "131044458", 
+                        "screen_name": "jessejiryudavis", 
+                        "name": "A. Jesse Jiryu Davis"
+                    }, 
+                    {
+                        "id": 21454972, 
+                        "indices": [
+                            68, 
+                            77
+                        ], 
+                        "id_str": "21454972", 
+                        "screen_name": "eldarion", 
+                        "name": "Eldarion, Inc."
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            102, 
+                            109
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            110, 
+                            119
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/1rsmv58TIJ", 
+                        "indices": [
+                            79, 
+                            101
+                        ], 
+                        "expanded_url": "http://pytennessee.tumblr.com/post/106613977937/pytn-profiles-a-jesse-jiryu-davis-and-eldarion", 
+                        "display_url": "pytennessee.tumblr.com/post/106613977\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "549966645461286912", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "ro", 
+            "created_at": "Tue Dec 30 16:34:00 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 131044458, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/808380981/profile_normal.jpg", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/UgwHo9R44c", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://emptysqua.re", 
+                            "display_url": "emptysqua.re"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 860, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "131044458", 
+            "profile_background_color": "000000", 
+            "listed_count": 69, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 3031, 
+            "description": "Staff Software Engineer at MongoDB. Knows about Python, Tornado, and async. Documentary photographer. Zen Buddhist.", 
+            "friends_count": 367, 
+            "location": "East Village, New York City", 
+            "profile_link_color": "ABB8C2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808380981/profile_normal.jpg", 
+            "following": true, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/131044458/1367411987", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif", 
+            "name": "A. Jesse Jiryu Davis", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 404, 
+            "screen_name": "jessejiryudavis", 
+            "notifications": false, 
+            "url": "http://t.co/UgwHo9R44c", 
+            "created_at": "Fri Apr 09 03:11:17 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "ro", 
+        "created_at": "Fri Jan 02 22:26:21 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

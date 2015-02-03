@@ -1,0 +1,210 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: Before you show up next week make sure you understand our code of conduct! https://t.co/f6KU5SU97R", 
+        "in_reply_to_status_id": null, 
+        "id": 561943031641690112, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/f6KU5SU97R", 
+                    "indices": [
+                        92, 
+                        115
+                    ], 
+                    "expanded_url": "https://www.pytennessee.org/about/conduct/", 
+                    "display_url": "pytennessee.org/about/conduct/"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "561943031641690112", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Before you show up next week make sure you understand our code of conduct! https://t.co/f6KU5SU97R", 
+            "in_reply_to_status_id": null, 
+            "id": 561942855854592000, 
+            "favorite_count": 2, 
+            "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "https://t.co/f6KU5SU97R", 
+                        "indices": [
+                            75, 
+                            98
+                        ], 
+                        "expanded_url": "https://www.pytennessee.org/about/conduct/", 
+                        "display_url": "pytennessee.org/about/conduct/"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "561942855854592000", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 623, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1740, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Sun Feb 01 17:43:11 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 14816130, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180690916/g7l1hNSj.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000335592270/41d3de80d46968656b92414a5d4230ba_normal.jpeg", 
+            "profile_sidebar_fill_color": "F6FFD1", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/YCTYjT13Qs", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://about.me/chrislaco", 
+                            "display_url": "about.me/chrislaco"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 755, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "14816130", 
+            "profile_background_color": "FFF04D", 
+            "listed_count": 73, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 31735, 
+            "description": "Racker. Private Cloud Engineering. Rails lover. Perl dude. Python victim. Pushing OpenStack into the brain. StartupBus Three Timer!", 
+            "friends_count": 449, 
+            "location": "Tallmadge, OH", 
+            "profile_link_color": "0099CC", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000335592270/41d3de80d46968656b92414a5d4230ba_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14816130/1399520630", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180690916/g7l1hNSj.jpeg", 
+            "name": "Nerd Lump", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 474, 
+            "screen_name": "claco", 
+            "notifications": false, 
+            "url": "http://t.co/YCTYjT13Qs", 
+            "created_at": "Sun May 18 00:24:31 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Feb 01 17:43:53 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

@@ -1,0 +1,1716 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CaretWCaret: Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+        "in_reply_to_status_id": null, 
+        "id": 544479996593844224, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485830034, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "485830034", 
+                    "screen_name": "CaretWCaret", 
+                    "name": "Jenny"
+                }, 
+                {
+                    "id": 9475182, 
+                    "indices": [
+                        57, 
+                        63
+                    ], 
+                    "id_str": "9475182", 
+                    "screen_name": "pycon", 
+                    "name": "PyCon"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        68, 
+                        80
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        81, 
+                        85
+                    ], 
+                    "text": "3dp"
+                }, 
+                {
+                    "indices": [
+                        86, 
+                        94
+                    ], 
+                    "text": "blender"
+                }, 
+                {
+                    "indices": [
+                        95, 
+                        106
+                    ], 
+                    "text": "3dprinting"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/IIqzhndKsW", 
+                    "indices": [
+                        107, 
+                        129
+                    ], 
+                    "expanded_url": "http://wp.me/p25h9n-Kz", 
+                    "display_url": "wp.me/p25h9n-Kz"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544479996593844224", 
+        "retweet_count": 6, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+            "in_reply_to_status_id": null, 
+            "id": 544331486271262721, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 9475182, 
+                        "indices": [
+                            40, 
+                            46
+                        ], 
+                        "id_str": "9475182", 
+                        "screen_name": "pycon", 
+                        "name": "PyCon"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            51, 
+                            63
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            64, 
+                            68
+                        ], 
+                        "text": "3dp"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            77
+                        ], 
+                        "text": "blender"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            89
+                        ], 
+                        "text": "3dprinting"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/IIqzhndKsW", 
+                        "indices": [
+                            90, 
+                            112
+                        ], 
+                        "expanded_url": "http://wp.me/p25h9n-Kz", 
+                        "display_url": "wp.me/p25h9n-Kz"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "544331486271262721", 
+            "retweet_count": 6, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "663B12", 
+                "default_profile_image": false, 
+                "id": 485830034, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "profile_sidebar_fill_color": "DAECF4", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/MWxJMtBaZQ", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.caretdashcaret.com", 
+                                "display_url": "caretdashcaret.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 54, 
+                "profile_sidebar_border_color": "C6E2EE", 
+                "id_str": "485830034", 
+                "profile_background_color": "C6E2EE", 
+                "listed_count": 1, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 546, 
+                "description": "", 
+                "friends_count": 84, 
+                "location": "", 
+                "profile_link_color": "1F98C7", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "name": "Jenny", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 56, 
+                "screen_name": "CaretWCaret", 
+                "notifications": false, 
+                "url": "http://t.co/MWxJMtBaZQ", 
+                "created_at": "Tue Feb 07 16:36:34 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 15 03:21:54 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 14388935, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3052321533/ba22ff8d8862873fbab30cb3c57f8f15_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/7Lw2TcWBOS", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://acedrew.com", 
+                            "display_url": "acedrew.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 722, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "14388935", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 57, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 6950, 
+            "description": "I'm Andrew Rodgers, technologist-at-large. I heart @oustcat. I am passionate about diversity, open data, and Chattanooga", 
+            "friends_count": 714, 
+            "location": "Chattanooga, TN", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3052321533/ba22ff8d8862873fbab30cb3c57f8f15_normal.png", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Andrew Rodgers", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 2209, 
+            "screen_name": "acedrew", 
+            "notifications": false, 
+            "url": "http://t.co/7Lw2TcWBOS", 
+            "created_at": "Mon Apr 14 18:52:12 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 15 13:12:01 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CaretWCaret: Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+        "in_reply_to_status_id": null, 
+        "id": 544477138309877760, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485830034, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "485830034", 
+                    "screen_name": "CaretWCaret", 
+                    "name": "Jenny"
+                }, 
+                {
+                    "id": 9475182, 
+                    "indices": [
+                        57, 
+                        63
+                    ], 
+                    "id_str": "9475182", 
+                    "screen_name": "pycon", 
+                    "name": "PyCon"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        68, 
+                        80
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        81, 
+                        85
+                    ], 
+                    "text": "3dp"
+                }, 
+                {
+                    "indices": [
+                        86, 
+                        94
+                    ], 
+                    "text": "blender"
+                }, 
+                {
+                    "indices": [
+                        95, 
+                        106
+                    ], 
+                    "text": "3dprinting"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/IIqzhndKsW", 
+                    "indices": [
+                        107, 
+                        129
+                    ], 
+                    "expanded_url": "http://wp.me/p25h9n-Kz", 
+                    "display_url": "wp.me/p25h9n-Kz"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544477138309877760", 
+        "retweet_count": 6, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+            "in_reply_to_status_id": null, 
+            "id": 544331486271262721, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 9475182, 
+                        "indices": [
+                            40, 
+                            46
+                        ], 
+                        "id_str": "9475182", 
+                        "screen_name": "pycon", 
+                        "name": "PyCon"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            51, 
+                            63
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            64, 
+                            68
+                        ], 
+                        "text": "3dp"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            77
+                        ], 
+                        "text": "blender"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            89
+                        ], 
+                        "text": "3dprinting"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/IIqzhndKsW", 
+                        "indices": [
+                            90, 
+                            112
+                        ], 
+                        "expanded_url": "http://wp.me/p25h9n-Kz", 
+                        "display_url": "wp.me/p25h9n-Kz"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "544331486271262721", 
+            "retweet_count": 6, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "663B12", 
+                "default_profile_image": false, 
+                "id": 485830034, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "profile_sidebar_fill_color": "DAECF4", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/MWxJMtBaZQ", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.caretdashcaret.com", 
+                                "display_url": "caretdashcaret.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 54, 
+                "profile_sidebar_border_color": "C6E2EE", 
+                "id_str": "485830034", 
+                "profile_background_color": "C6E2EE", 
+                "listed_count": 1, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 546, 
+                "description": "", 
+                "friends_count": 84, 
+                "location": "", 
+                "profile_link_color": "1F98C7", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "name": "Jenny", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 56, 
+                "screen_name": "CaretWCaret", 
+                "notifications": false, 
+                "url": "http://t.co/MWxJMtBaZQ", 
+                "created_at": "Tue Feb 07 16:36:34 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 15 03:21:54 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 624, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1741, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 15 13:00:40 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CaretWCaret: Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+        "in_reply_to_status_id": null, 
+        "id": 544466999003598849, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485830034, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "485830034", 
+                    "screen_name": "CaretWCaret", 
+                    "name": "Jenny"
+                }, 
+                {
+                    "id": 9475182, 
+                    "indices": [
+                        57, 
+                        63
+                    ], 
+                    "id_str": "9475182", 
+                    "screen_name": "pycon", 
+                    "name": "PyCon"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        68, 
+                        80
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        81, 
+                        85
+                    ], 
+                    "text": "3dp"
+                }, 
+                {
+                    "indices": [
+                        86, 
+                        94
+                    ], 
+                    "text": "blender"
+                }, 
+                {
+                    "indices": [
+                        95, 
+                        106
+                    ], 
+                    "text": "3dprinting"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/IIqzhndKsW", 
+                    "indices": [
+                        107, 
+                        129
+                    ], 
+                    "expanded_url": "http://wp.me/p25h9n-Kz", 
+                    "display_url": "wp.me/p25h9n-Kz"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544466999003598849", 
+        "retweet_count": 6, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+            "in_reply_to_status_id": null, 
+            "id": 544331486271262721, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 9475182, 
+                        "indices": [
+                            40, 
+                            46
+                        ], 
+                        "id_str": "9475182", 
+                        "screen_name": "pycon", 
+                        "name": "PyCon"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            51, 
+                            63
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            64, 
+                            68
+                        ], 
+                        "text": "3dp"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            77
+                        ], 
+                        "text": "blender"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            89
+                        ], 
+                        "text": "3dprinting"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/IIqzhndKsW", 
+                        "indices": [
+                            90, 
+                            112
+                        ], 
+                        "expanded_url": "http://wp.me/p25h9n-Kz", 
+                        "display_url": "wp.me/p25h9n-Kz"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "544331486271262721", 
+            "retweet_count": 6, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "663B12", 
+                "default_profile_image": false, 
+                "id": 485830034, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "profile_sidebar_fill_color": "DAECF4", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/MWxJMtBaZQ", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.caretdashcaret.com", 
+                                "display_url": "caretdashcaret.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 54, 
+                "profile_sidebar_border_color": "C6E2EE", 
+                "id_str": "485830034", 
+                "profile_background_color": "C6E2EE", 
+                "listed_count": 1, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 546, 
+                "description": "", 
+                "friends_count": 84, 
+                "location": "", 
+                "profile_link_color": "1F98C7", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "name": "Jenny", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 56, 
+                "screen_name": "CaretWCaret", 
+                "notifications": false, 
+                "url": "http://t.co/MWxJMtBaZQ", 
+                "created_at": "Tue Feb 07 16:36:34 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 15 03:21:54 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "0C3E53", 
+            "default_profile_image": false, 
+            "id": 15847941, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/28948050/415345991_70310a7542_b.jpg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000855934170/7b14497a2fbf2532759c6c98ff9682b3_normal.jpeg", 
+            "profile_sidebar_fill_color": "FFF7CC", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 356, 
+            "profile_sidebar_border_color": "F2E195", 
+            "id_str": "15847941", 
+            "profile_background_color": "E34F6A", 
+            "listed_count": 20, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 15218, 
+            "description": "Apple, Tech, Transit & policy nerd.", 
+            "friends_count": 584, 
+            "location": "NoVa or DC", 
+            "profile_link_color": "FF0000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000855934170/7b14497a2fbf2532759c6c98ff9682b3_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/28948050/415345991_70310a7542_b.jpg", 
+            "name": "Teegs", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 479, 
+            "screen_name": "teganann", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Thu Aug 14 07:31:57 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 15 12:20:22 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CaretWCaret: Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+        "in_reply_to_status_id": null, 
+        "id": 544454289473945601, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485830034, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "485830034", 
+                    "screen_name": "CaretWCaret", 
+                    "name": "Jenny"
+                }, 
+                {
+                    "id": 9475182, 
+                    "indices": [
+                        57, 
+                        63
+                    ], 
+                    "id_str": "9475182", 
+                    "screen_name": "pycon", 
+                    "name": "PyCon"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        68, 
+                        80
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        81, 
+                        85
+                    ], 
+                    "text": "3dp"
+                }, 
+                {
+                    "indices": [
+                        86, 
+                        94
+                    ], 
+                    "text": "blender"
+                }, 
+                {
+                    "indices": [
+                        95, 
+                        106
+                    ], 
+                    "text": "3dprinting"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/IIqzhndKsW", 
+                    "indices": [
+                        107, 
+                        129
+                    ], 
+                    "expanded_url": "http://wp.me/p25h9n-Kz", 
+                    "display_url": "wp.me/p25h9n-Kz"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544454289473945601", 
+        "retweet_count": 6, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+            "in_reply_to_status_id": null, 
+            "id": 544331486271262721, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 9475182, 
+                        "indices": [
+                            40, 
+                            46
+                        ], 
+                        "id_str": "9475182", 
+                        "screen_name": "pycon", 
+                        "name": "PyCon"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            51, 
+                            63
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            64, 
+                            68
+                        ], 
+                        "text": "3dp"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            77
+                        ], 
+                        "text": "blender"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            89
+                        ], 
+                        "text": "3dprinting"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/IIqzhndKsW", 
+                        "indices": [
+                            90, 
+                            112
+                        ], 
+                        "expanded_url": "http://wp.me/p25h9n-Kz", 
+                        "display_url": "wp.me/p25h9n-Kz"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "544331486271262721", 
+            "retweet_count": 6, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "663B12", 
+                "default_profile_image": false, 
+                "id": 485830034, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "profile_sidebar_fill_color": "DAECF4", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/MWxJMtBaZQ", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.caretdashcaret.com", 
+                                "display_url": "caretdashcaret.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 54, 
+                "profile_sidebar_border_color": "C6E2EE", 
+                "id_str": "485830034", 
+                "profile_background_color": "C6E2EE", 
+                "listed_count": 1, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 546, 
+                "description": "", 
+                "friends_count": 84, 
+                "location": "", 
+                "profile_link_color": "1F98C7", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "name": "Jenny", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 56, 
+                "screen_name": "CaretWCaret", 
+                "notifications": false, 
+                "url": "http://t.co/MWxJMtBaZQ", 
+                "created_at": "Tue Feb 07 16:36:34 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 15 03:21:54 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 191696307, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185568687/python-boston-sq_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ktclpJxg2C", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.meetup.com/bostonpython", 
+                            "display_url": "meetup.com/bostonpython"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1125, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "191696307", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 60, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 482, 
+            "description": "The Boston Python user group, events twice monthly, workshops for beginners, 5000 members.", 
+            "friends_count": 86, 
+            "location": "Boston!", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1185568687/python-boston-sq_normal.png", 
+            "following": true, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Boston Python", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 0, 
+            "screen_name": "bostonpython", 
+            "notifications": false, 
+            "url": "http://t.co/ktclpJxg2C", 
+            "created_at": "Fri Sep 17 03:01:51 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 15 11:29:52 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CaretWCaret: Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+        "in_reply_to_status_id": null, 
+        "id": 544360527447998464, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485830034, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "485830034", 
+                    "screen_name": "CaretWCaret", 
+                    "name": "Jenny"
+                }, 
+                {
+                    "id": 9475182, 
+                    "indices": [
+                        57, 
+                        63
+                    ], 
+                    "id_str": "9475182", 
+                    "screen_name": "pycon", 
+                    "name": "PyCon"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        68, 
+                        80
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        81, 
+                        85
+                    ], 
+                    "text": "3dp"
+                }, 
+                {
+                    "indices": [
+                        86, 
+                        94
+                    ], 
+                    "text": "blender"
+                }, 
+                {
+                    "indices": [
+                        95, 
+                        106
+                    ], 
+                    "text": "3dprinting"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/IIqzhndKsW", 
+                    "indices": [
+                        107, 
+                        129
+                    ], 
+                    "expanded_url": "http://wp.me/p25h9n-Kz", 
+                    "display_url": "wp.me/p25h9n-Kz"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544360527447998464", 
+        "retweet_count": 6, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+            "in_reply_to_status_id": null, 
+            "id": 544331486271262721, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 9475182, 
+                        "indices": [
+                            40, 
+                            46
+                        ], 
+                        "id_str": "9475182", 
+                        "screen_name": "pycon", 
+                        "name": "PyCon"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            51, 
+                            63
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            64, 
+                            68
+                        ], 
+                        "text": "3dp"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            77
+                        ], 
+                        "text": "blender"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            89
+                        ], 
+                        "text": "3dprinting"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/IIqzhndKsW", 
+                        "indices": [
+                            90, 
+                            112
+                        ], 
+                        "expanded_url": "http://wp.me/p25h9n-Kz", 
+                        "display_url": "wp.me/p25h9n-Kz"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "544331486271262721", 
+            "retweet_count": 6, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "663B12", 
+                "default_profile_image": false, 
+                "id": 485830034, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "profile_sidebar_fill_color": "DAECF4", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/MWxJMtBaZQ", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.caretdashcaret.com", 
+                                "display_url": "caretdashcaret.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 54, 
+                "profile_sidebar_border_color": "C6E2EE", 
+                "id_str": "485830034", 
+                "profile_background_color": "C6E2EE", 
+                "listed_count": 1, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 546, 
+                "description": "", 
+                "friends_count": 84, 
+                "location": "", 
+                "profile_link_color": "1F98C7", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "name": "Jenny", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 56, 
+                "screen_name": "CaretWCaret", 
+                "notifications": false, 
+                "url": "http://t.co/MWxJMtBaZQ", 
+                "created_at": "Tue Feb 07 16:36:34 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 15 03:21:54 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 79615410, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/451448858/michelleful_normal.jpg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 155, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "79615410", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 11, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 319, 
+            "description": "Grad student in linguistics, Python programmer, Language learning addict", 
+            "friends_count": 281, 
+            "location": "Boston", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/451448858/michelleful_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Michelle Fullwood", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 496, 
+            "screen_name": "michelleful", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sun Oct 04 01:38:07 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 15 05:17:18 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @CaretWCaret: Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+        "in_reply_to_status_id": null, 
+        "id": 544334850791329793, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 485830034, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "485830034", 
+                    "screen_name": "CaretWCaret", 
+                    "name": "Jenny"
+                }, 
+                {
+                    "id": 9475182, 
+                    "indices": [
+                        57, 
+                        63
+                    ], 
+                    "id_str": "9475182", 
+                    "screen_name": "pycon", 
+                    "name": "PyCon"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        68, 
+                        80
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        81, 
+                        85
+                    ], 
+                    "text": "3dp"
+                }, 
+                {
+                    "indices": [
+                        86, 
+                        94
+                    ], 
+                    "text": "blender"
+                }, 
+                {
+                    "indices": [
+                        95, 
+                        106
+                    ], 
+                    "text": "3dprinting"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/IIqzhndKsW", 
+                    "indices": [
+                        107, 
+                        129
+                    ], 
+                    "expanded_url": "http://wp.me/p25h9n-Kz", 
+                    "display_url": "wp.me/p25h9n-Kz"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544334850791329793", 
+        "retweet_count": 6, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Learn about 3D Printing using Python at @pycon and @pytennessee #3dp #blender #3dprinting http://t.co/IIqzhndKsW", 
+            "in_reply_to_status_id": null, 
+            "id": 544331486271262721, 
+            "favorite_count": 4, 
+            "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 9475182, 
+                        "indices": [
+                            40, 
+                            46
+                        ], 
+                        "id_str": "9475182", 
+                        "screen_name": "pycon", 
+                        "name": "PyCon"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            51, 
+                            63
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            64, 
+                            68
+                        ], 
+                        "text": "3dp"
+                    }, 
+                    {
+                        "indices": [
+                            69, 
+                            77
+                        ], 
+                        "text": "blender"
+                    }, 
+                    {
+                        "indices": [
+                            78, 
+                            89
+                        ], 
+                        "text": "3dprinting"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/IIqzhndKsW", 
+                        "indices": [
+                            90, 
+                            112
+                        ], 
+                        "expanded_url": "http://wp.me/p25h9n-Kz", 
+                        "display_url": "wp.me/p25h9n-Kz"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "544331486271262721", 
+            "retweet_count": 6, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "663B12", 
+                "default_profile_image": false, 
+                "id": 485830034, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "profile_sidebar_fill_color": "DAECF4", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/MWxJMtBaZQ", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.caretdashcaret.com", 
+                                "display_url": "caretdashcaret.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 54, 
+                "profile_sidebar_border_color": "C6E2EE", 
+                "id_str": "485830034", 
+                "profile_background_color": "C6E2EE", 
+                "listed_count": 1, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 546, 
+                "description": "", 
+                "friends_count": 84, 
+                "location": "", 
+                "profile_link_color": "1F98C7", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1817735165/About5_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439324543/Collage3.jpg", 
+                "name": "Jenny", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 56, 
+                "screen_name": "CaretWCaret", 
+                "notifications": false, 
+                "url": "http://t.co/MWxJMtBaZQ", 
+                "created_at": "Tue Feb 07 16:36:34 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 15 03:21:54 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 2839522524, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/518253318410211328/2Ppe43Dh_normal.png", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 395, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "2839522524", 
+            "profile_background_color": "000000", 
+            "listed_count": 65, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 14718, 
+            "description": "Anonymity + DAOs + Peaceful Parenting = Utopia. Your source of news on the decentralization of everything.", 
+            "friends_count": 124, 
+            "location": "", 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/518253318410211328/2Ppe43Dh_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2839522524/1412396384", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "DarkDAO", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 149, 
+            "screen_name": "Dark_DAOs", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sat Oct 04 02:39:27 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 15 03:35:16 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

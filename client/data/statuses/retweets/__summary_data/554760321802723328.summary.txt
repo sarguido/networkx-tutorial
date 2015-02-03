@@ -1,0 +1,7 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+3	0	0	0	Wed Jan 14 19:30:18 +0000 2015	555446831166291968	CalEvans	45780	396	PyTennessee	0
+3	0	0	0	Wed Jan 14 19:24:50 +0000 2015	555445455031918592	egdelwonk	2041	479	PyTennessee	0
+3	0	0	0	Tue Jan 13 14:07:13 +0000 2015	555003136373686272	byeliad	10518	2035	PyTennessee	0
+3	0	0	0	Tue Jan 13 01:25:04 +0000 2015	554811334995374080	sigmavirus24	12541	7852	PyTennessee	0
+3	0	0	0	Mon Jan 12 22:15:43 +0000 2015	554763681045938179	tateeskew	1169	84	PyTennessee	0
+3	0	0	0	Mon Jan 12 22:10:51 +0000 2015	554762459501039616	jasonamyers	9883	2625	PyTennessee	0

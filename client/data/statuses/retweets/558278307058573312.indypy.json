@@ -1,0 +1,530 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @indypy: can't wait until @PyTennessee or @pyohio? Check out our Saturday miniconf on Python Testing &amp; Debugging in #Indy http://t.co/S5\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 558293014037422080, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 61199090, 
+                    "indices": [
+                        3, 
+                        10
+                    ], 
+                    "id_str": "61199090", 
+                    "screen_name": "indypy", 
+                    "name": "IndyPy"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        29, 
+                        41
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 28032548, 
+                    "indices": [
+                        45, 
+                        52
+                    ], 
+                    "id_str": "28032548", 
+                    "screen_name": "pyohio", 
+                    "name": "PyOhio"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        123, 
+                        128
+                    ], 
+                    "text": "Indy"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/S5jg7zBwRb", 
+                    "indices": [
+                        143, 
+                        144
+                    ], 
+                    "expanded_url": "http://ow.ly/HzH8D", 
+                    "display_url": "ow.ly/HzH8D"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "558293014037422080", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "can't wait until @PyTennessee or @pyohio? Check out our Saturday miniconf on Python Testing &amp; Debugging in #Indy http://t.co/S5jg7zBwRb", 
+            "in_reply_to_status_id": null, 
+            "id": 558278307058573312, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            17, 
+                            29
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }, 
+                    {
+                        "id": 28032548, 
+                        "indices": [
+                            33, 
+                            40
+                        ], 
+                        "id_str": "28032548", 
+                        "screen_name": "pyohio", 
+                        "name": "PyOhio"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            111, 
+                            116
+                        ], 
+                        "text": "Indy"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/S5jg7zBwRb", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://ow.ly/HzH8D", 
+                        "display_url": "ow.ly/HzH8D"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "558278307058573312", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 61199090, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/503958587006124032/LHNzON0x_normal.png", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/3tAHIIyF6s", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://indypy.org", 
+                                "display_url": "indypy.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 168, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "61199090", 
+                "profile_background_color": "535353", 
+                "listed_count": 14, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 199, 
+                "description": "The Indianapolis Python User Group", 
+                "friends_count": 82, 
+                "location": "Indianapolis, IN", 
+                "profile_link_color": "080064", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/503958587006124032/LHNzON0x_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "IndyPy", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 9, 
+                "screen_name": "indypy", 
+                "notifications": false, 
+                "url": "http://t.co/3tAHIIyF6s", 
+                "created_at": "Wed Jul 29 13:53:03 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Thu Jan 22 15:01:35 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 7016472, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000502291303/a8bbdc12ddde9c5aab2924fc3f700004_normal.png", 
+            "profile_sidebar_fill_color": "E0FF92", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/HF6sl5138w", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.simonsolutions.com", 
+                            "display_url": "simonsolutions.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 76, 
+            "profile_sidebar_border_color": "87BC44", 
+            "id_str": "7016472", 
+            "profile_background_color": "9AE4E8", 
+            "listed_count": 8, 
+            "is_translation_enabled": false, 
+            "utc_offset": 0, 
+            "statuses_count": 415, 
+            "description": "Developer of Charity Tracker and Oasis Insight.", 
+            "friends_count": 174, 
+            "location": "Florence, AL", 
+            "profile_link_color": "0000FF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000502291303/a8bbdc12ddde9c5aab2924fc3f700004_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Simon Solutions", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 49, 
+            "screen_name": "SimonSolutions", 
+            "notifications": false, 
+            "url": "http://t.co/HF6sl5138w", 
+            "created_at": "Fri Jun 22 14:34:32 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Dublin", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Jan 22 16:00:01 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @indypy: can't wait until @PyTennessee or @pyohio? Check out our Saturday miniconf on Python Testing &amp; Debugging in #Indy http://t.co/S5\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 558286717187555329, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 61199090, 
+                    "indices": [
+                        3, 
+                        10
+                    ], 
+                    "id_str": "61199090", 
+                    "screen_name": "indypy", 
+                    "name": "IndyPy"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        29, 
+                        41
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 28032548, 
+                    "indices": [
+                        45, 
+                        52
+                    ], 
+                    "id_str": "28032548", 
+                    "screen_name": "pyohio", 
+                    "name": "PyOhio"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        123, 
+                        128
+                    ], 
+                    "text": "Indy"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/S5jg7zBwRb", 
+                    "indices": [
+                        143, 
+                        144
+                    ], 
+                    "expanded_url": "http://ow.ly/HzH8D", 
+                    "display_url": "ow.ly/HzH8D"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "558286717187555329", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "can't wait until @PyTennessee or @pyohio? Check out our Saturday miniconf on Python Testing &amp; Debugging in #Indy http://t.co/S5jg7zBwRb", 
+            "in_reply_to_status_id": null, 
+            "id": 558278307058573312, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            17, 
+                            29
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }, 
+                    {
+                        "id": 28032548, 
+                        "indices": [
+                            33, 
+                            40
+                        ], 
+                        "id_str": "28032548", 
+                        "screen_name": "pyohio", 
+                        "name": "PyOhio"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            111, 
+                            116
+                        ], 
+                        "text": "Indy"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/S5jg7zBwRb", 
+                        "indices": [
+                            117, 
+                            139
+                        ], 
+                        "expanded_url": "http://ow.ly/HzH8D", 
+                        "display_url": "ow.ly/HzH8D"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "558278307058573312", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 61199090, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/503958587006124032/LHNzON0x_normal.png", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/3tAHIIyF6s", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://indypy.org", 
+                                "display_url": "indypy.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 168, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "61199090", 
+                "profile_background_color": "535353", 
+                "listed_count": 14, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 199, 
+                "description": "The Indianapolis Python User Group", 
+                "friends_count": 82, 
+                "location": "Indianapolis, IN", 
+                "profile_link_color": "080064", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/503958587006124032/LHNzON0x_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "IndyPy", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 9, 
+                "screen_name": "indypy", 
+                "notifications": false, 
+                "url": "http://t.co/3tAHIIyF6s", 
+                "created_at": "Wed Jul 29 13:53:03 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Thu Jan 22 15:01:35 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Thu Jan 22 15:35:00 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

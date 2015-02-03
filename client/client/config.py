@@ -44,15 +44,14 @@ RESOURCE = {
         ]
     },
 
-    # -- this only gives back the user's id number; retweets resource is better
-    # 'retweeters': {
-    #     'url': 'statuses/retweeters/ids',
-    #     'filename_fields': ['id', 'cursor'],
-    #     'summary_fields': ['next_cursor', 'ids'],
-    #     'next': {'cursor': 'next_cursor'},
-    #     'data_field': 'ids',
-    #     'summarize': ['ids']
-    # },
+    'retweeters': {
+        'url': 'statuses/retweeters/ids',
+        'filename_fields': ['id', 'cursor'],
+        'summary_fields': ['next_cursor'],
+        'next': {'cursor': 'next_cursor'},
+        'data_field': 'ids',
+        'summarize': ['ids']
+    },
 
     'retweets': {
         'url': 'statuses/retweets/%(id)s',

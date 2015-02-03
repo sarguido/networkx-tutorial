@@ -1,0 +1,278 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @kylewm2: @kylewm2 Also she is giving a talk at @PyTennessee February 8! Do I know anyone else who will be there (@jden415?, @jennifermo\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 552655570172276737, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 19090770, 
+                    "indices": [
+                        3, 
+                        11
+                    ], 
+                    "id_str": "19090770", 
+                    "screen_name": "kylewm2", 
+                    "name": "KyleWm"
+                }, 
+                {
+                    "id": 19090770, 
+                    "indices": [
+                        13, 
+                        21
+                    ], 
+                    "id_str": "19090770", 
+                    "screen_name": "kylewm2", 
+                    "name": "KyleWm"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        51, 
+                        63
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 91704031, 
+                    "indices": [
+                        117, 
+                        125
+                    ], 
+                    "id_str": "91704031", 
+                    "screen_name": "jden415", 
+                    "name": "deprecated jden"
+                }, 
+                {
+                    "id": 13431722, 
+                    "indices": [
+                        128, 
+                        140
+                    ], 
+                    "id_str": "13431722", 
+                    "screen_name": "jennifermontes", 
+                    "name": "Jen Montes"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "552655570172276737", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "@kylewm2 Also she is giving a talk at @PyTennessee February 8! Do I know anyone else who will be there (@jden415?, @jennifermontes?)", 
+            "in_reply_to_status_id": null, 
+            "id": 552645618632388608, 
+            "favorite_count": 1, 
+            "source": "<a href=\"http://kylewm.com\" rel=\"nofollow\">groomsman-kylewm.com</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 19090770, 
+                        "indices": [
+                            0, 
+                            8
+                        ], 
+                        "id_str": "19090770", 
+                        "screen_name": "kylewm2", 
+                        "name": "KyleWm"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            38, 
+                            50
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }, 
+                    {
+                        "id": 91704031, 
+                        "indices": [
+                            104, 
+                            112
+                        ], 
+                        "id_str": "91704031", 
+                        "screen_name": "jden415", 
+                        "name": "deprecated jden"
+                    }, 
+                    {
+                        "id": 13431722, 
+                        "indices": [
+                            115, 
+                            130
+                        ], 
+                        "id_str": "13431722", 
+                        "screen_name": "jennifermontes", 
+                        "name": "Jen Montes"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": "kylewm2", 
+            "id_str": "552645618632388608", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": 19090770, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 19090770, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/560169057606184960/62QinO7S_normal.jpeg", 
+                "profile_sidebar_fill_color": "F3F3F3", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/pAv4DiIMQH", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "expanded_url": "https://kylewm.com", 
+                                "display_url": "kylewm.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/8ddAKLDzi5", 
+                                "indices": [
+                                    82, 
+                                    104
+                                ], 
+                                "expanded_url": "http://Brid.gy", 
+                                "display_url": "Brid.gy"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 124, 
+                "profile_sidebar_border_color": "DFDFDF", 
+                "id_str": "19090770", 
+                "profile_background_color": "EBEBEB", 
+                "listed_count": 12, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 3991, 
+                "description": "heads up: @-replies, favorites, and RTs are backfed to my personal site thanks to http://t.co/8ddAKLDzi5", 
+                "friends_count": 235, 
+                "location": "Bay Area, CA", 
+                "profile_link_color": "990000", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/560169057606184960/62QinO7S_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", 
+                "name": "KyleWm", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 1171, 
+                "screen_name": "kylewm2", 
+                "notifications": false, 
+                "url": "https://t.co/pAv4DiIMQH", 
+                "created_at": "Fri Jan 16 22:51:18 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": "19090770", 
+            "lang": "en", 
+            "created_at": "Wed Jan 07 01:59:17 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Wed Jan 07 02:38:50 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

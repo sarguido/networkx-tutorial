@@ -1,0 +1,230 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @adamfblahblah: @PyTennessee Google Fiber coming to your neighborhood! http://t.co/RH79AbOsmQ", 
+        "in_reply_to_status_id": null, 
+        "id": 560140079927410688, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 50341468, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "50341468", 
+                    "screen_name": "adamfblahblah", 
+                    "name": "Adam Fletcher"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        19, 
+                        31
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "http://t.co/RH79AbOsmQ", 
+                    "indices": [
+                        74, 
+                        96
+                    ], 
+                    "expanded_url": "http://googleblog.blogspot.com/2015/01/google-fiber-new-metro-areas.html", 
+                    "display_url": "googleblog.blogspot.com/2015/01/google\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "560140079927410688", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "@PyTennessee Google Fiber coming to your neighborhood! http://t.co/RH79AbOsmQ", 
+            "in_reply_to_status_id": null, 
+            "id": 560137369924284416, 
+            "favorite_count": 3, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            0, 
+                            12
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "http://t.co/RH79AbOsmQ", 
+                        "indices": [
+                            55, 
+                            77
+                        ], 
+                        "expanded_url": "http://googleblog.blogspot.com/2015/01/google-fiber-new-metro-areas.html", 
+                        "display_url": "googleblog.blogspot.com/2015/01/google\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": "PyTennessee", 
+            "id_str": "560137369924284416", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": 1616492725, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 50341468, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/416643225/1359467_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/MtDQ4J2J2H", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.thesimplelogic.com", 
+                                "display_url": "thesimplelogic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 570, 
+                "profile_sidebar_border_color": "C0DEED", 
+                "id_str": "50341468", 
+                "profile_background_color": "C0DEED", 
+                "listed_count": 40, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 1546, 
+                "description": "I'm a technologist.", 
+                "friends_count": 335, 
+                "location": "California", 
+                "profile_link_color": "0084B4", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/416643225/1359467_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "Adam Fletcher", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 9, 
+                "screen_name": "adamfblahblah", 
+                "notifications": false, 
+                "url": "http://t.co/MtDQ4J2J2H", 
+                "created_at": "Wed Jun 24 15:48:49 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": true, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": "1616492725", 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Tue Jan 27 18:08:50 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue Jan 27 18:19:36 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

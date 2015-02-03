@@ -1,0 +1,476 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: We are thrilled to welcome @nostarch back as Young Coders sponsors! You all are awesome! #python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 543529181007851520, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 17972387, 
+                    "indices": [
+                        44, 
+                        53
+                    ], 
+                    "id_str": "17972387", 
+                    "screen_name": "nostarch", 
+                    "name": "No Starch Press"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        106, 
+                        113
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        114, 
+                        123
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "543529181007851520", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "We are thrilled to welcome @nostarch back as Young Coders sponsors! You all are awesome! #python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 543493859578494976, 
+            "favorite_count": 6, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 17972387, 
+                        "indices": [
+                            27, 
+                            36
+                        ], 
+                        "id_str": "17972387", 
+                        "screen_name": "nostarch", 
+                        "name": "No Starch Press"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            89, 
+                            96
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            106
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "543493859578494976", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Fri Dec 12 19:53:28 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 208876798, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/492013047511146497/yfIrGaq1.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/495018301479612416/Ylzt1fLj_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/lnCDOiqdOx", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.tattdcodemonkey.com", 
+                            "display_url": "tattdcodemonkey.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 211, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "208876798", 
+            "profile_background_color": "1A1B1F", 
+            "listed_count": 12, 
+            "is_translation_enabled": false, 
+            "utc_offset": -25200, 
+            "statuses_count": 2141, 
+            "description": "Software Engineer, aspiring polygot, wannabe maker, coffee snob", 
+            "friends_count": 380, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/495018301479612416/Ylzt1fLj_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/208876798/1398205346", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/492013047511146497/yfIrGaq1.png", 
+            "name": "Rodney Norris", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 620, 
+            "screen_name": "TattdCodeMonkey", 
+            "notifications": false, 
+            "url": "http://t.co/lnCDOiqdOx", 
+            "created_at": "Thu Oct 28 03:07:23 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Mountain Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Dec 12 22:13:49 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: We are thrilled to welcome @nostarch back as Young Coders sponsors! You all are awesome! #python #pytn2015", 
+        "in_reply_to_status_id": null, 
+        "id": 543494120506146817, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 17972387, 
+                    "indices": [
+                        44, 
+                        53
+                    ], 
+                    "id_str": "17972387", 
+                    "screen_name": "nostarch", 
+                    "name": "No Starch Press"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        106, 
+                        113
+                    ], 
+                    "text": "python"
+                }, 
+                {
+                    "indices": [
+                        114, 
+                        123
+                    ], 
+                    "text": "pytn2015"
+                }
+            ], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "543494120506146817", 
+        "retweet_count": 2, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "We are thrilled to welcome @nostarch back as Young Coders sponsors! You all are awesome! #python #pytn2015", 
+            "in_reply_to_status_id": null, 
+            "id": 543493859578494976, 
+            "favorite_count": 6, 
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 17972387, 
+                        "indices": [
+                            27, 
+                            36
+                        ], 
+                        "id_str": "17972387", 
+                        "screen_name": "nostarch", 
+                        "name": "No Starch Press"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            89, 
+                            96
+                        ], 
+                        "text": "python"
+                    }, 
+                    {
+                        "indices": [
+                            97, 
+                            106
+                        ], 
+                        "text": "pytn2015"
+                    }
+                ], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "543493859578494976", 
+            "retweet_count": 2, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Fri Dec 12 19:53:28 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 13553, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/xROdKIC4Sd", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jasonamyers.com", 
+                            "display_url": "jasonamyers.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1035, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "13553", 
+            "profile_background_color": "131516", 
+            "listed_count": 72, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 9884, 
+            "description": "Openstack @Cisco Software Engineer, O'Reilly Author; Book, Coffee, and Cookie Lover; @PyTennessee @Nodevember and @PyNash Co-Organizer", 
+            "friends_count": 165, 
+            "location": "35.727614,-86.338707", 
+            "profile_link_color": "232626", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13553/1398258739", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Jason A Myers", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2625, 
+            "screen_name": "jasonamyers", 
+            "notifications": false, 
+            "url": "http://t.co/xROdKIC4Sd", 
+            "created_at": "Tue Nov 21 16:20:38 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Dec 12 19:54:30 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @adriennefriend: @roguelynn @pycon chin up!! many of us are excited to see you keynote @PyTennessee !!", 
+        "in_reply_to_status_id": null, 
+        "id": 544947312217567233, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 17213939, 
+                    "indices": [
+                        3, 
+                        18
+                    ], 
+                    "id_str": "17213939", 
+                    "screen_name": "adriennefriend", 
+                    "name": "adriennefriend"
+                }, 
+                {
+                    "id": 20639941, 
+                    "indices": [
+                        20, 
+                        30
+                    ], 
+                    "id_str": "20639941", 
+                    "screen_name": "roguelynn", 
+                    "name": "sudo bake me a cake"
+                }, 
+                {
+                    "id": 9475182, 
+                    "indices": [
+                        31, 
+                        37
+                    ], 
+                    "id_str": "9475182", 
+                    "screen_name": "pycon", 
+                    "name": "PyCon"
+                }, 
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        90, 
+                        102
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "544947312217567233", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "@roguelynn @pycon chin up!! many of us are excited to see you keynote @PyTennessee !!", 
+            "in_reply_to_status_id": 544927371183525888, 
+            "id": 544928569500385281, 
+            "favorite_count": 3, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 20639941, 
+                        "indices": [
+                            0, 
+                            10
+                        ], 
+                        "id_str": "20639941", 
+                        "screen_name": "roguelynn", 
+                        "name": "sudo bake me a cake"
+                    }, 
+                    {
+                        "id": 9475182, 
+                        "indices": [
+                            11, 
+                            17
+                        ], 
+                        "id_str": "9475182", 
+                        "screen_name": "pycon", 
+                        "name": "PyCon"
+                    }, 
+                    {
+                        "id": 1616492725, 
+                        "indices": [
+                            70, 
+                            82
+                        ], 
+                        "id_str": "1616492725", 
+                        "screen_name": "PyTennessee", 
+                        "name": "PyTN"
+                    }
+                ], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": "roguelynn", 
+            "id_str": "544928569500385281", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": 20639941, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 17213939, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/558647162817347586/XIszwA1a_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/IdipgXcfeg", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://codingwithkniv.es", 
+                                "display_url": "codingwithkniv.es"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/0uPbdjwUzB", 
+                                "indices": [
+                                    46, 
+                                    68
+                                ], 
+                                "expanded_url": "http://codingwithkniv.es", 
+                                "display_url": "codingwithkniv.es"
+                            }, 
+                            {
+                                "url": "http://t.co/Jk9kP7zPSq", 
+                                "indices": [
+                                    116, 
+                                    138
+                                ], 
+                                "expanded_url": "http://AtlantaVeganGuide.com", 
+                                "display_url": "AtlantaVeganGuide.com"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 570, 
+                "profile_sidebar_border_color": "C0DEED", 
+                "id_str": "17213939", 
+                "profile_background_color": "C0DEED", 
+                "listed_count": 42, 
+                "is_translation_enabled": false, 
+                "utc_offset": -18000, 
+                "statuses_count": 12277, 
+                "description": "cooking, coding, cats... and knives. blogs at http://t.co/0uPbdjwUzB. author of Atlanta's restaurant/resource guide http://t.co/Jk9kP7zPSq", 
+                "friends_count": 440, 
+                "location": "Atlanta GA", 
+                "profile_link_color": "0084B4", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/558647162817347586/XIszwA1a_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "adriennefriend", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 1338, 
+                "screen_name": "adriennefriend", 
+                "notifications": false, 
+                "url": "http://t.co/IdipgXcfeg", 
+                "created_at": "Thu Nov 06 16:30:15 +0000 2008", 
+                "contributors_enabled": false, 
+                "time_zone": "Quito", 
+                "protected": false, 
+                "default_profile": true, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": "20639941", 
+            "lang": "en", 
+            "created_at": "Tue Dec 16 18:54:29 +0000 2014", 
+            "in_reply_to_status_id_str": "544927371183525888", 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 624, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1741, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue Dec 16 20:08:58 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

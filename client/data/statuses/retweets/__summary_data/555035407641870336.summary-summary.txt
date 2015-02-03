@@ -1,0 +1,3 @@
+count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+10	graphstoryco	6	0	0	0	Fri Jan 16 21:14:15 +0000 2015	556197765244813312	901analytics	68	32	graphstoryco|PyTennessee|graphstoryco	neo4j
+10	graphstoryco	6	0	0	0	Tue Jan 13 16:15:46 +0000 2015	555035486050209792	JeremyKendall	13425	2905	graphstoryco|PyTennessee|graphstoryco	neo4j

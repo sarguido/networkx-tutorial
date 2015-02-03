@@ -1,0 +1,369 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @sigmavirus24: Probably the best slide I've ever made #PyTennessee http://t.co/IqfcQV9jx2", 
+        "in_reply_to_status_id": null, 
+        "id": 561940936247500800, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 623301125, 
+                    "indices": [
+                        3, 
+                        16
+                    ], 
+                    "id_str": "623301125", 
+                    "screen_name": "sigmavirus24", 
+                    "name": "RFCs of Futures Past"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        57, 
+                        69
+                    ], 
+                    "text": "PyTennessee"
+                }
+            ], 
+            "urls": [], 
+            "media": [
+                {
+                    "source_user_id": 623301125, 
+                    "source_status_id_str": "559897970624049152", 
+                    "expanded_url": "http://twitter.com/sigmavirus24/status/559897970624049152/photo/1", 
+                    "display_url": "pic.twitter.com/IqfcQV9jx2", 
+                    "url": "http://t.co/IqfcQV9jx2", 
+                    "media_url_https": "https://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png", 
+                    "source_user_id_str": "623301125", 
+                    "source_status_id": 559897970624049152, 
+                    "id_str": "559897969546125312", 
+                    "sizes": {
+                        "small": {
+                            "h": 254, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "large": {
+                            "h": 417, 
+                            "resize": "fit", 
+                            "w": 557
+                        }, 
+                        "medium": {
+                            "h": 417, 
+                            "resize": "fit", 
+                            "w": 557
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        70, 
+                        92
+                    ], 
+                    "type": "photo", 
+                    "id": 559897969546125312, 
+                    "media_url": "http://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "561940936247500800", 
+        "retweet_count": 1, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "Probably the best slide I've ever made #PyTennessee http://t.co/IqfcQV9jx2", 
+            "in_reply_to_status_id": null, 
+            "id": 559897970624049152, 
+            "favorite_count": 8, 
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            39, 
+                            51
+                        ], 
+                        "text": "PyTennessee"
+                    }
+                ], 
+                "urls": [], 
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/sigmavirus24/status/559897970624049152/photo/1", 
+                        "display_url": "pic.twitter.com/IqfcQV9jx2", 
+                        "url": "http://t.co/IqfcQV9jx2", 
+                        "media_url_https": "https://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png", 
+                        "id_str": "559897969546125312", 
+                        "sizes": {
+                            "small": {
+                                "h": 254, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "large": {
+                                "h": 417, 
+                                "resize": "fit", 
+                                "w": 557
+                            }, 
+                            "medium": {
+                                "h": 417, 
+                                "resize": "fit", 
+                                "w": 557
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            52, 
+                            74
+                        ], 
+                        "type": "photo", 
+                        "id": 559897969546125312, 
+                        "media_url": "http://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "559897970624049152", 
+            "retweet_count": 1, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 623301125, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Ek0GDzBQ24", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "expanded_url": "https://github.com/sigmavirus24", 
+                                "display_url": "github.com/sigmavirus24"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 470, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "623301125", 
+                "profile_background_color": "FFFFFF", 
+                "listed_count": 49, 
+                "is_translation_enabled": false, 
+                "utc_offset": -21600, 
+                "statuses_count": 12541, 
+                "description": "Open Sources Many Things: github3.py, betamax, python-requests, requests-toolbelt. I translate ABNF to code as a Service. Box&lt;Opinions&gt; (they are my own)", 
+                "friends_count": 225, 
+                "location": "Madison, WI", 
+                "profile_link_color": "444444", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2356359472/bc0a20bb7dfb550f8e7b8e795f903c03e4154e2c_normal.png", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "name": "RFCs of Futures Past", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 7852, 
+                "screen_name": "sigmavirus24", 
+                "notifications": false, 
+                "url": "https://t.co/Ek0GDzBQ24", 
+                "created_at": "Sun Jul 01 01:35:59 +0000 2012", 
+                "contributors_enabled": false, 
+                "time_zone": "Central Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Tue Jan 27 02:17:33 +0000 2015", 
+            "in_reply_to_status_id_str": null, 
+            "place": null, 
+            "extended_entities": {
+                "media": [
+                    {
+                        "expanded_url": "http://twitter.com/sigmavirus24/status/559897970624049152/photo/1", 
+                        "display_url": "pic.twitter.com/IqfcQV9jx2", 
+                        "url": "http://t.co/IqfcQV9jx2", 
+                        "media_url_https": "https://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png", 
+                        "id_str": "559897969546125312", 
+                        "sizes": {
+                            "small": {
+                                "h": 254, 
+                                "resize": "fit", 
+                                "w": 340
+                            }, 
+                            "large": {
+                                "h": 417, 
+                                "resize": "fit", 
+                                "w": 557
+                            }, 
+                            "medium": {
+                                "h": 417, 
+                                "resize": "fit", 
+                                "w": 557
+                            }, 
+                            "thumb": {
+                                "h": 150, 
+                                "resize": "crop", 
+                                "w": 150
+                            }
+                        }, 
+                        "indices": [
+                            52, 
+                            74
+                        ], 
+                        "type": "photo", 
+                        "id": 559897969546125312, 
+                        "media_url": "http://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png"
+                    }
+                ]
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 623, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1740, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Sun Feb 01 17:35:34 +0000 2015", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "source_user_id": 623301125, 
+                    "source_status_id_str": "559897970624049152", 
+                    "expanded_url": "http://twitter.com/sigmavirus24/status/559897970624049152/photo/1", 
+                    "display_url": "pic.twitter.com/IqfcQV9jx2", 
+                    "url": "http://t.co/IqfcQV9jx2", 
+                    "media_url_https": "https://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png", 
+                    "source_user_id_str": "623301125", 
+                    "source_status_id": 559897970624049152, 
+                    "id_str": "559897969546125312", 
+                    "sizes": {
+                        "small": {
+                            "h": 254, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "large": {
+                            "h": 417, 
+                            "resize": "fit", 
+                            "w": 557
+                        }, 
+                        "medium": {
+                            "h": 417, 
+                            "resize": "fit", 
+                            "w": 557
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        70, 
+                        92
+                    ], 
+                    "type": "photo", 
+                    "id": 559897969546125312, 
+                    "media_url": "http://pbs.twimg.com/media/B8UoPKFCYAAFg1n.png"
+                }
+            ]
+        }
+    }
+]

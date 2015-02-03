@@ -1,0 +1,7 @@
+retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+9	0	0	0	Sun Feb 01 19:58:19 +0000 2015	561976862436384768	waynejwerner	8735	3167	PyTennessee	0
+9	0	0	0	Sun Feb 01 18:47:15 +0000 2015	561958978762969088	adriennefriend	12276	1338	PyTennessee	0
+9	0	0	0	Sun Feb 01 18:24:24 +0000 2015	561953226850045952	kevinold	9774	3216	PyTennessee	0
+9	0	0	0	Sun Feb 01 18:15:23 +0000 2015	561950956695601152	mmcasetti	10612	7262	PyTennessee	0
+9	0	0	0	Sun Feb 01 17:51:00 +0000 2015	561944820034596864	fullstackpython	14	3	PyTennessee	0
+9	0	0	0	Sun Feb 01 17:49:24 +0000 2015	561944419436617728	OssAnna16	487	1326	PyTennessee	0

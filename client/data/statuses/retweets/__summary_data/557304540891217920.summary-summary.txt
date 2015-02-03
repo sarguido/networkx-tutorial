@@ -1,0 +1,3 @@
+count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+1	_gignosko_	0	0	0	0	Mon Jan 19 22:42:42 +0000 2015	557307186653954050	PyTennessee	1740	503	_gignosko_|elegant_stitch|PyTennessee	0
+1	_gignosko_	0	0	0	0	Mon Jan 19 22:42:42 +0000 2015	557307186653954050	PyTennessee	1740	503	_gignosko_|elegant_stitch|PyTennessee	0

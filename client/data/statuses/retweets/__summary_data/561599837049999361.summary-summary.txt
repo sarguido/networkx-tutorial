@@ -1,0 +1,3 @@
+count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
+2	tsclausing	5	0	0	0	Sat Jan 31 19:47:59 +0000 2015	561611871456067584	kieczkowska	270	1784	tsclausing|PyTennessee	0
+2	tsclausing	5	0	0	0	Sat Jan 31 19:00:39 +0000 2015	561599960765190144	PyTennessee	1740	503	tsclausing|PyTennessee	0

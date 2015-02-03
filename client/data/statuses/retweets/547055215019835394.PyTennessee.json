@@ -1,0 +1,784 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: K Lars Lohn (@2braids) and Our Minister of Silly Walks Lamp Post Group (@lamppostgroup) http://t.co/dlXMiWL\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 547058950240501760, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://hijeffho.squarespace.com/\" rel=\"nofollow\">Data Trend</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 11607452, 
+                    "indices": [
+                        45, 
+                        53
+                    ], 
+                    "id_str": "11607452", 
+                    "screen_name": "2braids", 
+                    "name": "K Lars Lohn"
+                }, 
+                {
+                    "id": 296227599, 
+                    "indices": [
+                        104, 
+                        118
+                    ], 
+                    "id_str": "296227599", 
+                    "screen_name": "LampPostGroup", 
+                    "name": "Lamp Post Group"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/dlXMiWLBGL", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://buff.ly/1zVgTP2", 
+                    "display_url": "buff.ly/1zVgTP2"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "547058950240501760", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: K Lars Lohn (@2braids) and Our Minister of Silly Walks Lamp Post Group (@lamppostgroup) http://t.co/dlXMiWLBGL #python", 
+            "in_reply_to_status_id": null, 
+            "id": 547055215019835394, 
+            "favorite_count": 2, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11607452, 
+                        "indices": [
+                            28, 
+                            36
+                        ], 
+                        "id_str": "11607452", 
+                        "screen_name": "2braids", 
+                        "name": "K Lars Lohn"
+                    }, 
+                    {
+                        "id": 296227599, 
+                        "indices": [
+                            87, 
+                            101
+                        ], 
+                        "id_str": "296227599", 
+                        "screen_name": "LampPostGroup", 
+                        "name": "Lamp Post Group"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/dlXMiWLBGL", 
+                        "indices": [
+                            103, 
+                            125
+                        ], 
+                        "expanded_url": "http://buff.ly/1zVgTP2", 
+                        "display_url": "buff.ly/1zVgTP2"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "547055215019835394", 
+            "retweet_count": 3, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 22 15:45:01 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 2888583159, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/536381545682964480/dRHvM5Dr_normal.png", 
+            "profile_sidebar_fill_color": "000000", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 5070, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "2888583159", 
+            "profile_background_color": "000000", 
+            "listed_count": 490, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 95564, 
+            "description": "Love everything about data! #BigData #DataScience #MachineLearning #DataMining #Hadoop #Python #R", 
+            "friends_count": 2725, 
+            "location": "New York, NY", 
+            "profile_link_color": "89C9FA", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/536381545682964480/dRHvM5Dr_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2888583159/1416710253", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Data Geek", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 42927, 
+            "screen_name": "Data88Geek", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sun Nov 23 00:51:15 +0000 2014", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 22 15:59:52 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: K Lars Lohn (@2braids) and Our Minister of Silly Walks Lamp Post Group (@lamppostgroup) http://t.co/dlXMiWL\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 547057729836445696, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 11607452, 
+                    "indices": [
+                        45, 
+                        53
+                    ], 
+                    "id_str": "11607452", 
+                    "screen_name": "2braids", 
+                    "name": "K Lars Lohn"
+                }, 
+                {
+                    "id": 296227599, 
+                    "indices": [
+                        104, 
+                        118
+                    ], 
+                    "id_str": "296227599", 
+                    "screen_name": "LampPostGroup", 
+                    "name": "Lamp Post Group"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/dlXMiWLBGL", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://buff.ly/1zVgTP2", 
+                    "display_url": "buff.ly/1zVgTP2"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "547057729836445696", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: K Lars Lohn (@2braids) and Our Minister of Silly Walks Lamp Post Group (@lamppostgroup) http://t.co/dlXMiWLBGL #python", 
+            "in_reply_to_status_id": null, 
+            "id": 547055215019835394, 
+            "favorite_count": 2, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11607452, 
+                        "indices": [
+                            28, 
+                            36
+                        ], 
+                        "id_str": "11607452", 
+                        "screen_name": "2braids", 
+                        "name": "K Lars Lohn"
+                    }, 
+                    {
+                        "id": 296227599, 
+                        "indices": [
+                            87, 
+                            101
+                        ], 
+                        "id_str": "296227599", 
+                        "screen_name": "LampPostGroup", 
+                        "name": "Lamp Post Group"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/dlXMiWLBGL", 
+                        "indices": [
+                            103, 
+                            125
+                        ], 
+                        "expanded_url": "http://buff.ly/1zVgTP2", 
+                        "display_url": "buff.ly/1zVgTP2"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "547055215019835394", 
+            "retweet_count": 3, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 22 15:45:01 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 13553, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/xROdKIC4Sd", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jasonamyers.com", 
+                            "display_url": "jasonamyers.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1035, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "13553", 
+            "profile_background_color": "131516", 
+            "listed_count": 72, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 9884, 
+            "description": "Openstack @Cisco Software Engineer, O'Reilly Author; Book, Coffee, and Cookie Lover; @PyTennessee @Nodevember and @PyNash Co-Organizer", 
+            "friends_count": 165, 
+            "location": "35.727614,-86.338707", 
+            "profile_link_color": "232626", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13553/1398258739", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Jason A Myers", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2625, 
+            "screen_name": "jasonamyers", 
+            "notifications": false, 
+            "url": "http://t.co/xROdKIC4Sd", 
+            "created_at": "Tue Nov 21 16:20:38 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 22 15:55:01 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @PyTennessee: PyTN Profiles: K Lars Lohn (@2braids) and Our Minister of Silly Walks Lamp Post Group (@lamppostgroup) http://t.co/dlXMiWL\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 547056135879274496, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1616492725, 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "id_str": "1616492725", 
+                    "screen_name": "PyTennessee", 
+                    "name": "PyTN"
+                }, 
+                {
+                    "id": 11607452, 
+                    "indices": [
+                        45, 
+                        53
+                    ], 
+                    "id_str": "11607452", 
+                    "screen_name": "2braids", 
+                    "name": "K Lars Lohn"
+                }, 
+                {
+                    "id": 296227599, 
+                    "indices": [
+                        104, 
+                        118
+                    ], 
+                    "id_str": "296227599", 
+                    "screen_name": "LampPostGroup", 
+                    "name": "Lamp Post Group"
+                }
+            ], 
+            "hashtags": [
+                {
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "text": "python"
+                }
+            ], 
+            "urls": [
+                {
+                    "url": "http://t.co/dlXMiWLBGL", 
+                    "indices": [
+                        139, 
+                        140
+                    ], 
+                    "expanded_url": "http://buff.ly/1zVgTP2", 
+                    "display_url": "buff.ly/1zVgTP2"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "547056135879274496", 
+        "retweet_count": 3, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "PyTN Profiles: K Lars Lohn (@2braids) and Our Minister of Silly Walks Lamp Post Group (@lamppostgroup) http://t.co/dlXMiWLBGL #python", 
+            "in_reply_to_status_id": null, 
+            "id": 547055215019835394, 
+            "favorite_count": 2, 
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [
+                    {
+                        "id": 11607452, 
+                        "indices": [
+                            28, 
+                            36
+                        ], 
+                        "id_str": "11607452", 
+                        "screen_name": "2braids", 
+                        "name": "K Lars Lohn"
+                    }, 
+                    {
+                        "id": 296227599, 
+                        "indices": [
+                            87, 
+                            101
+                        ], 
+                        "id_str": "296227599", 
+                        "screen_name": "LampPostGroup", 
+                        "name": "Lamp Post Group"
+                    }
+                ], 
+                "hashtags": [
+                    {
+                        "indices": [
+                            126, 
+                            133
+                        ], 
+                        "text": "python"
+                    }
+                ], 
+                "urls": [
+                    {
+                        "url": "http://t.co/dlXMiWLBGL", 
+                        "indices": [
+                            103, 
+                            125
+                        ], 
+                        "expanded_url": "http://buff.ly/1zVgTP2", 
+                        "display_url": "buff.ly/1zVgTP2"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "547055215019835394", 
+            "retweet_count": 3, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": false, 
+                "profile_text_color": "333333", 
+                "default_profile_image": false, 
+                "id": 1616492725, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/NbO1HIEfBu", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.pytennessee.org", 
+                                "display_url": "pytennessee.org"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 624, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "1616492725", 
+                "profile_background_color": "F5F6F6", 
+                "listed_count": 39, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 1741, 
+                "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+                "friends_count": 116, 
+                "location": "Nashville, TN", 
+                "profile_link_color": "2FC2EF", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+                "name": "PyTN", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 503, 
+                "screen_name": "PyTennessee", 
+                "notifications": false, 
+                "url": "http://t.co/NbO1HIEfBu", 
+                "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Mon Dec 22 15:45:01 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 89339376, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/555821130590609408/4uENdSEt_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/QtLU62o0KV", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://bwmaker.com", 
+                            "display_url": "bwmaker.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 508, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "89339376", 
+            "profile_background_color": "D6C594", 
+            "listed_count": 40, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 8194, 
+            "description": "Part farm kid, part geek. Husband to Courtney, Software QA @emmaemail, tinkerer, car guy, kale grower, #Linux user, #DigitalRights activist, Carhartt wearer.", 
+            "friends_count": 371, 
+            "location": "Franklin, TN", 
+            "profile_link_color": "ABB8C2", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/555821130590609408/4uENdSEt_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/89339376/1413741909", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Brandon Wanamaker", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 3594, 
+            "screen_name": "_bwmaker", 
+            "notifications": false, 
+            "url": "http://t.co/QtLU62o0KV", 
+            "created_at": "Thu Nov 12 01:31:09 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Mon Dec 22 15:48:41 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

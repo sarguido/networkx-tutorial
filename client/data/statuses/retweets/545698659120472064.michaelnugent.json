@@ -1,0 +1,3312 @@
+[
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545733370614153216, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545733370614153216", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 41309638, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/539511248333709312/2ASDzQJH_normal.png", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 197, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "41309638", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 20, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 17938, 
+            "description": "", 
+            "friends_count": 156, 
+            "location": "", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/539511248333709312/2ASDzQJH_normal.png", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Gizmo Mathboy", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 204, 
+            "screen_name": "gizmomathboy", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Wed May 20 06:25:59 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Quito", 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Fri Dec 19 00:12:29 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545727854642601986, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545727854642601986", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 131752497, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/474213249638858752/vCsDi64l_normal.jpeg", 
+            "profile_sidebar_fill_color": "C0DFEC", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/3QzLr3p2am", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://is.gd/jDBIorz", 
+                            "display_url": "is.gd/jDBIorz"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 678, 
+            "profile_sidebar_border_color": "A8C7F7", 
+            "id_str": "131752497", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 36, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 107095, 
+            "description": "Gamer, foodie, punster, wonk, erudite, whimsical, unabashed, history, news, trivia, music, Mass Effect & California. Comma lover. This bio was written for me.", 
+            "friends_count": 329, 
+            "location": "Neither Here Nor There", 
+            "profile_link_color": "3B94D9", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/474213249638858752/vCsDi64l_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/131752497/1378069947", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", 
+            "name": "JD", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 3198, 
+            "screen_name": "nevesytrof", 
+            "notifications": false, 
+            "url": "http://t.co/3QzLr3p2am", 
+            "created_at": "Sun Apr 11 06:26:18 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 23:50:34 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545727376739409920, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545727376739409920", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 14641720, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436745799599259648/x3gJo1-c.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/550916523896745987/xG6DUyNM_normal.jpeg", 
+            "profile_sidebar_fill_color": "EBEBEB", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/CApvVBowzO", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://dougwt.com", 
+                            "display_url": "dougwt.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 221, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "14641720", 
+            "profile_background_color": "131516", 
+            "listed_count": 17, 
+            "is_translation_enabled": false, 
+            "utc_offset": -28800, 
+            "statuses_count": 15905, 
+            "description": "CS student, builder of webapps, giver of high fives. \r\n\r\nhumor, code/python, tech, gaming, feminism, photography, retweets", 
+            "friends_count": 280, 
+            "location": "Issaquah, WA", 
+            "profile_link_color": "288FC7", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/550916523896745987/xG6DUyNM_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14641720/1400737025", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436745799599259648/x3gJo1-c.jpeg", 
+            "name": "Doug Tyler", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 13865, 
+            "screen_name": "dougwt", 
+            "notifications": false, 
+            "url": "http://t.co/CApvVBowzO", 
+            "created_at": "Sat May 03 21:34:43 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Pacific Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 23:48:40 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545725933588471808, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545725933588471808", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 31861252, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808138199/a582cdac8073817fe9dcf9304c68db24.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000663435316/c2f0a1cec65a599eaf9afecece9a020f_normal.jpeg", 
+            "profile_sidebar_fill_color": "FFFFFF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/82MVDGmqC7", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.kathleenrobertson.ca", 
+                            "display_url": "kathleenrobertson.ca"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 75, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "31861252", 
+            "profile_background_color": "FFFFFF", 
+            "listed_count": 0, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 3039, 
+            "description": "Web designer and/or professional toddler.", 
+            "friends_count": 108, 
+            "location": "Edmonton", 
+            "profile_link_color": "00C7AC", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000663435316/c2f0a1cec65a599eaf9afecece9a020f_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/31861252/1422224364", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808138199/a582cdac8073817fe9dcf9304c68db24.png", 
+            "name": "Kathleen Robertson", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 279, 
+            "screen_name": "Kroberrtsonn", 
+            "notifications": false, 
+            "url": "http://t.co/82MVDGmqC7", 
+            "created_at": "Thu Apr 16 14:55:15 +0000 2009", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 23:42:56 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545716552612339712, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545716552612339712", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 7301112, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472182722140467200/Gylx06L9.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2952871581/ec4fa634925b80de887e7c8fb4f1f908_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/lr5WcC14nG", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://chipwarden.name", 
+                            "display_url": "chipwarden.name"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 204, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "7301112", 
+            "profile_background_color": "DC322F", 
+            "listed_count": 8, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 1645, 
+            "description": "Software craftsman, Pythonista, Rubyist, UNIX/Linux aficionado, science fiction fan, @lgw4 on adn.\nAll programmers should learn C.", 
+            "friends_count": 336, 
+            "location": "Kansas City, Missouri USA", 
+            "profile_link_color": "DC322F", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2952871581/ec4fa634925b80de887e7c8fb4f1f908_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/7301112/1401412262", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472182722140467200/Gylx06L9.jpeg", 
+            "name": "Chip Warden", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 782, 
+            "screen_name": "lgw4", 
+            "notifications": false, 
+            "url": "http://t.co/lr5WcC14nG", 
+            "created_at": "Fri Jul 06 20:36:50 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 23:05:39 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545704239931334656, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545704239931334656", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "666666", 
+            "default_profile_image": false, 
+            "id": 165758218, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000089814574/dd2d88c910f8884ad001ba71d396968b.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/517939047704952832/DtTdfVDK_normal.jpeg", 
+            "profile_sidebar_fill_color": "252429", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/0iQzaAoL6B", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.gingercoder.com", 
+                            "display_url": "gingercoder.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 259, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "165758218", 
+            "profile_background_color": "1A1B1F", 
+            "listed_count": 17, 
+            "is_translation_enabled": false, 
+            "utc_offset": 0, 
+            "statuses_count": 14367, 
+            "description": "\u00dcbergeek,Dad,Linux lover,Hacker, Musician,Christian,Author,Ginger,Married to @rach_trotter;Application Developer Support @ffA_GeoTeric;CoDirector @tohumuna", 
+            "friends_count": 242, 
+            "location": "Teesside and Tyneside", 
+            "profile_link_color": "000000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/517939047704952832/DtTdfVDK_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/165758218/1398344817", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000089814574/dd2d88c910f8884ad001ba71d396968b.png", 
+            "name": "Rick Trotter", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 53, 
+            "screen_name": "tskynet", 
+            "notifications": false, 
+            "url": "http://t.co/0iQzaAoL6B", 
+            "created_at": "Mon Jul 12 13:23:31 +0000 2010", 
+            "contributors_enabled": false, 
+            "time_zone": "London", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 22:16:44 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545701638087135233, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545701638087135233", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 13553, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/xROdKIC4Sd", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.jasonamyers.com", 
+                            "display_url": "jasonamyers.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1035, 
+            "profile_sidebar_border_color": "EEEEEE", 
+            "id_str": "13553", 
+            "profile_background_color": "131516", 
+            "listed_count": 72, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 9884, 
+            "description": "Openstack @Cisco Software Engineer, O'Reilly Author; Book, Coffee, and Cookie Lover; @PyTennessee @Nodevember and @PyNash Co-Organizer", 
+            "friends_count": 165, 
+            "location": "35.727614,-86.338707", 
+            "profile_link_color": "232626", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/556977228610035712/S733x3v9_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/13553/1398258739", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Jason A Myers", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 2625, 
+            "screen_name": "jasonamyers", 
+            "notifications": false, 
+            "url": "http://t.co/xROdKIC4Sd", 
+            "created_at": "Tue Nov 21 16:20:38 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 22:06:23 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545701602196467712, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545701602196467712", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 1616492725, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/NbO1HIEfBu", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.pytennessee.org", 
+                            "display_url": "pytennessee.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 624, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "1616492725", 
+            "profile_background_color": "F5F6F6", 
+            "listed_count": 39, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 1741, 
+            "description": "A regional Python conference being held in Nashville, TN February 6th-8th, 2015", 
+            "friends_count": 116, 
+            "location": "Nashville, TN", 
+            "profile_link_color": "2FC2EF", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/460579028949159936/acN-FmRD_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", 
+            "name": "PyTN", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 503, 
+            "screen_name": "PyTennessee", 
+            "notifications": false, 
+            "url": "http://t.co/NbO1HIEfBu", 
+            "created_at": "Wed Jul 24 01:02:21 +0000 2013", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 22:06:15 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545701364639092736, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545701364639092736", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 242536500, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000083374264/d432057d4c24c3c4b7477e283b26cf4f.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/528436719855497219/rWqPCViZ_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/Xk7W388vNE", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://applifebalance.com", 
+                            "display_url": "applifebalance.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 949, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "242536500", 
+            "profile_background_color": "000000", 
+            "listed_count": 48, 
+            "is_translation_enabled": false, 
+            "utc_offset": 39600, 
+            "statuses_count": 29566, 
+            "description": "iOS Professional, Meditator, Tea Enthusiast, PWNc", 
+            "friends_count": 983, 
+            "location": "Sydney, Australia", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/528436719855497219/rWqPCViZ_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/242536500/1398404387", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000083374264/d432057d4c24c3c4b7477e283b26cf4f.jpeg", 
+            "name": "Adam Iredale", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 23673, 
+            "screen_name": "iosengineer", 
+            "notifications": false, 
+            "url": "http://t.co/Xk7W388vNE", 
+            "created_at": "Tue Jan 25 00:48:19 +0000 2011", 
+            "contributors_enabled": false, 
+            "time_zone": "Sydney", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 22:05:18 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545700639511023616, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545700639511023616", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 10376902, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/149543387/x03dd167fb663f28735f6127c0038a4a.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/553270956131508224/O62BQSYt_normal.jpeg", 
+            "profile_sidebar_fill_color": "D8E4E6", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/aaJTuMAv8Y", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://randomgeekery.org", 
+                            "display_url": "randomgeekery.org"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1137, 
+            "profile_sidebar_border_color": "A9CDD6", 
+            "id_str": "10376902", 
+            "profile_background_color": "C2BCAA", 
+            "listed_count": 74, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 22589, 
+            "description": "Not tall. Crafty (Knitting Cooking Drawing) Seattle (Coffee Yuppies Rain) geek (Python Perl Ruby JavaScript) - email? my name at gmail", 
+            "friends_count": 1858, 
+            "location": "Seattle, WA", 
+            "profile_link_color": "3E3AAB", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/553270956131508224/O62BQSYt_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10376902/1421553714", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/149543387/x03dd167fb663f28735f6127c0038a4a.png", 
+            "name": "brian wisti", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 10645, 
+            "screen_name": "brianwisti", 
+            "notifications": false, 
+            "url": "http://t.co/aaJTuMAv8Y", 
+            "created_at": "Mon Nov 19 07:40:48 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 22:02:25 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545700333935394817, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545700333935394817", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 952919180, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2859193750/a878d270df155fad5e99f969459a75ae_normal.jpeg", 
+            "profile_sidebar_fill_color": "DDEEF6", 
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 1959, 
+            "profile_sidebar_border_color": "C0DEED", 
+            "id_str": "952919180", 
+            "profile_background_color": "C0DEED", 
+            "listed_count": 34, 
+            "is_translation_enabled": false, 
+            "utc_offset": null, 
+            "statuses_count": 26033, 
+            "description": "Booze. Bacon. Broads.", 
+            "friends_count": 2125, 
+            "location": "Ottawa,Ontario", 
+            "profile_link_color": "0084B4", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2859193750/a878d270df155fad5e99f969459a75ae_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/952919180/1353130164", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+            "name": "Ottawa Uncensored", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 14318, 
+            "screen_name": "OttUncensored", 
+            "notifications": false, 
+            "url": null, 
+            "created_at": "Sat Nov 17 04:30:51 +0000 2012", 
+            "contributors_enabled": false, 
+            "time_zone": null, 
+            "protected": false, 
+            "default_profile": true, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 22:01:12 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545699879155011585, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545699879155011585", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "000000", 
+            "default_profile_image": false, 
+            "id": 5485582, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000087386023/5c443b311da1a9e5c94fb5c00cfd5fcc.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1622232466/image_normal.jpg", 
+            "profile_sidebar_fill_color": "EFF5FF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/jW8FS6cxRW", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://joaquin.windmuller.ca/", 
+                            "display_url": "joaquin.windmuller.ca"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/lXG7Y5JO1I", 
+                            "indices": [
+                                95, 
+                                117
+                            ], 
+                            "expanded_url": "http://Fictionesque.com", 
+                            "display_url": "Fictionesque.com"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 479, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "5485582", 
+            "profile_background_color": "E7E2D6", 
+            "listed_count": 47, 
+            "is_translation_enabled": false, 
+            "utc_offset": -25200, 
+            "statuses_count": 9285, 
+            "description": "Developer. Always working on it.\r\nYou may remember me for the creation of TinyFurniture.ca and http://t.co/lXG7Y5JO1I", 
+            "friends_count": 461, 
+            "location": "Calgary, AB", 
+            "profile_link_color": "002A2D", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1622232466/image_normal.jpg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000087386023/5c443b311da1a9e5c94fb5c00cfd5fcc.png", 
+            "name": "Joaqu\u00edn Windm\u00fcller", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1016, 
+            "screen_name": "joaquin_win", 
+            "notifications": false, 
+            "url": "http://t.co/jW8FS6cxRW", 
+            "created_at": "Wed Apr 25 03:04:02 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Mountain Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 21:59:24 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545699429907722243, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545699429907722243", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 15746419, 
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/481688065753104385/j5lu1aDQ_normal.png", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/7XxRrEhA2W", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://about.me/just3ws", 
+                            "display_url": "about.me/just3ws"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/MQSty5HLZP", 
+                            "indices": [
+                                81, 
+                                103
+                            ], 
+                            "expanded_url": "http://about.me/just3ws", 
+                            "display_url": "about.me/just3ws"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 1102, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "15746419", 
+            "profile_background_color": "03324E", 
+            "listed_count": 56, 
+            "is_translation_enabled": false, 
+            "utc_offset": -21600, 
+            "statuses_count": 29640, 
+            "description": "I'm available for remote Ruby work (contract | full-time). I've got more info at http://t.co/MQSty5HLZP :)", 
+            "friends_count": 518, 
+            "location": "Tech communities everywhere.", 
+            "profile_link_color": "D61D29", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/481688065753104385/j5lu1aDQ_normal.png", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15746419/1402024034", 
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", 
+            "name": "Mike Hall", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 1952, 
+            "screen_name": "just3ws", 
+            "notifications": false, 
+            "url": "http://t.co/7XxRrEhA2W", 
+            "created_at": "Wed Aug 06 05:12:17 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Central Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 21:57:37 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545699234327302144, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545699234327302144", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": true, 
+            "profile_text_color": "333333", 
+            "default_profile_image": false, 
+            "id": 15087660, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/500282892258267136/njVdwXGc.jpeg", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/561750820052824065/CLMxI-5k_normal.jpeg", 
+            "profile_sidebar_fill_color": "999999", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/BpRGg64iho", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://careers.stackoverflow.com/jacoby", 
+                            "display_url": "careers.stackoverflow.com/jacoby"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": []
+                }
+            }, 
+            "followers_count": 945, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "15087660", 
+            "profile_background_color": "14B34B", 
+            "listed_count": 46, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 40451, 
+            "description": "Developer. Guitar Player. Music lover. Maker. Startup Weekend Organizer. Jackrabbit. Boilermaker. A Standing-Desk Guy. The ESPN guy is @DJacoby, not me.", 
+            "friends_count": 1681, 
+            "location": "Restful", 
+            "profile_link_color": "14B34B", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/561750820052824065/CLMxI-5k_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": true, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15087660/1417667907", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/500282892258267136/njVdwXGc.jpeg", 
+            "name": "Ed Crawdad Banjo Ivy", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 7030, 
+            "screen_name": "JacobyDave", 
+            "notifications": false, 
+            "url": "http://t.co/BpRGg64iho", 
+            "created_at": "Wed Jun 11 18:39:55 +0000 2008", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 21:56:50 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @michaelnugent: *hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you star\u2026", 
+        "in_reply_to_status_id": null, 
+        "id": 545699148494667776, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 1965381, 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "id_str": "1965381", 
+                    "screen_name": "michaelnugent", 
+                    "name": "Michael Nugent"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "id_str": "545699148494667776", 
+        "retweet_count": 15, 
+        "in_reply_to_user_id": null, 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": false, 
+            "text": "*hands over an oatmeal cookie*\n\n\u201cSir, this isn\u2019t a r\u00e9sum\u00e9.\u201d\n\n*hands over another oatmeal cookie*\n\n\u201cHow soon can you start?\u201d", 
+            "in_reply_to_status_id": null, 
+            "id": 545698659120472064, 
+            "favorite_count": 16, 
+            "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": []
+            }, 
+            "in_reply_to_screen_name": null, 
+            "id_str": "545698659120472064", 
+            "retweet_count": 15, 
+            "in_reply_to_user_id": null, 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "profile_use_background_image": true, 
+                "profile_text_color": "666666", 
+                "default_profile_image": false, 
+                "id": 1965381, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "verified": false, 
+                "profile_location": null, 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "profile_sidebar_fill_color": "252429", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9WYGN8cVQc", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://www.nugentic.com", 
+                                "display_url": "nugentic.com"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 812, 
+                "profile_sidebar_border_color": "000000", 
+                "id_str": "1965381", 
+                "profile_background_color": "1A1B1F", 
+                "listed_count": 57, 
+                "is_translation_enabled": false, 
+                "utc_offset": -28800, 
+                "statuses_count": 23886, 
+                "description": "Coffee \u00bb Photography \u00bb Design\n\nnugent.michael@gmail.com \u00bb +1 (424) 258-0321", 
+                "friends_count": 2001, 
+                "location": "West Coast", 
+                "profile_link_color": "636363", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/546447929536311296/hODrqhf0_normal.png", 
+                "following": false, 
+                "geo_enabled": true, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965381/1400884902", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450037270746124288/cIQArV0H.png", 
+                "name": "Michael Nugent", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 45856, 
+                "screen_name": "michaelnugent", 
+                "notifications": false, 
+                "url": "http://t.co/9WYGN8cVQc", 
+                "created_at": "Fri Mar 23 02:00:48 +0000 2007", 
+                "contributors_enabled": false, 
+                "time_zone": "Pacific Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "lang": "en", 
+            "created_at": "Thu Dec 18 21:54:33 +0000 2014", 
+            "in_reply_to_status_id_str": null, 
+            "place": {
+                "full_name": "Riley Park, Vancouver", 
+                "url": "https://api.twitter.com/1.1/geo/id/0197c8ec51301158.json", 
+                "country": "Canada", 
+                "place_type": "neighborhood", 
+                "bounding_box": {
+                    "type": "Polygon", 
+                    "coordinates": [
+                        [
+                            [
+                                -123.118536, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.232862
+                            ], 
+                            [
+                                -123.0896928, 
+                                49.256912
+                            ], 
+                            [
+                                -123.118536, 
+                                49.256912
+                            ]
+                        ]
+                    ]
+                }, 
+                "contained_within": [], 
+                "country_code": "CA", 
+                "attributes": {}, 
+                "id": "0197c8ec51301158", 
+                "name": "Riley Park"
+            }
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "profile_use_background_image": false, 
+            "profile_text_color": "424141", 
+            "default_profile_image": false, 
+            "id": 65583, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/90616269/funbike.png", 
+            "verified": false, 
+            "profile_location": null, 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/498316701499281410/buBCGTka_normal.jpeg", 
+            "profile_sidebar_fill_color": "B8B8B8", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/zaWPmM4cv5", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://funkatron.com", 
+                            "display_url": "funkatron.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/skQU77KcFs", 
+                            "indices": [
+                                70, 
+                                92
+                            ], 
+                            "expanded_url": "http://OSMIhelp.org", 
+                            "display_url": "OSMIhelp.org"
+                        }, 
+                        {
+                            "url": "http://t.co/IkbTdGDiYR", 
+                            "indices": [
+                                106, 
+                                128
+                            ], 
+                            "expanded_url": "http://devhell.info", 
+                            "display_url": "devhell.info"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 6891, 
+            "profile_sidebar_border_color": "000000", 
+            "id_str": "65583", 
+            "profile_background_color": "000000", 
+            "listed_count": 663, 
+            "is_translation_enabled": false, 
+            "utc_offset": -18000, 
+            "statuses_count": 74617, 
+            "description": "Dork, Dad, JS, PHP & Python feller, FOSS nerd. Mental Health advocate http://t.co/skQU77KcFs. Podcasts at http://t.co/IkbTdGDiYR. See also @funkalinks", 
+            "friends_count": 569, 
+            "location": "West Lafayette, IN, USA", 
+            "profile_link_color": "660000", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/498316701499281410/buBCGTka_normal.jpeg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65583/1398873835", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/90616269/funbike.png", 
+            "name": "Ed Finkler", 
+            "lang": "en", 
+            "profile_background_tile": false, 
+            "favourites_count": 7762, 
+            "screen_name": "funkatron", 
+            "notifications": false, 
+            "url": "http://t.co/zaWPmM4cv5", 
+            "created_at": "Thu Dec 14 00:31:16 +0000 2006", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Thu Dec 18 21:56:30 +0000 2014", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

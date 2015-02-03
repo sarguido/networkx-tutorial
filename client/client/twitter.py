@@ -6,6 +6,7 @@ import urllib
 from data import DataAPI
 
 HTTP_STATUS_OKAY = '200'
+HTTP_RATE_LIMIT_EXCEEDED = '429'
 
 class TwitterAPI(object):
 
@@ -117,6 +118,10 @@ class TwitterAPI(object):
 
         if header['status'] <> HTTP_STATUS_OKAY:
             print header['status'], response
+
+            if header['status'] == HTTP_RATE_LIMIT_EXCEEDED:
+                exit(1)
+
             return None
         else:
             return json.loads(response)
