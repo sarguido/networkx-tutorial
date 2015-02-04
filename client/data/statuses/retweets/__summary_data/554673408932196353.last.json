@@ -1,8 +1,0 @@
-{
-    "params": {
-        "retweeted_status|user|screen_name": "lisafrench"
-    }, 
-    "result": {
-        "num_items": 10
-    }
-}

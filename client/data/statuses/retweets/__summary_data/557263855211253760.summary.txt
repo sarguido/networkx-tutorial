@@ -1,3 +1,0 @@
-retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-2	0	0	0	Mon Jan 19 22:50:54 +0000 2015	557309253342347264	IndySecNorth	43	2	indypy|PyTennessee|pyohio	Indy
-2	0	0	0	Mon Jan 19 19:55:03 +0000 2015	557264996426842112	PyTennessee	1740	503	indypy|PyTennessee|pyohio	Indy

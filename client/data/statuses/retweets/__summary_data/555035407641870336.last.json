@@ -1,8 +1,0 @@
-{
-    "params": {
-        "retweeted_status|user|screen_name": "graphstoryco"
-    }, 
-    "result": {
-        "num_items": 10
-    }
-}

@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-2	PyTennessee	4	0	0	0	Thu Jan 29 18:21:26 +0000 2015	560865318117994497	jenkimmel	65	21	PyTennessee|OReillyMedia	python|PyTN2015
-2	PyTennessee	4	0	0	0	Thu Jan 29 15:29:38 +0000 2015	560822081038737409	poweredbyaltnet	13567	561	PyTennessee|OReillyMedia	python|PyTN2015

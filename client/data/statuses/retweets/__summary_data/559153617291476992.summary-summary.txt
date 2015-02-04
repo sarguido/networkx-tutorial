@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-5	poweredbyaltnet	9	0	0	0	Sun Jan 25 04:17:07 +0000 2015	559203287598374912	lotusr00t	2931	176	poweredbyaltnet	python
-5	poweredbyaltnet	9	0	0	0	Sun Jan 25 01:05:33 +0000 2015	559155077358059521	PyTennessee	1740	503	poweredbyaltnet	python

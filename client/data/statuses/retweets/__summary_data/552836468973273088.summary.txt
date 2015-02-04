@@ -1,2 +1,0 @@
-retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-2	0	0	0	Wed Jan 07 14:37:58 +0000 2015	552836547322462208	sigmavirus24	12541	7852	PyTennessee|sigmavirus24|Jonplussed|twopoint718	0

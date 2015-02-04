@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-10	lisafrench	7	0	0	0	Mon Jan 12 23:37:30 +0000 2015	554784263678480384	pbrumm	549	473	lisafrench	0
-10	lisafrench	7	0	0	0	Mon Jan 12 16:18:19 +0000 2015	554673737879289857	cpound	2497	1577	lisafrench	0

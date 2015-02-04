@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-2	PyTennessee	4	0	0	0	Tue Jan 13 04:16:08 +0000 2015	554854384148807682	binarydud	11266	81	PyTennessee	0
-2	PyTennessee	4	0	0	0	Mon Jan 12 21:58:57 +0000 2015	554759462473699329	_phred	4069	1036	PyTennessee	0

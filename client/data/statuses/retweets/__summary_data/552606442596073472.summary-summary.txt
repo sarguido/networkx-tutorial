@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-12	kcunning	1	0	0	0	Wed Jan 07 02:07:05 +0000 2015	552647579008520193	mj_langford	7037	3884	kcunning|OReillyMedia	0
-12	kcunning	1	0	0	0	Tue Jan 06 23:23:53 +0000 2015	552606508585070592	craigkerstiens	11355	230	kcunning|OReillyMedia	0

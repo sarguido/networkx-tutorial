@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-2	egdelwonk	2	0	0	0	Fri Jan 09 03:43:45 +0000 2015	553396684571824129	PyTennessee	1740	503	egdelwonk|emmaemail	0
-2	egdelwonk	2	0	0	0	Fri Jan 09 03:43:45 +0000 2015	553396684550860800	jasonamyers	9883	2625	egdelwonk|emmaemail	0

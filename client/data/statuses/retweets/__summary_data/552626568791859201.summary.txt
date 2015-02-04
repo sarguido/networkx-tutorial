@@ -1,8 +1,0 @@
-retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-6	0	0	0	Thu Jan 29 19:05:13 +0000 2015	560876336127172609	akobep	1800	45	PyTennessee	python|pytn2015
-6	0	0	0	Thu Jan 29 19:03:13 +0000 2015	560875829983711232	pirosb3	1317	13	PyTennessee	python|pytn2015
-6	0	0	0	Thu Jan 29 18:52:43 +0000 2015	560873188499140608	Jeff88Ho	116151	41545	PyTennessee	python|pytn2015
-6	0	0	0	Thu Jan 29 18:51:23 +0000 2015	560872853227065344	OReillyMedia	25470	6918	PyTennessee	python|pytn2015
-6	0	0	0	Wed Jan 07 03:29:36 +0000 2015	552668347939053569	adriennefriend	12276	1338	PyTennessee	python|pytn2015
-6	0	0	0	Wed Jan 07 00:59:40 +0000 2015	552630613321474048	CoderFaire	1306	0	PyTennessee	python|pytn2015
-6	0	0	0	Wed Jan 07 00:47:31 +0000 2015	552627556722421760	jasonamyers	9883	2625	PyTennessee	python|pytn2015

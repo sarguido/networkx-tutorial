@@ -1,2 +1,0 @@
-retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-2	0	0	0	Sun Feb 01 17:43:53 +0000 2015	561943031641690112	claco	31735	474	PyTennessee	0

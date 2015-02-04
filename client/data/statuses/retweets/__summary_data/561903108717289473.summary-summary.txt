@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-10	OReillyMedia	5	0	0	0	Sun Feb 01 20:23:06 +0000 2015	561983098989330435	poweredbyaltnet	13567	561	OReillyMedia|PyTennessee	0
-10	OReillyMedia	5	0	0	0	Sun Feb 01 15:44:58 +0000 2015	561913103001321472	_bwmaker	8194	3595	OReillyMedia|PyTennessee	0

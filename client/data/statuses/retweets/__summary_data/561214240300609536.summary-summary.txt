@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-2	PyTennessee	3	0	0	0	Sat Jan 31 18:34:19 +0000 2015	561593332523343872	RickMurdock	1954	92	PyTennessee	LiveMusic|NotCountry|PyTN2015
-2	PyTennessee	3	0	0	0	Fri Jan 30 17:31:21 +0000 2015	561215100364025856	jasonamyers	9883	2625	PyTennessee	LiveMusic|NotCountry|PyTN2015

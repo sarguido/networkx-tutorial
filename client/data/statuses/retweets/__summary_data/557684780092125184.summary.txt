@@ -1,4 +1,0 @@
-retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-1	0	0	0	Wed Jan 21 19:17:48 +0000 2015	557980398433882112	byeliad	10518	2035	elegant_stitch|PyTennessee	0
-1	0	0	0	Tue Jan 20 23:51:18 +0000 2015	557686838232907780	jasonamyers	9883	2625	elegant_stitch|PyTennessee	0
-1	0	0	0	Tue Jan 20 23:44:47 +0000 2015	557685200415895553	PyTennessee	1740	503	elegant_stitch|PyTennessee	0

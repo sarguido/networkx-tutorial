@@ -1,3 +1,0 @@
-count	filename	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-22		Sat Dec 13 13:02:43 +0000 2014	543752879883182080	zonanancy	1736	250	celiala|nycpython|nyuniversity	HourOfCode
-22		Wed Dec 03 12:47:58 +0000 2014	540125287212912640	gshackles	14402	620	celiala|nycpython|nyuniversity	HourOfCode

@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-15	PyTennessee	8	0	0	0	Thu Jan 15 03:14:58 +0000 2015	555563765555793920	ErinMPage	3491	1273	PyTennessee|pyladies	python
-15	PyTennessee	8	0	0	0	Wed Jan 14 17:52:01 +0000 2015	555422097418096640	jasonamyers	9883	2625	PyTennessee|pyladies	python

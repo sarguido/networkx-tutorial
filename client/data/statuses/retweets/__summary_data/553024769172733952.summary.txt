@@ -1,2 +1,0 @@
-retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-5	0	0	0	Thu Jan 08 04:31:40 +0000 2015	553046353694031872	pyrsonwho	28	17	PyTennessee	python|pytn2015

@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-4	PyTennessee	3	0	0	0	Fri Jan 09 05:16:07 +0000 2015	553419929269989376	dkador	4374	299	PyTennessee|understandig|SimonSolutions	python|pytn2015|RunningLate
-4	PyTennessee	3	0	0	0	Fri Jan 09 03:16:00 +0000 2015	553389700690771968	Data88Geek	95212	42918	PyTennessee|understandig|SimonSolutions	python|pytn2015|RunningLate

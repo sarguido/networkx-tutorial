@@ -1,3 +1,0 @@
-count	filename	retweeted_status|favorite_count	favorite_count	favorited	user|follower_count	created_at	id	user|screen_name	user|statuses_count	user|favourites_count	entities|user_mentions|screen_name	entities|hashtags|text
-27	paltman	2	0	0	0	Fri Jan 23 16:09:45 +0000 2015	558657848650256385	mtrier	15239	1360	paltman|eldarion	0
-27	paltman	2	0	0	0	Sat Jan 17 10:25:24 +0000 2015	556396862744576001	iElectric	7164	1401	paltman|eldarion	0
