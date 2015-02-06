@@ -25,7 +25,7 @@ Twitter Network Analysis with NetworkX
     * C: retweets, statuses
 
 Twitter Stuff:
-* C how to get your Twitter API tokens
+* ~~C how to get your Twitter API tokens~~
 * C: basic script to make the API calls
 * C libs needed: oauth2
 
