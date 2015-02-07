@@ -3,7 +3,7 @@ Twitter Network Analysis with NetworkX
 
 ### Sarah and Celia's Todo list:
 
-* C: NetworkX part1: nodes, edges, attributes:
+* ~~C: NetworkX part1: nodes, edges, attributes:~~
 * C: NetworkX part2: exporting and importing data:
     (exporting is good so that attendees can see what their end json-data processing format should look like)
 * C: NetworkX part3: types of graphs:
