@@ -5,16 +5,16 @@ Twitter Network Analysis with NetworkX
 
 * ~~C: NetworkX part1: nodes, edges, attributes:~~
 * ~~C: NetworkX part2: exporting and importing data:
-    (exporting is good so that attendees can see what their end json-data processing format should look like)~~
-* ~~C: NetworkX part3: types of graphs:~~ .. actually, this is covered in Exporting/Importing a little
+    *(exporting is good so that attendees can see what their end json-data processing format should look like)*~~
+* ~~C: NetworkX part3: types of graphs:~~ .. **somewhat covered in Exporting/Importing to NetworkX graph**
     - ~~undirected, directed~~
 
-* ~~using NetworkX/matplotlib to plot stuff:~~ ... actually, this is covered in NetworkX, part 1
+* ~~using NetworkX/matplotlib to plot stuff:~~ ... **covered in NetworkX, part 1**
     - ~~C: basics: how to set edge and node sizes~~
 
 * C: clean up PyTN retweet/status data, make simplier data manip scripts just for the tutorial
 
-* ~~the relevant Twitter API calls that we'll use to grab the data:~~ ... actually, this is mostly covered in Step 2 -- Calling the Twitter API (in /notebooks/twitter/)
+* ~~the relevant Twitter API calls that we'll use to grab the data:~~ **mostly covered in Step 2 -- Calling the Twitter API (in /notebooks/twitter/)**
     * ~~S: friends, followers~~
     * ~~C: retweets, statuses~~
 * how to get the json payloads, and get them into a format that NetworkX can import:
