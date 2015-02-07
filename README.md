@@ -20,9 +20,18 @@ Twitter Network Analysis with NetworkX
 * how to get the json payloads, and get them into a format that NetworkX can import:
     * S: friends, followers
     * C: retweets, statuses
+        - write simple python scripts that would have grabbed the data from Twitter
+        - clean up the retweet and user_timeline json files:
+            - put them in one consolidated folder
+        - write scripts to extract just the data we want, and format it into a JSON format
+          that we can use to import into NetworkX
 * using networkx & matplotlib to display data:
     * S: friends, followers
     * C: retweets, statuses
+        - figure out how to cleanly display the data (to cut out the noise)
+            - make edges with only 1 retweet slightly opaque
+        - can I make different colored fonts for each node?
+        - do I want a directed graph here? or does it not matter?
 
 Twitter Stuff:
 * ~~C how to get your Twitter API tokens~~
