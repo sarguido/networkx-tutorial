@@ -9,8 +9,8 @@ Twitter Network Analysis with NetworkX
 * C: NetworkX part3: types of graphs:
     - undirected, directed
 
-* using NetworkX/matplotlib to plot stuff:
-    - C: basics: how to set edge and node sizes
+* ~~using NetworkX/matplotlib to plot stuff:~~ ... actually, this is covered in NetworkX, part 1
+    - ~~C: basics: how to set edge and node sizes~~
 
 * C: clean up PyTN retweet/status data, make simplier data manip scripts just for the tutorial
 
