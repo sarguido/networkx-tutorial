@@ -15,8 +15,8 @@ Twitter Network Analysis with NetworkX
 * C: clean up PyTN retweet/status data, make simplier data manip scripts just for the tutorial
 
 * ~~the relevant Twitter API calls that we'll use to grab the data:~~ ... actually, this is mostly covered in Step 2 -- Calling the Twitter API (in /notebooks/twitter/)
-    ~~* S: friends, followers~~
-    ~~* C: retweets, statuses~~
+    * ~~S: friends, followers~~
+    * ~~C: retweets, statuses~~
 * how to get the json payloads, and get them into a format that NetworkX can import:
     * S: friends, followers
     * C: retweets, statuses
