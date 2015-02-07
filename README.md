@@ -26,7 +26,7 @@ Twitter Network Analysis with NetworkX
 
 Twitter Stuff:
 * ~~C how to get your Twitter API tokens~~
-* C: basic script to make the API calls
+* ~~C: basic script to make the API calls~~
 * C libs needed: oauth2
 
 * S: installation instructions:
