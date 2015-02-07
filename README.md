@@ -7,7 +7,7 @@ Twitter Network Analysis with NetworkX
 * ~~C: NetworkX part2: exporting and importing data:
     (exporting is good so that attendees can see what their end json-data processing format should look like)~~
 * ~~C: NetworkX part3: types of graphs:~~ .. actually, this is covered in Exporting/Importing a little
-    ~~- undirected, directed~~
+    - ~~undirected, directed~~
 
 * ~~using NetworkX/matplotlib to plot stuff:~~ ... actually, this is covered in NetworkX, part 1
     - ~~C: basics: how to set edge and node sizes~~
