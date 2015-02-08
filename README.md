@@ -1,47 +1,40 @@
-# networkx-tutorial
-Twitter Network Analysis with NetworkX 
+# Options for running
 
-### Sarah and Celia's Todo list:
+### Option 0: Install Anaconda.
 
-* ~~C: NetworkX part1: nodes, edges, attributes:~~
-* ~~C: NetworkX part2: exporting and importing data:
-    *(exporting is good so that attendees can see what their end json-data processing format should look like)*~~
-* ~~C: NetworkX part3: types of graphs:~~ .. **somewhat covered in Exporting/Importing to NetworkX graph**
-    - ~~undirected, directed~~
+If you haven't installed Anaconda, go here: https://store.continuum.io/cshop/anaconda/ This will install everything that you need.
 
-* ~~using NetworkX/matplotlib to plot stuff:~~ ... **covered in NetworkX, part 1**
-    - ~~C: basics: how to set edge and node sizes~~
+### Option 0.5: pip
 
-* C: clean up PyTN retweet/status data, make simplier data manip scripts just for the tutorial
+If you don't want to install Anaconda, open the terminal and run the following commands:
 
-* ~~the relevant Twitter API calls that we'll use to grab the data:~~ **mostly covered in Step 2 -- Calling the Twitter API (in /notebooks/twitter/)**
-    * ~~S: friends, followers~~
-    * ~~C: retweets, statuses~~
-* how to get the json payloads, and get them into a format that NetworkX can import:
-    * S: friends, followers
-    * C: retweets, statuses
-        - write simple python scripts that would have grabbed the data from Twitter
-        - clean up the retweet and user_timeline json files:
-            - put them in one consolidated folder
-        - write scripts to extract just the data we want, and format it into a JSON format
-          that we can use to import into NetworkX
-* using networkx & matplotlib to display data:
-    * S: friends, followers
-    * C: retweets, statuses
-        - figure out how to cleanly display the data (to cut out the noise)
-            - make edges with only 1 retweet slightly opaque
-        - can I make different colored fonts for each node?
-        - do I want a directed graph here? or does it not matter?
+<code>pip install networkx</code>
+<code>pip install matplotlib</code>
+<code>pip install "ipython[all]"</code>
 
-Twitter Stuff:
-* ~~C how to get your Twitter API tokens~~
-* ~~C: basic script to make the API calls~~
-* C libs needed: oauth2
+### Option 1: IPython Notebook
 
-* S: installation instructions:
-    - different ways of following along
-    - libs needed for PyTN: networkx, json, malplotlib (warn that this takes a while)
-    - libs needed for Twitter: oauth2 (can just put this on the Twitter post-tutorial ipynb)
+If you have installed a distribution like Anaconda or Enthought, or if you pip installed from above, you have IPython notebook. To run IPython notebook and to follow along:
 
-If there's time:
-* C: get last 20% of retweet data (but we'll be okay w/o it)
+- git clone this repo OR download it as a zip and unzip it to your Desktop
+- open the terminal/command line and cd into networkx-tutorial/notebooks
+- in your terminal, type: <code>ipython notebook</code> 
+
+### Option 2: Wakari.io
+
+Wakari.io is a platform for web-based Python data analysis. It also allows you to host IPython Notebooks online and share them so people can run IPython Notebook in the browser. To sign up for Wakari:
+
+- go here https://www.wakari.io/
+- when you register, it might give you a message that "we're at capacity for this plan" or something. Ignore it and click on the Wakari logo in the top left corner.
+- Then, click this link: https://wakari.io/sharing/bundle/sarguido89/twitter-networkx
+- Click on "run/edit this notebook"
+- It might say "404: Not Found". That's okay! On the left, double click on "notebooks", and then on the notebook you want to open.
+- You might have to open, close, and reopen files several times to get them to open.
+
+### Option 4: Follow along on the web
+
+If none of these options work, or you just want to watch now and code later, you can follow along below. It's not interactive, but you'll be able to see what's happening.
+
+- NetworkX: http://nbviewer.ipython.org/github/sarguido/networkx-tutorial/blob/master/notebooks/networkx/NetworkX%2C%20Part%201%20--%20nodes%2C%20edges%2C%20attributes.ipynb
+- Twitter lesson: http://nbviewer.ipython.org/github/sarguido/networkx-tutorial/blob/master/notebooks/lesson/twitter_networks.ipynb
+- Visualization: http://nbviewer.ipython.org/github/sarguido/networkx-tutorial/blob/master/notebooks/networkx/NetworkX%20-%20Visualizations.ipynb
