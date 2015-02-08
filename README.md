@@ -1,18 +1,20 @@
-# Options for running
+# Options for installation and running
 
 ### Option 0: Install Anaconda.
 
 If you haven't installed Anaconda, go here: https://store.continuum.io/cshop/anaconda/ This will install everything that you need.
 
-### Option 0.5: pip
+### Option 1: pip
 
 If you don't want to install Anaconda, open the terminal and run the following commands:
 
-<code>pip install networkx</code>
-<code>pip install matplotlib</code>
-<code>pip install "ipython[all]"</code>
+- <code>pip install networkx</code>
+- <code>pip install matplotlib</code>
+- <code>pip install "ipython[all]"</code>
 
-### Option 1: IPython Notebook
+Continue to option 2.
+
+### Option 2: IPython Notebook
 
 If you have installed a distribution like Anaconda or Enthought, or if you pip installed from above, you have IPython notebook. To run IPython notebook and to follow along:
 
@@ -20,7 +22,7 @@ If you have installed a distribution like Anaconda or Enthought, or if you pip i
 - open the terminal/command line and cd into networkx-tutorial/notebooks
 - in your terminal, type: <code>ipython notebook</code> 
 
-### Option 2: Wakari.io
+### Option 3: Wakari.io
 
 Wakari.io is a platform for web-based Python data analysis. It also allows you to host IPython Notebooks online and share them so people can run IPython Notebook in the browser. To sign up for Wakari:
 
