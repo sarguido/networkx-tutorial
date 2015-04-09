@@ -1,3 +1,5 @@
+## Slides can be found here: [Network theory slides](http://www.slideshare.net/SarahGuido/network-theory-pycon)
+
 # Options for installation
 
 ### Option 1: Install Anaconda.
