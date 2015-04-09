@@ -13,7 +13,7 @@ If you don't want to install Anaconda, open the terminal and run the following c
 - <code>pip install "ipython[all]"</code>
 - <code>pip install oauth2</code>
 
-# Options for installation
+# Options for running
 
 ### Option 1: IPython Notebook
 
@@ -42,5 +42,5 @@ To sign up for Wakari:
 
 If none of these options work, or you just want to watch now and code later, you can follow along below. It's not interactive, but you'll be able to see what's happening.
 
-For the tutorial section: http://nbviewer.ipython.org/github/sarguido/networkx-tutorial/blob/master/notebooks/tutorial.ipynb
-For the lesson section: http://nbviewer.ipython.org/github/sarguido/networkx-tutorial/blob/master/notebooks/lesson.ipynb
+- For the tutorial section: http://nbviewer.ipython.org/github/sarguido/networkx-tutorial/blob/master/notebooks/tutorial.ipynb
+- For the lesson section: http://nbviewer.ipython.org/github/sarguido/networkx-tutorial/blob/master/notebooks/lesson.ipynb
